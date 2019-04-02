@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>admin &#8211; Association ECD Sartrouville</title>
+	<atom:link href="http://ecd-sartrouville.fr/author/admin/feed" rel="self" type="application/rss+xml" />
+	<link>http://ecd-sartrouville.fr</link>
+	<description>Accompagnement scolaire</description>
+	<lastBuildDate>Thu, 21 Mar 2019 12:09:28 +0000</lastBuildDate>
+	<language>fr-FR</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.10</generator>
+	<item>
+		<title>Le Journal de Sartrouville Octobre 2014</title>
+		<link>http://ecd-sartrouville.fr/le-journal-de-sartrouville-octobre-2014-486.html</link>
+		<pubDate>Wed, 01 Oct 2014 13:45:29 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Articles de presse]]></category>
+
+		<guid isPermaLink="false">http://ecd-sartrouville.fr/?p=486</guid>
+		<description><![CDATA[]]></description>
+		</item>
+		<item>
+		<title>BT Bike Ride : plus de 7 000€ collectés pour ECD !</title>
+		<link>http://ecd-sartrouville.fr/bt-bike-ride-plus-de-7-000e-collectes-pour-ecd-sartrouville-22.html</link>
+		<pubDate>Tue, 23 Sep 2014 01:25:22 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[À la une]]></category>
+
+		<guid isPermaLink="false">http://ecd-sartrouville.fr/?p=22</guid>
+		<description><![CDATA[Le départ de la BT Bike Ride a eu lieu mardi 16 septembre 2014 devant le siège de la société British Telecom France à La Défense, en présence de nombreux salariés de l’entreprises, du maire de Sartrouville Monsieur Pierre FOND, et de représentants d’HP, partenaire de la course, ainsi que des associations ECD Sartrouville et&#8230;]]></description>
+		</item>
+		<item>
+		<title>Un projet d’entreprise sportif avec la BT Bike Ride 2014</title>
+		<link>http://ecd-sartrouville.fr/un-projet-dentreprise-sportif-avec-la-bt-bike-ride-2014-26.html</link>
+		<pubDate>Thu, 18 Sep 2014 01:41:38 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[À la une]]></category>
+
+		<guid isPermaLink="false">http://ecd-sartrouville.fr/?p=26</guid>
+		<description><![CDATA[Les entreprises se mobilisent  pour soutenir l’Association ECD. Grâce à des salariés motivés et engagés, elles forment également une communauté dynamique de sportifs solidaires à l’instar du projet de la société British Telecom. Une action d’envergure British Telecom est l’un des principaux fournisseurs mondiaux de solutions et de services de communication, actif dans 170 pays. En France, l’entreprise organise pour la première&#8230;]]></description>
+		</item>
+		<item>
+		<title>Le Journal de Sartrouville Juillet 2014</title>
+		<link>http://ecd-sartrouville.fr/journal-de-sartrouville-264.html</link>
+		<pubDate>Tue, 15 Jul 2014 13:35:54 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Articles de presse]]></category>
+
+		<guid isPermaLink="false">http://ecd-sartrouville.fr/?p=264</guid>
+		<description><![CDATA[]]></description>
+		</item>
+		<item>
+		<title>Sartrouville Magazine Janvier 2014</title>
+		<link>http://ecd-sartrouville.fr/sartrouville-le-mag-266.html</link>
+		<pubDate>Wed, 01 Jan 2014 13:30:57 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Articles de presse]]></category>
+
+		<guid isPermaLink="false">http://ecd-sartrouville.fr/?p=266</guid>
+		<description><![CDATA[]]></description>
+		</item>
+		<item>
+		<title>L’inauguration des locaux de l’association ECD Sartrouville</title>
+		<link>http://ecd-sartrouville.fr/une-foule-considerable-se-pressait-ce-11-decembre-2013-pour-linauguration-des-locaux-de-lassociation-ecd-sartrouville-43.html</link>
+		<pubDate>Sun, 15 Dec 2013 01:53:18 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[À la une]]></category>
+
+		<guid isPermaLink="false">http://ecd-sartrouville.fr/?p=43</guid>
+		<description><![CDATA[Une foule d&#8217;invités se pressait pour l’inauguration des locaux de l’association ECD, ce 11 décembre 2013. L’association a été fondée en 1999 pour la première fois à Villeneuve-la-Garenne (92) au coeur de la cité. Quinze ans après, six jeunes cadres sartrouvillois ont voulu étendre ce dispositif à Sartrouville. Lutter contre l&#8217;échec scolaire Le projet a été&#8230;]]></description>
+		</item>
+	</channel>
+</rss>

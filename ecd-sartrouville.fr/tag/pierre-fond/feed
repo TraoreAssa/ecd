@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Pierre Fond &#8211; Association ECD Sartrouville</title>
+	<atom:link href="http://ecd-sartrouville.fr/tag/pierre-fond/feed" rel="self" type="application/rss+xml" />
+	<link>http://ecd-sartrouville.fr</link>
+	<description>Accompagnement scolaire</description>
+	<lastBuildDate>Thu, 21 Mar 2019 12:09:28 +0000</lastBuildDate>
+	<language>fr-FR</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.10</generator>
+	<item>
+		<title>Les enfants d’ECD commémorent le 8 Mai 45 : interview du maire de Sartrouville Pierre Fond</title>
+		<link>http://ecd-sartrouville.fr/les-enfants-decd-commemorent-le-8-mai-45-interview-du-maire-de-sartrouville-pierre-fond-807.html</link>
+		<pubDate>Mon, 08 May 2017 17:38:22 +0000</pubDate>
+		<dc:creator><![CDATA[Sarah Hamdi]]></dc:creator>
+				<category><![CDATA[À la une]]></category>
+		<category><![CDATA[citoyenneté]]></category>
+		<category><![CDATA[Pierre Fond]]></category>
+		<category><![CDATA[valeurs de la République]]></category>
+
+		<guid isPermaLink="false">http://ecd-sartrouville.fr/?p=807</guid>
+		<description><![CDATA[Une délégation d’élèves de l’association ECD Sartrouville a participé à la commémoration. En compagnie du maire de la ville et d’élus officiels, nos collégiens ont, à nouveau, honoré la mémoire des morts pour la France. Enfants, familles sartrouvilloises, anciens combattants, officiels… Ensemble, ils ont célébré la victoire des Hommes libres sur une idéologie totalitaire, ce&#8230;]]></description>
+		</item>
+		<item>
+		<title>Les élèves d’ECD commémorent le 11 Novembre en présence d’officiels</title>
+		<link>http://ecd-sartrouville.fr/les-eleves-decd-commemorent-le-11-novembre-en-presence-dofficiels-341.html</link>
+		<pubDate>Fri, 01 Jan 2016 22:23:00 +0000</pubDate>
+		<dc:creator><![CDATA[Sarah Hamdi]]></dc:creator>
+				<category><![CDATA[À la une]]></category>
+		<category><![CDATA[11 Novembre]]></category>
+		<category><![CDATA[anciens combattants]]></category>
+		<category><![CDATA[citoyenneté]]></category>
+		<category><![CDATA[Commémoration]]></category>
+		<category><![CDATA[devoir de mémoire]]></category>
+		<category><![CDATA[ECD Sa]]></category>
+		<category><![CDATA[Guerre Mondiale]]></category>
+		<category><![CDATA[hommage]]></category>
+		<category><![CDATA[Pierre Fond]]></category>
+		<category><![CDATA[soldats]]></category>
+		<category><![CDATA[Stéphane Grauvogel]]></category>
+
+		<guid isPermaLink="false">http://ecd-sartrouville.fr/?p=341</guid>
+		<description><![CDATA[Hommage, mémoire et recueillement. Les enfants d’ECD Sartrouville ont commémoré l’armistice de 1918 en présence du maire de Sartrouville Pierre Fond et du sous-préfet de Saint-Germain-en-Laye Stéphane Grauvogel, ce mercredi 11 novembre 2015. Accompagnés des membres de l’association, ces jeunes sartrouvillois ont pu aller à la rencontre d’anciens combattants et partager ce moment d’émotion avec&#8230;]]></description>
+		</item>
+		<item>
+		<title>Une cérémonie de remise des diplômes riche en émotions</title>
+		<link>http://ecd-sartrouville.fr/une-ceremonie-de-remise-des-diplomes-riche-en-emotions-372.html</link>
+		<pubDate>Fri, 01 Jan 2016 22:16:41 +0000</pubDate>
+		<dc:creator><![CDATA[Sarah Hamdi]]></dc:creator>
+				<category><![CDATA[À la une]]></category>
+		<category><![CDATA[accompagnement scolaire]]></category>
+		<category><![CDATA[attentat de janvier]]></category>
+		<category><![CDATA[British Telecom]]></category>
+		<category><![CDATA[BT Ride Bike]]></category>
+		<category><![CDATA[ECD Sartrouville]]></category>
+		<category><![CDATA[héros de l'Hyper Cacher]]></category>
+		<category><![CDATA[Jérôme Boillot]]></category>
+		<category><![CDATA[Lassana Bathily]]></category>
+		<category><![CDATA[Londres]]></category>
+		<category><![CDATA[maire de sartrouville]]></category>
+		<category><![CDATA[Pierre Fond]]></category>
+		<category><![CDATA[remise des diplômes]]></category>
+		<category><![CDATA[soutien scolaire]]></category>
+
+		<guid isPermaLink="false">http://ecd-sartrouville.fr/?p=372</guid>
+		<description><![CDATA[Le maire de Sartrouville Pierre Fond, la direction de British Telecom (BT) et le héros Lassana Bathily ont participé à la cérémonie de remise de diplômes de l’association ECD Sartrouville, ce 16 juin 2015. Il y a quelques mois, les collaborateurs de BT en France se sont mobilisés autour du challenge sportif et caritatif BT&#8230;]]></description>
+		</item>
+	</channel>
+</rss>

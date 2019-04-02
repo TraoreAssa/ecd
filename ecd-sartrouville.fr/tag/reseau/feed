@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>réseau &#8211; Association ECD Sartrouville</title>
+	<atom:link href="http://ecd-sartrouville.fr/tag/reseau/feed" rel="self" type="application/rss+xml" />
+	<link>http://ecd-sartrouville.fr</link>
+	<description>Accompagnement scolaire</description>
+	<lastBuildDate>Thu, 21 Mar 2019 12:09:28 +0000</lastBuildDate>
+	<language>fr-FR</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.10</generator>
+	<item>
+		<title>Carlos Montes d&#8217;Enedis éclaire nos élèves sur les métiers de l’électricité</title>
+		<link>http://ecd-sartrouville.fr/carlos-montes-derdf-eclaire-nos-eleves-sur-les-metiers-de-lelectricite-561.html</link>
+		<pubDate>Tue, 29 Mar 2016 17:49:50 +0000</pubDate>
+		<dc:creator><![CDATA[Sarah Hamdi]]></dc:creator>
+				<category><![CDATA[À la une]]></category>
+		<category><![CDATA[Carlos Montes]]></category>
+		<category><![CDATA[chargé d'affaires]]></category>
+		<category><![CDATA[Compteur Linky]]></category>
+		<category><![CDATA[ECD Sartrouville]]></category>
+		<category><![CDATA[électricité]]></category>
+		<category><![CDATA[Enedis]]></category>
+		<category><![CDATA[Orientation]]></category>
+		<category><![CDATA[réseau]]></category>
+
+		<guid isPermaLink="false">http://ecd-sartrouville.fr/?p=561</guid>
+		<description><![CDATA[Réseaux électriques, éoliennes, énergies vertes… Les élèves d’ECD ont pu poser toutes leurs questions sur le secteur de l’électricité à Carlos Montes, directeur adjoint à la Direction Territorial Yvelines d&#8217;ENEDIS ex-ERDF. « Il y a une multitude de métiers différents dans le secteur de l&#8217;électricité ». C&#8217;est ce qu’est venu expliquer Carlos Montes, directeur adjoint à la&#8230;]]></description>
+		</item>
+	</channel>
+</rss>

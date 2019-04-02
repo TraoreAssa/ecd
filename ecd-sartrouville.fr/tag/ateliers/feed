@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>ateliers &#8211; Association ECD Sartrouville</title>
+	<atom:link href="http://ecd-sartrouville.fr/tag/ateliers/feed" rel="self" type="application/rss+xml" />
+	<link>http://ecd-sartrouville.fr</link>
+	<description>Accompagnement scolaire</description>
+	<lastBuildDate>Thu, 21 Mar 2019 12:09:28 +0000</lastBuildDate>
+	<language>fr-FR</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.10</generator>
+	<item>
+		<title>Intensives ECD pendant vacances de printemps</title>
+		<link>http://ecd-sartrouville.fr/intensives-ecd-pendant-vacances-de-printemps-1184.html</link>
+		<pubDate>Wed, 25 Apr 2018 15:40:56 +0000</pubDate>
+		<dc:creator><![CDATA[Sarah Hamdi]]></dc:creator>
+				<category><![CDATA[À la une]]></category>
+		<category><![CDATA[ateliers]]></category>
+		<category><![CDATA[brevet national]]></category>
+		<category><![CDATA[révisions]]></category>
+
+		<guid isPermaLink="false">http://ecd-sartrouville.fr/?p=1184</guid>
+		<description><![CDATA[📚📖🎒📘🎒 Les inscrits à ECDSartrouville mettent à nouveau à profit ces vacances scolaires. Coup de pouce renforcé ! Au programme : remise à niveau, ateliers d’approfondissement et révisions notamment pour préparer les épreuves du Brevet National.]]></description>
+		</item>
+	</channel>
+</rss>

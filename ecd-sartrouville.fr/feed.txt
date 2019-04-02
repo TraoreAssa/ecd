@@ -1,0 +1,276 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Association ECD Sartrouville</title>
+	<atom:link href="http://ecd-sartrouville.fr/feed" rel="self" type="application/rss+xml" />
+	<link>http://ecd-sartrouville.fr</link>
+	<description>Accompagnement scolaire</description>
+	<lastBuildDate>Thu, 21 Mar 2019 12:09:28 +0000</lastBuildDate>
+	<language>fr-FR</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.10</generator>
+	<item>
+		<title>#8Mars Visite du Sénat, projection-débat et  rencontre la sénatrice Laurence Rossignol</title>
+		<link>http://ecd-sartrouville.fr/8mars-visite-du-senat-projection-debat-et-rencontre-la-senatrice-laurence-rossignol-1252.html</link>
+		<pubDate>Fri, 08 Mar 2019 17:55:00 +0000</pubDate>
+		<dc:creator><![CDATA[Sarah Hamdi]]></dc:creator>
+				<category><![CDATA[À la une]]></category>
+		<category><![CDATA[droits des femmes]]></category>
+		<category><![CDATA[Jardin du Luxembourg]]></category>
+		<category><![CDATA[Laurence Rossignol]]></category>
+		<category><![CDATA[projection-débat]]></category>
+		<category><![CDATA[Sénat]]></category>
+
+		<guid isPermaLink="false">http://ecd-sartrouville.fr/?p=1252</guid>
+		<description><![CDATA[[#8Mars] Une délégation de collégiennes d&#8217;ECD étaient au Sénat. Un après-midi chargé où elles ont pu visiter le #Sénat, assister à une projection, rencontrer la sénatrice Laurence Rossignol et passer aux Jardins du Luxembourg ! Que de premières pour nos collégiennes ! 🎥🎥 Toutes nous ont fait part de leur émotion après la projection/débat du&#8230;]]></description>
+		</item>
+		<item>
+		<title>Avec son initiative “Réussir son stage”, ECD Sartrouville mobilise son réseau d’entreprises</title>
+		<link>http://ecd-sartrouville.fr/avec-son-initiative-reussir-son-stage-ecd-sartrouville-mobilise-son-reseau-dentreprises-1258.html</link>
+		<pubDate>Thu, 21 Feb 2019 12:07:19 +0000</pubDate>
+		<dc:creator><![CDATA[Sarah Hamdi]]></dc:creator>
+				<category><![CDATA[À la une]]></category>
+		<category><![CDATA[accompagnement scolaire]]></category>
+		<category><![CDATA[coaching]]></category>
+		<category><![CDATA[entreprises]]></category>
+		<category><![CDATA[métiers]]></category>
+		<category><![CDATA[Orientation]]></category>
+		<category><![CDATA[réseaux professionnel]]></category>
+		<category><![CDATA[Réussir son stage]]></category>
+		<category><![CDATA[stage de 3e]]></category>
+
+		<guid isPermaLink="false">http://ecd-sartrouville.fr/?p=1258</guid>
+		<description><![CDATA[[#Stage 3e] 🎒📚📙ECD, UNE PASSERELLE ENTRE L&#8217;ÉCOLE ET LE MONDE DU TRAVAIL 💼 Avec son initiative “Réussir son stage”, ECD Sartrouville a mobilisé son réseau d’entreprises pour les jeunes de Sartrouville. Nous avons mis en place, avec l’ensemble de nos partenaires issus du monde de l’entreprise. Cette action vise à permettre à des jeunes Sartrouvillois&#8230;]]></description>
+		</item>
+		<item>
+		<title>Meriem Serhane, ingénieure : « L’école est une opportunité pour tout le monde de réussir »</title>
+		<link>http://ecd-sartrouville.fr/meriem-serhane-ingenieure-lecole-est-une-opportunite-pour-tout-le-monde-de-reussir-1240.html</link>
+		<pubDate>Sat, 09 Feb 2019 12:48:15 +0000</pubDate>
+		<dc:creator><![CDATA[Sarah Hamdi]]></dc:creator>
+				<category><![CDATA[À la une]]></category>
+		<category><![CDATA[coaching]]></category>
+		<category><![CDATA[confiance en soi]]></category>
+		<category><![CDATA[Droits et Devoirs]]></category>
+		<category><![CDATA[entreprises]]></category>
+		<category><![CDATA[ingénieur]]></category>
+		<category><![CDATA[métiers]]></category>
+		<category><![CDATA[Orientation]]></category>
+
+		<guid isPermaLink="false">http://ecd-sartrouville.fr/?p=1240</guid>
+		<description><![CDATA[[#COACHING] « L’école est une opportunité pour tout le monde de réussir et concrétiser les projets et les rêves que nous avons. C’est une chance incroyable pour tout le monde, mais, bien sûr, pour y arriver cela suppose du travail ». Meriam Serhane est venue présenter son métier à ECD Sartrouville. 💻À 33 ans, l&#8217;ingénieure,&#8230;]]></description>
+		</item>
+		<item>
+		<title>ECD Sartrouville organise un Forum des métiers en partenariat avec le groupe international Tata Communications</title>
+		<link>http://ecd-sartrouville.fr/ecd-sartrouville-organise-un-forum-des-metiers-en-partenariat-avec-le-groupe-international-tata-communications-1231.html</link>
+		<pubDate>Wed, 26 Sep 2018 21:49:00 +0000</pubDate>
+		<dc:creator><![CDATA[Sarah Hamdi]]></dc:creator>
+				<category><![CDATA[À la une]]></category>
+		<category><![CDATA[Orientation]]></category>
+
+		<guid isPermaLink="false">http://ecd-sartrouville.fr/?p=1231</guid>
+		<description><![CDATA[L’association ECD Sartrouville ouvre sa rentrée 2018-2019 avec un événement sur le thème de l&#8217;emploi. Depuis sa création, ECD met un point d&#8217;honneur à soutenir ses jeunes inscrits dans leurs choix d&#8217;orientation et à les accompagner vers des parcours de réussite. Dans cette optique, nous avons organisé avec l&#8217;entreprise internationale TATA Communications un Forum des&#8230;]]></description>
+		</item>
+		<item>
+		<title>#SORTONS DU QUARTIER ! Découverte de Paris en Péniche</title>
+		<link>http://ecd-sartrouville.fr/sortons-du-quartier-decouverte-de-paris-en-peniche-1228.html</link>
+		<pubDate>Sat, 30 Jun 2018 20:49:33 +0000</pubDate>
+		<dc:creator><![CDATA[Sarah Hamdi]]></dc:creator>
+				<category><![CDATA[À la une]]></category>
+
+		<guid isPermaLink="false">http://ecd-sartrouville.fr/?p=1228</guid>
+		<description><![CDATA[[#CULTURE POUR TOUS] 📚🚢🌞 L&#8217;association ECD Sartrouville est heureuse d&#8217;avoir permis à ses jeunes de découvrir Paris autrement et de sortir du quartier. 🔴 Nos enfants ont été récompensés de leurs efforts tout au long de l&#8217;année par cette balade culturelle de Paris, en péniche, lors de notre sortie de fin d&#8217;année. ✅ECD Sartrouville, ce&#8230;]]></description>
+		</item>
+		<item>
+		<title>Bilan de Progression 2018 : Réunion parents-profs d’ECD Sartrouville</title>
+		<link>http://ecd-sartrouville.fr/bilan-de-progression-2018-reunion-parents-profs-decd-sartrouville-1200.html</link>
+		<pubDate>Mon, 25 Jun 2018 21:52:45 +0000</pubDate>
+		<dc:creator><![CDATA[Sarah Hamdi]]></dc:creator>
+				<category><![CDATA[À la une]]></category>
+		<category><![CDATA[bilan]]></category>
+		<category><![CDATA[éducation]]></category>
+
+		<guid isPermaLink="false">http://ecd-sartrouville.fr/?p=1200</guid>
+		<description><![CDATA[Chaque trimestre de l’année scolaire, ECD Sartrouville organise une réunion parents-professeurs. Le moment de dresser le bilan du 3e trimestre, mais aussi de l’année, pour nos collégiens. Des parents heureux et émus. “Je ne sais pas comment j&#8217;aurais fait avec mon enfant s&#8217;il n&#8217;y avait pas eu ECD&#8230; Merci à vous tous” c&#8217;est en ces&#8230;]]></description>
+		</item>
+		<item>
+		<title>Les enfants d’ECD commémorent le 18 Juin 40</title>
+		<link>http://ecd-sartrouville.fr/les-enfants-decd-commemorent-le-18-juin-40-1210.html</link>
+		<pubDate>Mon, 18 Jun 2018 16:44:19 +0000</pubDate>
+		<dc:creator><![CDATA[Sarah Hamdi]]></dc:creator>
+				<category><![CDATA[À la une]]></category>
+
+		<guid isPermaLink="false">http://ecd-sartrouville.fr/?p=1210</guid>
+		<description><![CDATA[#Module de Citoyenneté Jean Moulin, De Gaulle au Square Jules Ferry… Les enfants d’ECD commémorent le 18 Juin 40. “Le 18 juin 1940 sur les ondes de la BBC, le Général de Gaulle appelait les Français à refuser la défaite face au régime de Vichy et à sa politique de collaboration avec l&#8217;Allemagne nazie”. Une&#8230;]]></description>
+		</item>
+		<item>
+		<title>#Atelier. Prévention de la radicalisation religieuse</title>
+		<link>http://ecd-sartrouville.fr/atelier-prevention-de-la-radicalisation-religieuse-1178.html</link>
+		<pubDate>Sat, 26 May 2018 15:24:59 +0000</pubDate>
+		<dc:creator><![CDATA[Sarah Hamdi]]></dc:creator>
+				<category><![CDATA[À la une]]></category>
+
+		<guid isPermaLink="false">http://ecd-sartrouville.fr/?p=1178</guid>
+		<description><![CDATA[Mohammed CHIRANI, Consultant en prévention de la radicalisation religieuse, a animé un atelier à l&#8217;association ECD Sartrouville. En présence des enfants, mais aussi de leurs parents, Mr CHIRANI a expliqué le concept de « radicalisation » et les dangers liés à l&#8217;utilisation d&#8217;internet. Cette sensibilisation s&#8217;est déroulé dans le cadre des ateliers de coaching aux dangers du&#8230;]]></description>
+		</item>
+		<item>
+		<title>RETOUR SUR la cérémonie de la Journée nationale de la Déportation</title>
+		<link>http://ecd-sartrouville.fr/retour-sur-la-ceremonie-de-la-journee-nationale-de-la-deportation-1189.html</link>
+		<pubDate>Mon, 30 Apr 2018 15:43:58 +0000</pubDate>
+		<dc:creator><![CDATA[Sarah Hamdi]]></dc:creator>
+				<category><![CDATA[À la une]]></category>
+		<category><![CDATA[citoyenneté]]></category>
+		<category><![CDATA[Commémoration]]></category>
+		<category><![CDATA[déportation]]></category>
+
+		<guid isPermaLink="false">http://ecd-sartrouville.fr/?p=1189</guid>
+		<description><![CDATA[🇫🇷 Les enfants d&#8217;ECD ne manquent pas leurs devoirs civiques ! Ils étaient à nouveau présents ce 30 avril, pour commémorer la journée nationale de la Déportation. Aujourd&#8217;hui lors de la cérémonie de la journée nationale de la Déportation ils ont eu l&#8217;honneur de lire les noms des déportés, internés, fusillés. Un devoir de connaissance,&#8230;]]></description>
+		</item>
+		<item>
+		<title>Intensives ECD pendant vacances de printemps</title>
+		<link>http://ecd-sartrouville.fr/intensives-ecd-pendant-vacances-de-printemps-1184.html</link>
+		<pubDate>Wed, 25 Apr 2018 15:40:56 +0000</pubDate>
+		<dc:creator><![CDATA[Sarah Hamdi]]></dc:creator>
+				<category><![CDATA[À la une]]></category>
+		<category><![CDATA[ateliers]]></category>
+		<category><![CDATA[brevet national]]></category>
+		<category><![CDATA[révisions]]></category>
+
+		<guid isPermaLink="false">http://ecd-sartrouville.fr/?p=1184</guid>
+		<description><![CDATA[📚📖🎒📘🎒 Les inscrits à ECDSartrouville mettent à nouveau à profit ces vacances scolaires. Coup de pouce renforcé ! Au programme : remise à niveau, ateliers d’approfondissement et révisions notamment pour préparer les épreuves du Brevet National.]]></description>
+		</item>
+		<item>
+		<title>CULTURE. ECD joue « Carnet de Voyage » au Théâtre National de Sartrouville</title>
+		<link>http://ecd-sartrouville.fr/culture-ecd-joue-carnet-de-voyage-au-theatre-national-de-sartrouville-1181.html</link>
+		<pubDate>Tue, 03 Apr 2018 15:36:38 +0000</pubDate>
+		<dc:creator><![CDATA[Sarah Hamdi]]></dc:creator>
+				<category><![CDATA[À la une]]></category>
+		<category><![CDATA[Culture]]></category>
+		<category><![CDATA[Théâtre]]></category>
+		<category><![CDATA[Théâtre national de Sartrouville]]></category>
+
+		<guid isPermaLink="false">http://ecd-sartrouville.fr/?p=1181</guid>
+		<description><![CDATA[#CULTURE POUR TOUS ! Toute l&#8217;année, les enfants d&#8217;ECD Sartrouville bénéficient d&#8217;ateliers théâtre, dans le cadre de notre partenariat avec le Théâtre National Jacques Brel de Sartrouville. « CARNET DE VOYAGE » Nos enfants joueront mercredi soir leur pièce de théâtre préparée avec les artistes du théâtre. Cette restitution sera l&#8217;occasion de voir nos enfants sur scène&#8230;]]></description>
+		</item>
+		<item>
+		<title>#CULTURE ECD Sartrouville en partenariat avec le Théâtre national Jacques Brel de Sartrouville !</title>
+		<link>http://ecd-sartrouville.fr/culture-ecd-sartrouville-en-partenariat-avec-theatre-de-sartrouville-et-des-yvelines-cdn-1120.html</link>
+		<pubDate>Wed, 28 Feb 2018 17:56:59 +0000</pubDate>
+		<dc:creator><![CDATA[Sarah Hamdi]]></dc:creator>
+				<category><![CDATA[À la une]]></category>
+
+		<guid isPermaLink="false">http://ecd-sartrouville.fr/?p=1120</guid>
+		<description><![CDATA[Les professionnels du théâtre de la mise en scène animent deux ateliers par mois avec les jeunes d&#8217;Ecd Sartrouville. Le théâtre leur permet de travailler notamment le respect de la parole de l&#8217;autre, la diction. Cet initiation à l&#8217;art scénique est essentielle pour nos élèves en difficulté scolaire. « Dans cet atelier, nos jeunes cherchent à&#8230;]]></description>
+		</item>
+		<item>
+		<title>#Coaching L’entrepreneur Jonathan Martelli, co-fondateur d’EkWateur présente son parcours</title>
+		<link>http://ecd-sartrouville.fr/coaching-lentrepreneur-jonathan-martelli-co-fondateur-dekwateur-presente-son-parcours-1091.html</link>
+		<pubDate>Wed, 31 Jan 2018 17:35:30 +0000</pubDate>
+		<dc:creator><![CDATA[Sarah Hamdi]]></dc:creator>
+				<category><![CDATA[À la une]]></category>
+
+		<guid isPermaLink="false">http://ecd-sartrouville.fr/?p=1091</guid>
+		<description><![CDATA[“Ce qui est important, c’est qu’ils comprennent que tout est possible”. Voilà l’un des messages qu’a voulu transmettre Jonathan Martelli, invité par ECD Sartrouville, dans le cadre des “explorations de métiers” régulièrement organisées par l’association. Jonathan a eu un déclic pour l’informatique. Après un bac technique génie mécanique, le jeune homme poursuit ses études en&#8230;]]></description>
+		</item>
+		<item>
+		<title>#COACHING métier du numérique avec la Fondation EDF &#038; le Pôle Emploi de Sartrouville</title>
+		<link>http://ecd-sartrouville.fr/coaching-metier-du-numerique-avec-la-fondation-edf-le-pole-emploi-de-sartrouville-1113.html</link>
+		<pubDate>Wed, 17 Jan 2018 19:22:12 +0000</pubDate>
+		<dc:creator><![CDATA[Sarah Hamdi]]></dc:creator>
+				<category><![CDATA[À la une]]></category>
+
+		<guid isPermaLink="false">http://ecd-sartrouville.fr/?p=1113</guid>
+		<description><![CDATA[Le premier atelier d&#8217;une série d&#8217;ateliers sur le digital a été animé, le 17 janvier 2017, par des intervenantes du Pôle emploi de Sartrouville. Ces ateliers sur les filières du digital et les métiers de demain ont permis d&#8217;informer et de les sensibiliser nos jeunes dans le cadre de programme de coaching métier pour les&#8230;]]></description>
+		</item>
+		<item>
+		<title>#COACHING ATELIER &#8211; Sensibiliser à l&#8217;accès aux droits et aux valeurs républicaines</title>
+		<link>http://ecd-sartrouville.fr/coaching-atelier-sensibiliser-a-lacces-aux-droits-et-aux-valeurs-republicaines-ecd-sartrouville-recoit-le-delegue-du-defenseur-des-droits-des-yvelines-1067.html</link>
+		<pubDate>Fri, 22 Dec 2017 20:57:46 +0000</pubDate>
+		<dc:creator><![CDATA[Sarah Hamdi]]></dc:creator>
+				<category><![CDATA[À la une]]></category>
+		<category><![CDATA[citoyenneté]]></category>
+		<category><![CDATA[Défenseurs des Droits]]></category>
+		<category><![CDATA[Droits et Devoirs]]></category>
+		<category><![CDATA[Maison du Citoyen des Droits et des Devoirs]]></category>
+		<category><![CDATA[République]]></category>
+		<category><![CDATA[Sartrouville]]></category>
+		<category><![CDATA[service public]]></category>
+
+		<guid isPermaLink="false">http://ecd-sartrouville.fr/?p=1067</guid>
+		<description><![CDATA[ECD Sartrouville reçoit le délégué du Défenseur des Droits des Yvelines. Ecd Sartrouville a eu le plaisir de recevoir Ali FATHI, Délégué du Défenseur des Droits (Yvelines) auprès de Mr Jacques TOUBON, le Défenseur des Droits. Invité par l&#8217;association, il a présenté ses domaines d&#8217;intervention dont l&#8217;un lié aux Droits des enfants. À ce titre,&#8230;]]></description>
+		</item>
+		<item>
+		<title>#Coaching Métier de demain  Rabah Lamraoui présente la profession d’expert-comptable</title>
+		<link>http://ecd-sartrouville.fr/coaching-metier-de-demain-rabah-lamraoui-presente-la-profession-dexpert-comptable-1115.html</link>
+		<pubDate>Sat, 09 Dec 2017 20:35:43 +0000</pubDate>
+		<dc:creator><![CDATA[Sarah Hamdi]]></dc:creator>
+				<category><![CDATA[À la une]]></category>
+
+		<guid isPermaLink="false">http://ecd-sartrouville.fr/?p=1115</guid>
+		<description><![CDATA[Dans le cadre de son coaching métier l&#8217;association ECD Sartrouville a reçu l&#8217;expert-comptable Rabah Lamraoui. Avec de plus de 10 ans d&#8217;expérience dans le domaine, Rabah a initié nos jeunes à ce métier mal connu, mais qui recrute plus que jamais en France. “C&#8217;est un métier qui est rare moi quand j&#8217;avais commencé à mon&#8230;]]></description>
+		</item>
+		<item>
+		<title>Le Parisien Novembre 2017</title>
+		<link>http://ecd-sartrouville.fr/le-parisien-novembre-2017-1061.html</link>
+		<pubDate>Sun, 19 Nov 2017 16:28:24 +0000</pubDate>
+		<dc:creator><![CDATA[Sarah Hamdi]]></dc:creator>
+				<category><![CDATA[Articles de presse]]></category>
+		<category><![CDATA[Grand Quiz de France Château de Versailles]]></category>
+		<category><![CDATA[Histoire de France]]></category>
+		<category><![CDATA[Patrimoine]]></category>
+
+		<guid isPermaLink="false">http://ecd-sartrouville.fr/?p=1061</guid>
+		<description><![CDATA[]]></description>
+		</item>
+		<item>
+		<title>Versailles, 11 Novembre, ateliers&#8230; Activités du Module de Citoyenneté</title>
+		<link>http://ecd-sartrouville.fr/versailles-11-novembre-ateliers-activites-du-module-de-citoyennete-1052.html</link>
+		<pubDate>Sat, 18 Nov 2017 20:00:47 +0000</pubDate>
+		<dc:creator><![CDATA[Sarah Hamdi]]></dc:creator>
+				<category><![CDATA[À la une]]></category>
+		<category><![CDATA[11 Novembre]]></category>
+		<category><![CDATA[Collèges publics]]></category>
+		<category><![CDATA[Commémoration]]></category>
+		<category><![CDATA[Culture]]></category>
+		<category><![CDATA[France]]></category>
+		<category><![CDATA[Grand Quiz de France Château de Versailles]]></category>
+		<category><![CDATA[Patrimoine]]></category>
+		<category><![CDATA[Sartrouville]]></category>
+
+		<guid isPermaLink="false">http://ecd-sartrouville.fr/?p=1052</guid>
+		<description><![CDATA[Dans le cadre de notre “Module de Citoyenneté”, les collégiens d’ECD Sartrouville ont eu l’opportunité d’assister à la commémoration du 11 Novembre, ainsi que de bénéficier d’une sortie au Château de Versailles, pour participer “Le Plus Grand Quiz de France”. Événement organisé par Annick BOUQUET, maire-adjointe à la Petite Enfance à Versailles et présidente de&#8230;]]></description>
+		</item>
+		<item>
+		<title>Les jeunes d’Ecd Sartrouville participent au “Plus grand QUIZ de France au Château de Versailles”</title>
+		<link>http://ecd-sartrouville.fr/les-jeunes-decd-sartrouville-participent-au-plus-grand-quiz-de-france-au-chateau-de-versailles-1048.html</link>
+		<pubDate>Wed, 15 Nov 2017 08:42:35 +0000</pubDate>
+		<dc:creator><![CDATA[Sarah Hamdi]]></dc:creator>
+				<category><![CDATA[À la une]]></category>
+
+		<guid isPermaLink="false">http://ecd-sartrouville.fr/?p=1048</guid>
+		<description><![CDATA[Les jeunes d’Ecd Sartrouville participent au “Plus grand QUIZ de France au Château de Versailles”   Ecd Sartrouville relève le défi du « Quiz de l’Histoire de France ». Le mythique Château de Versailles accueillera cet événement rare, ce samedi 18 novembre 2017, dès 13h.   Ce grand rassemblement, au sein même de la résidence&#8230;]]></description>
+		</item>
+		<item>
+		<title>Le Courrier des Yvelines Octobre 2017</title>
+		<link>http://ecd-sartrouville.fr/le-courrier-des-yvelines-octobre-2017-1034.html</link>
+		<pubDate>Thu, 12 Oct 2017 18:02:50 +0000</pubDate>
+		<dc:creator><![CDATA[Sarah Hamdi]]></dc:creator>
+				<category><![CDATA[Articles de presse]]></category>
+		<category><![CDATA[citoyenneté]]></category>
+		<category><![CDATA[coaching]]></category>
+		<category><![CDATA[Fondation Groupe EDF]]></category>
+		<category><![CDATA[numérique]]></category>
+		<category><![CDATA[Réussite]]></category>
+
+		<guid isPermaLink="false">http://ecd-sartrouville.fr/?p=1034</guid>
+		<description><![CDATA[]]></description>
+		</item>
+	</channel>
+</rss>

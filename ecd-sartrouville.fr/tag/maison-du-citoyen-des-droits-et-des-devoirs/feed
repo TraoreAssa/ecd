@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Maison du Citoyen des Droits et des Devoirs &#8211; Association ECD Sartrouville</title>
+	<atom:link href="http://ecd-sartrouville.fr/tag/maison-du-citoyen-des-droits-et-des-devoirs/feed" rel="self" type="application/rss+xml" />
+	<link>http://ecd-sartrouville.fr</link>
+	<description>Accompagnement scolaire</description>
+	<lastBuildDate>Thu, 21 Mar 2019 12:09:28 +0000</lastBuildDate>
+	<language>fr-FR</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.10</generator>
+	<item>
+		<title>#COACHING ATELIER &#8211; Sensibiliser à l&#8217;accès aux droits et aux valeurs républicaines</title>
+		<link>http://ecd-sartrouville.fr/coaching-atelier-sensibiliser-a-lacces-aux-droits-et-aux-valeurs-republicaines-ecd-sartrouville-recoit-le-delegue-du-defenseur-des-droits-des-yvelines-1067.html</link>
+		<pubDate>Fri, 22 Dec 2017 20:57:46 +0000</pubDate>
+		<dc:creator><![CDATA[Sarah Hamdi]]></dc:creator>
+				<category><![CDATA[À la une]]></category>
+		<category><![CDATA[citoyenneté]]></category>
+		<category><![CDATA[Défenseurs des Droits]]></category>
+		<category><![CDATA[Droits et Devoirs]]></category>
+		<category><![CDATA[Maison du Citoyen des Droits et des Devoirs]]></category>
+		<category><![CDATA[République]]></category>
+		<category><![CDATA[Sartrouville]]></category>
+		<category><![CDATA[service public]]></category>
+
+		<guid isPermaLink="false">http://ecd-sartrouville.fr/?p=1067</guid>
+		<description><![CDATA[ECD Sartrouville reçoit le délégué du Défenseur des Droits des Yvelines. Ecd Sartrouville a eu le plaisir de recevoir Ali FATHI, Délégué du Défenseur des Droits (Yvelines) auprès de Mr Jacques TOUBON, le Défenseur des Droits. Invité par l&#8217;association, il a présenté ses domaines d&#8217;intervention dont l&#8217;un lié aux Droits des enfants. À ce titre,&#8230;]]></description>
+		</item>
+	</channel>
+</rss>

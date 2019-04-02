@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>année scolaire &#8211; Association ECD Sartrouville</title>
+	<atom:link href="http://ecd-sartrouville.fr/tag/annee-scolaire/feed" rel="self" type="application/rss+xml" />
+	<link>http://ecd-sartrouville.fr</link>
+	<description>Accompagnement scolaire</description>
+	<lastBuildDate>Thu, 21 Mar 2019 12:09:28 +0000</lastBuildDate>
+	<language>fr-FR</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.10</generator>
+	<item>
+		<title>Progrès et objectifs : le bilan de la réunion parents-profs d’ECD Sartrouville</title>
+		<link>http://ecd-sartrouville.fr/progres-et-objectifs-le-bilan-de-la-reunion-parents-profs-decd-sartrouville-537.html</link>
+		<comments>http://ecd-sartrouville.fr/progres-et-objectifs-le-bilan-de-la-reunion-parents-profs-decd-sartrouville-537.html#comments</comments>
+		<pubDate>Sat, 16 Jan 2016 10:00:17 +0000</pubDate>
+		<dc:creator><![CDATA[Sarah Hamdi]]></dc:creator>
+				<category><![CDATA[À la une]]></category>
+		<category><![CDATA[1er trimestre]]></category>
+		<category><![CDATA[accompagnement scolaire]]></category>
+		<category><![CDATA[année scolaire]]></category>
+		<category><![CDATA[bilan]]></category>
+		<category><![CDATA[collège]]></category>
+		<category><![CDATA[décrochage]]></category>
+		<category><![CDATA[ECD Sartrouville]]></category>
+		<category><![CDATA[objectifs]]></category>
+		<category><![CDATA[progrès]]></category>
+		<category><![CDATA[réunion parents-profs]]></category>
+
+		<guid isPermaLink="false">http://ecd-sartrouville.fr/?p=537</guid>
+		<description><![CDATA[Comme tous les trimestres de l’année scolaire, ECD Sartrouville organise sa réunion parents-professeurs, ce samedi 16 janvier 2016. Le moment de dresser un premier constat pour nos collégiens à l’issue de ces trois premiers mois de cours. Fin du 1er trimestre de l’année scolaire 2015-2016, l’heure du bilan a sonné. ECD Sartrouville a réuni parents,&#8230;]]></description>
+		<wfw:commentRss>http://ecd-sartrouville.fr/progres-et-objectifs-le-bilan-de-la-reunion-parents-profs-decd-sartrouville-537.html/feed</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+		</item>
+	</channel>
+</rss>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>confiance en soi &#8211; Association ECD Sartrouville</title>
+	<atom:link href="http://ecd-sartrouville.fr/tag/confiance-en-soi/feed" rel="self" type="application/rss+xml" />
+	<link>http://ecd-sartrouville.fr</link>
+	<description>Accompagnement scolaire</description>
+	<lastBuildDate>Thu, 21 Mar 2019 12:09:28 +0000</lastBuildDate>
+	<language>fr-FR</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.10</generator>
+	<item>
+		<title>Meriem Serhane, ingénieure : « L’école est une opportunité pour tout le monde de réussir »</title>
+		<link>http://ecd-sartrouville.fr/meriem-serhane-ingenieure-lecole-est-une-opportunite-pour-tout-le-monde-de-reussir-1240.html</link>
+		<pubDate>Sat, 09 Feb 2019 12:48:15 +0000</pubDate>
+		<dc:creator><![CDATA[Sarah Hamdi]]></dc:creator>
+				<category><![CDATA[À la une]]></category>
+		<category><![CDATA[coaching]]></category>
+		<category><![CDATA[confiance en soi]]></category>
+		<category><![CDATA[Droits et Devoirs]]></category>
+		<category><![CDATA[entreprises]]></category>
+		<category><![CDATA[ingénieur]]></category>
+		<category><![CDATA[métiers]]></category>
+		<category><![CDATA[Orientation]]></category>
+
+		<guid isPermaLink="false">http://ecd-sartrouville.fr/?p=1240</guid>
+		<description><![CDATA[[#COACHING] « L’école est une opportunité pour tout le monde de réussir et concrétiser les projets et les rêves que nous avons. C’est une chance incroyable pour tout le monde, mais, bien sûr, pour y arriver cela suppose du travail ». Meriam Serhane est venue présenter son métier à ECD Sartrouville. 💻À 33 ans, l&#8217;ingénieure,&#8230;]]></description>
+		</item>
+		<item>
+		<title>CULTURE. Les enfants d’ECD participent à une semaine d’ateliers au Théâtre National de Sartrouville</title>
+		<link>http://ecd-sartrouville.fr/culture-les-enfants-decd-participent-a-une-semaine-dateliers-au-theatre-national-de-sartrouville-750.html</link>
+		<pubDate>Fri, 17 Feb 2017 14:00:41 +0000</pubDate>
+		<dc:creator><![CDATA[Sarah Hamdi]]></dc:creator>
+				<category><![CDATA[À la une]]></category>
+		<category><![CDATA[confiance en soi]]></category>
+		<category><![CDATA[développement personnel]]></category>
+		<category><![CDATA[ECD Sartrouville]]></category>
+		<category><![CDATA[mise en scène]]></category>
+		<category><![CDATA[quartiers populaires]]></category>
+		<category><![CDATA[Théâtre]]></category>
+		<category><![CDATA[Théâtre national de Sartrouville]]></category>
+
+		<guid isPermaLink="false">http://ecd-sartrouville.fr/?p=750</guid>
+		<description><![CDATA[Théâtre d’objets, réalisation d’un court-métrage, marionnettes… Les enfants d’ECD rejoignent le Théâtre National de Sartrouville pour une semaine d’activités culturelles, du 13 au 17 février 2017. Voilà comment se cultiver en vacances et se défouler avant la rentrée. Accueillis par le Théâtre National de Sartrouville, une dizaine d’élèves d’ECD participent au projet « Frontières », véritable invitation&#8230;]]></description>
+		</item>
+	</channel>
+</rss>

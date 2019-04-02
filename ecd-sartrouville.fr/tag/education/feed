@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>éducation &#8211; Association ECD Sartrouville</title>
+	<atom:link href="http://ecd-sartrouville.fr/tag/education/feed" rel="self" type="application/rss+xml" />
+	<link>http://ecd-sartrouville.fr</link>
+	<description>Accompagnement scolaire</description>
+	<lastBuildDate>Thu, 21 Mar 2019 12:09:28 +0000</lastBuildDate>
+	<language>fr-FR</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.10</generator>
+	<item>
+		<title>Bilan de Progression 2018 : Réunion parents-profs d’ECD Sartrouville</title>
+		<link>http://ecd-sartrouville.fr/bilan-de-progression-2018-reunion-parents-profs-decd-sartrouville-1200.html</link>
+		<pubDate>Mon, 25 Jun 2018 21:52:45 +0000</pubDate>
+		<dc:creator><![CDATA[Sarah Hamdi]]></dc:creator>
+				<category><![CDATA[À la une]]></category>
+		<category><![CDATA[bilan]]></category>
+		<category><![CDATA[éducation]]></category>
+
+		<guid isPermaLink="false">http://ecd-sartrouville.fr/?p=1200</guid>
+		<description><![CDATA[Chaque trimestre de l’année scolaire, ECD Sartrouville organise une réunion parents-professeurs. Le moment de dresser le bilan du 3e trimestre, mais aussi de l’année, pour nos collégiens. Des parents heureux et émus. “Je ne sais pas comment j&#8217;aurais fait avec mon enfant s&#8217;il n&#8217;y avait pas eu ECD&#8230; Merci à vous tous” c&#8217;est en ces&#8230;]]></description>
+		</item>
+	</channel>
+</rss>

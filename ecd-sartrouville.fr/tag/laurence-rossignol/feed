@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Laurence Rossignol &#8211; Association ECD Sartrouville</title>
+	<atom:link href="http://ecd-sartrouville.fr/tag/laurence-rossignol/feed" rel="self" type="application/rss+xml" />
+	<link>http://ecd-sartrouville.fr</link>
+	<description>Accompagnement scolaire</description>
+	<lastBuildDate>Thu, 21 Mar 2019 12:09:28 +0000</lastBuildDate>
+	<language>fr-FR</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.10</generator>
+	<item>
+		<title>#8Mars Visite du Sénat, projection-débat et  rencontre la sénatrice Laurence Rossignol</title>
+		<link>http://ecd-sartrouville.fr/8mars-visite-du-senat-projection-debat-et-rencontre-la-senatrice-laurence-rossignol-1252.html</link>
+		<pubDate>Fri, 08 Mar 2019 17:55:00 +0000</pubDate>
+		<dc:creator><![CDATA[Sarah Hamdi]]></dc:creator>
+				<category><![CDATA[À la une]]></category>
+		<category><![CDATA[droits des femmes]]></category>
+		<category><![CDATA[Jardin du Luxembourg]]></category>
+		<category><![CDATA[Laurence Rossignol]]></category>
+		<category><![CDATA[projection-débat]]></category>
+		<category><![CDATA[Sénat]]></category>
+
+		<guid isPermaLink="false">http://ecd-sartrouville.fr/?p=1252</guid>
+		<description><![CDATA[[#8Mars] Une délégation de collégiennes d&#8217;ECD étaient au Sénat. Un après-midi chargé où elles ont pu visiter le #Sénat, assister à une projection, rencontrer la sénatrice Laurence Rossignol et passer aux Jardins du Luxembourg ! Que de premières pour nos collégiennes ! 🎥🎥 Toutes nous ont fait part de leur émotion après la projection/débat du&#8230;]]></description>
+		</item>
+	</channel>
+</rss>

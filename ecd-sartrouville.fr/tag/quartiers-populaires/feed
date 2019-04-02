@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>quartiers populaires &#8211; Association ECD Sartrouville</title>
+	<atom:link href="http://ecd-sartrouville.fr/tag/quartiers-populaires/feed" rel="self" type="application/rss+xml" />
+	<link>http://ecd-sartrouville.fr</link>
+	<description>Accompagnement scolaire</description>
+	<lastBuildDate>Thu, 21 Mar 2019 12:09:28 +0000</lastBuildDate>
+	<language>fr-FR</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.10</generator>
+	<item>
+		<title>CULTURE. Les enfants d’ECD participent à une semaine d’ateliers au Théâtre National de Sartrouville</title>
+		<link>http://ecd-sartrouville.fr/culture-les-enfants-decd-participent-a-une-semaine-dateliers-au-theatre-national-de-sartrouville-750.html</link>
+		<pubDate>Fri, 17 Feb 2017 14:00:41 +0000</pubDate>
+		<dc:creator><![CDATA[Sarah Hamdi]]></dc:creator>
+				<category><![CDATA[À la une]]></category>
+		<category><![CDATA[confiance en soi]]></category>
+		<category><![CDATA[développement personnel]]></category>
+		<category><![CDATA[ECD Sartrouville]]></category>
+		<category><![CDATA[mise en scène]]></category>
+		<category><![CDATA[quartiers populaires]]></category>
+		<category><![CDATA[Théâtre]]></category>
+		<category><![CDATA[Théâtre national de Sartrouville]]></category>
+
+		<guid isPermaLink="false">http://ecd-sartrouville.fr/?p=750</guid>
+		<description><![CDATA[Théâtre d’objets, réalisation d’un court-métrage, marionnettes… Les enfants d’ECD rejoignent le Théâtre National de Sartrouville pour une semaine d’activités culturelles, du 13 au 17 février 2017. Voilà comment se cultiver en vacances et se défouler avant la rentrée. Accueillis par le Théâtre National de Sartrouville, une dizaine d’élèves d’ECD participent au projet « Frontières », véritable invitation&#8230;]]></description>
+		</item>
+		<item>
+		<title>Abdelhafidh, commissaire de police, au service des autres</title>
+		<link>http://ecd-sartrouville.fr/abdelhafid-commissaire-de-police-au-service-des-autres-336.html</link>
+		<pubDate>Fri, 01 Jan 2016 21:27:34 +0000</pubDate>
+		<dc:creator><![CDATA[Sarah Hamdi]]></dc:creator>
+				<category><![CDATA[À la une]]></category>
+		<category><![CDATA[citoyenneté]]></category>
+		<category><![CDATA[commissaire de police]]></category>
+		<category><![CDATA[ECD Sartrouville]]></category>
+		<category><![CDATA[immigration]]></category>
+		<category><![CDATA[police]]></category>
+		<category><![CDATA[préjugés]]></category>
+		<category><![CDATA[quartiers populaires]]></category>
+		<category><![CDATA[République]]></category>
+		<category><![CDATA[tabous]]></category>
+		<category><![CDATA[valeurs de la République]]></category>
+
+		<guid isPermaLink="false">http://ecd-sartrouville.fr/?p=336</guid>
+		<description><![CDATA[Dans le cadre de son programme « exploration des métiers », l’association ECD a eu le plaisir d’accueillir Abdelhafidh, venu présenter son parcours et son quotidien de commissaire de police. La rencontre fut hautement symbolique. La visite de ce jeune issu d’une famille populaire, qui a grandi en banlieue, a fait écho aux mêmes problématiques rencontrées par les enfants de&#8230;]]></description>
+		</item>
+	</channel>
+</rss>

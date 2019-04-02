@@ -1,0 +1,754 @@
+HTTrack3.49-2+htsswf+htsjava launched on Tue, 02 Apr 2019 15:16:12 at http://ecd-sartrouville.fr/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" http://ecd-sartrouville.fr/ -O1 "C:\Mes Sites Web\edc" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+15:16:13	Warning: 	Note: due to ecd-sartrouville.fr remote robots.txt rules, links beginning with these path will be forbidden: /wp-admin/ (see in the options to disable this)
+15:17:49	Error: 	"Method Not Allowed" (405) at link ecd-sartrouville.fr/xmlrpc.php (from ecd-sartrouville.fr/)
+15:19:23	Error: 	"Not Found" (404) at link ecd-sartrouville.fr/wp-content/uploads/2015/12/391.png%201x,%20http:/ecd-sartrouville.fr/wp-content/uploads/2015/12/781.png%202x (from ecd-sartrouville.fr/)
+16:07:08	Error: 	Unable to save file C:/Mes Sites Web/edc/ecd-sartrouville.fr/8mars-visite-du-senat-projection-debat-et-rencontre-la-senatrice-laurence-rossignol-1252.html: Permission denied
+16:07:52	Error: 	Unable to save file C:/Mes Sites Web/edc/ecd-sartrouville.fr/avec-son-initiative-reussir-son-stage-ecd-sartrouville-mobilise-son-reseau-dentreprises-1258.html: Permission denied
+16:08:02	Error: 	Unable to save file C:/Mes Sites Web/edc/ecd-sartrouville.fr/meriem-serhane-ingenieure-lecole-est-une-opportunite-pour-tout-le-monde-de-reussir-1240.html: Permission denied
+16:08:07	Error: 	Unable to save file C:/Mes Sites Web/edc/ecd-sartrouville.fr/ecd-sartrouville-organise-un-forum-des-metiers-en-partenariat-avec-le-groupe-international-tata-communications-1231.html: Permission denied
+16:08:41	Error: 	Unable to save file C:/Mes Sites Web/edc/ecd-sartrouville.fr/sortons-du-quartier-decouverte-de-paris-en-peniche-1228.html: Permission denied
+16:08:41	Error: 	"Not Found" (404) at link ecd-sartrouville.fr/wp-content/themes/dt-the7/css/blank.gif (from ecd-sartrouville.fr/wp-content/themes/dt-the7/css/main.min.css?ver=1.2.0)
+16:08:41	Warning: 	File not parsed, looks like binary: ecd-sartrouville.fr/wp-content/themes/dt-the7/fonts/fontawesome-webfont.woff2?v=4.3.0
+16:08:42	Warning: 	Moved Permanently for ecd-sartrouville.fr/?p=225
+16:08:42	Warning: 	File has moved from ecd-sartrouville.fr/?p=225 to http://ecd-sartrouville.fr/notre-histoire
+16:08:49	Error: 	Unable to save file C:/Mes Sites Web/edc/ecd-sartrouville.fr/bt-bike-ride-plus-de-7-000e-collectes-pour-ecd-sartrouville-22.html: Permission denied
+16:08:49	Warning: 	Moved Permanently for ecd-sartrouville.fr/?p=227
+16:08:49	Warning: 	File has moved from ecd-sartrouville.fr/?p=227 to http://ecd-sartrouville.fr/notre-engagement
+16:08:49	Warning: 	Moved Permanently for ecd-sartrouville.fr/?p=86
+16:08:49	Warning: 	File has moved from ecd-sartrouville.fr/?p=86 to http://ecd-sartrouville.fr/accompagnement-scolaire
+16:09:11	Warning: 	Moved Permanently for ecd-sartrouville.fr/?p=272
+16:09:11	Warning: 	File has moved from ecd-sartrouville.fr/?p=272 to http://ecd-sartrouville.fr/exploration-des-metiers
+16:15:14	Warning: 	Moved Permanently for ecd-sartrouville.fr/?p=213
+16:15:14	Warning: 	File has moved from ecd-sartrouville.fr/?p=213 to http://ecd-sartrouville.fr/citoyennete
+16:15:14	Warning: 	Moved Permanently for ecd-sartrouville.fr/?p=280
+16:15:14	Warning: 	File has moved from ecd-sartrouville.fr/?p=280 to http://ecd-sartrouville.fr/nos-evenements
+16:17:05	Error: 	Unable to save file C:/Mes Sites Web/edc/ecd-sartrouville.fr/bilan-de-progression-2018-reunion-parents-profs-decd-sartrouville-1200.html: Permission denied
+16:20:49	Error: 	Unable to save file C:/Mes Sites Web/edc/ecd-sartrouville.fr/les-enfants-decd-commemorent-le-18-juin-40-1210.html: Permission denied
+16:22:14	Error: 	Unable to save file C:/Mes Sites Web/edc/ecd-sartrouville.fr/atelier-prevention-de-la-radicalisation-religieuse-1178.html: Permission denied
+16:23:00	Error: 	Unable to save file C:/Mes Sites Web/edc/ecd-sartrouville.fr/retour-sur-la-ceremonie-de-la-journee-nationale-de-la-deportation-1189.html: Permission denied
+16:23:06	Error: 	Unable to save file C:/Mes Sites Web/edc/ecd-sartrouville.fr/intensives-ecd-pendant-vacances-de-printemps-1184.html: Permission denied
+16:23:12	Error: 	Unable to save file C:/Mes Sites Web/edc/ecd-sartrouville.fr/culture-ecd-joue-carnet-de-voyage-au-theatre-national-de-sartrouville-1181.html: Permission denied
+16:25:15	Error: 	Unable to save file C:/Mes Sites Web/edc/ecd-sartrouville.fr/culture-ecd-sartrouville-en-partenariat-avec-theatre-de-sartrouville-et-des-yvelines-cdn-1120.html: Permission denied
+16:25:15	Warning: 	Moved Permanently for ecd-sartrouville.fr/?p=284
+16:25:15	Warning: 	File has moved from ecd-sartrouville.fr/?p=284 to http://ecd-sartrouville.fr/la-presse-parle-de-nous
+16:26:48	Error: 	Unable to save file C:/Mes Sites Web/edc/ecd-sartrouville.fr/le-journal-de-sartrouville-mai-2016-674.html: Permission denied
+16:27:55	Warning: 	Retry after error -4 (Incorrect length (469639 Bytes, 675747 expected)) at link ecd-sartrouville.fr/wp-content/uploads/2017/06/IMG_4069.jpg (from ecd-sartrouville.fr/dt_gallery_category/photos)
+16:28:40	Warning: 	Retry after error -4 (Incorrect length (251732 Bytes, 493792 expected)) at link ecd-sartrouville.fr/wp-content/uploads/2017/05/20170422_174916.jpg (from ecd-sartrouville.fr/dt_gallery_category/photos)
+16:28:47	Warning: 	Retry after error -4 (Incorrect length (318127 Bytes, 511697 expected)) at link ecd-sartrouville.fr/wp-content/uploads/2017/05/20170422_172206.jpg (from ecd-sartrouville.fr/dt_gallery_category/photos)
+16:28:54	Warning: 	Retry after error -4 (Incorrect length (210113 Bytes, 509335 expected)) at link ecd-sartrouville.fr/wp-content/uploads/2017/05/20170422_172000.jpg (from ecd-sartrouville.fr/dt_gallery_category/photos)
+16:29:52	Warning: 	Retry after error -4 (Incorrect length (390177 Bytes, 504247 expected)) at link ecd-sartrouville.fr/wp-content/uploads/2017/05/20170422_141735.jpg (from ecd-sartrouville.fr/dt_gallery_category/photos)
+16:36:12	Warning: 	Moved Permanently for ecd-sartrouville.fr/?p=219
+16:36:12	Warning: 	File has moved from ecd-sartrouville.fr/?p=219 to http://ecd-sartrouville.fr/l-inscription
+16:36:12	Warning: 	Moved Permanently for ecd-sartrouville.fr/?p=232
+16:36:12	Warning: 	File has moved from ecd-sartrouville.fr/?p=232 to http://ecd-sartrouville.fr/contact
+16:36:12	Warning: 	Moved Permanently for ecd-sartrouville.fr/?p=792
+16:36:12	Warning: 	File has moved from ecd-sartrouville.fr/?p=792 to http://ecd-sartrouville.fr/faire-un-don
+16:36:12	Warning: 	Moved Permanently for ecd-sartrouville.fr/?p=1252
+16:36:12	Warning: 	File has moved from ecd-sartrouville.fr/?p=1252 to http://ecd-sartrouville.fr/8mars-visite-du-senat-projection-debat-et-rencontre-la-senatrice-laurence-rossignol-1252.html
+16:36:17	Warning: 	Found for www.facebook.com/robots.txt
+16:36:17	Warning: 	Redirected link is identical because of 'URL Hack' option: www.facebook.com/robots.txt and https://www.facebook.com/robots.txt
+16:36:17	Warning: 	Warning moved treated for www.facebook.com/robots.txt (real one is https://www.facebook.com/robots.txt)
+16:36:17	Warning: 	Retry after error -4 (Connect Error) at link www.facebook.com/sharer.php?s=100&p%5Burl%5D=http://ecd-sartrouville.fr/8mars-visite-du-senat-projection-debat-et-rencontre-la-senatrice-laurence-rossignol-1252.html&p%5Btitle%5D=%238Mars+Visite+du+S%C3%A9nat%2C+projection-d%C3%A9bat+et++rencontre+la+s%C3%A9natrice+Laurence+Rossignol&p%5Bimages%5D%5B0%5D=http://ecd-sartrouville.fr/wp-content/uploads/2019/03/FB_IMG_1553169077043.jpg (from ecd-sartrouville.fr/8mars-visite-du-senat-projection-debat-et-rencontre-la-senatrice-laurence-rossignol-1252.html)
+16:36:17	Warning: 	Moved Permanently for ecd-sartrouville.fr/?p=1258
+16:36:17	Warning: 	File has moved from ecd-sartrouville.fr/?p=1258 to http://ecd-sartrouville.fr/avec-son-initiative-reussir-son-stage-ecd-sartrouville-mobilise-son-reseau-dentreprises-1258.html
+16:36:25	Warning: 	Retry after error -4 (Connect Error) at link www.facebook.com/sharer.php?s=100&p%5Burl%5D=http://ecd-sartrouville.fr/avec-son-initiative-reussir-son-stage-ecd-sartrouville-mobilise-son-reseau-dentreprises-1258.html&p%5Btitle%5D=Avec+son+initiative+%E2%80%9CR%C3%A9ussir+son+stage%E2%80%9D%2C+ECD+Sartrouville+mobilise+son+r%C3%A9seau+d%E2%80%99entreprises&p%5Bimages%5D%5B0%5D=http://ecd-sartrouville.fr/wp-content/uploads/2019/03/FB_IMG_1553169711755.jpg (from ecd-sartrouville.fr/avec-son-initiative-reussir-son-stage-ecd-sartrouville-mobilise-son-reseau-dentreprises-1258.html)
+16:36:25	Warning: 	Moved Permanently for ecd-sartrouville.fr/?p=1240
+16:36:25	Warning: 	File has moved from ecd-sartrouville.fr/?p=1240 to http://ecd-sartrouville.fr/meriem-serhane-ingenieure-lecole-est-une-opportunite-pour-tout-le-monde-de-reussir-1240.html
+16:36:27	Warning: 	Retry after error -4 (Connect Error) at link www.facebook.com/sharer.php?s=100&p%5Burl%5D=http://ecd-sartrouville.fr/meriem-serhane-ingenieure-lecole-est-une-opportunite-pour-tout-le-monde-de-reussir-1240.html&p%5Btitle%5D=Meriem+Serhane%2C+ing%C3%A9nieure+%3A+%22L%E2%80%99%C3%A9cole+est+une+opportunit%C3%A9+pour+tout+le+monde+de+r%C3%A9ussir%22&p%5Bimages%5D%5B0%5D=http://ecd-sartrouville.fr/wp-content/uploads/2019/03/FB_IMG_1553168626770.jpg (from ecd-sartrouville.fr/meriem-serhane-ingenieure-lecole-est-une-opportunite-pour-tout-le-monde-de-reussir-1240.html)
+16:36:28	Warning: 	Moved Permanently for ecd-sartrouville.fr/?p=1231
+16:36:28	Warning: 	File has moved from ecd-sartrouville.fr/?p=1231 to http://ecd-sartrouville.fr/ecd-sartrouville-organise-un-forum-des-metiers-en-partenariat-avec-le-groupe-international-tata-communications-1231.html
+16:36:28	Warning: 	Retry after error -4 (Connect Error) at link www.facebook.com/sharer.php?s=100&p%5Burl%5D=http://ecd-sartrouville.fr/ecd-sartrouville-organise-un-forum-des-metiers-en-partenariat-avec-le-groupe-international-tata-communications-1231.html&p%5Btitle%5D=ECD+Sartrouville+organise+un+Forum+des+m%C3%A9tiers+en+partenariat+avec+le+groupe+international+Tata+Communications&p%5Bimages%5D%5B0%5D=http://ecd-sartrouville.fr/wp-content/uploads/2018/09/IMG_20180926_233152.jpg (from ecd-sartrouville.fr/ecd-sartrouville-organise-un-forum-des-metiers-en-partenariat-avec-le-groupe-international-tata-communications-1231.html)
+16:36:28	Warning: 	Moved Permanently for ecd-sartrouville.fr/?p=1228
+16:36:28	Warning: 	File has moved from ecd-sartrouville.fr/?p=1228 to http://ecd-sartrouville.fr/sortons-du-quartier-decouverte-de-paris-en-peniche-1228.html
+16:36:28	Warning: 	Retry after error -4 (Connect Error) at link www.facebook.com/sharer.php?s=100&p%5Burl%5D=http://ecd-sartrouville.fr/sortons-du-quartier-decouverte-de-paris-en-peniche-1228.html&p%5Btitle%5D=%23SORTONS+DU+QUARTIER+%21+D%C3%A9couverte+de+Paris+en+P%C3%A9niche&p%5Bimages%5D%5B0%5D=http://ecd-sartrouville.fr/wp-content/uploads/2018/09/FB_IMG_1535813990396.jpg (from ecd-sartrouville.fr/sortons-du-quartier-decouverte-de-paris-en-peniche-1228.html)
+16:36:34	Warning: 	Moved Permanently for ecd-sartrouville.fr/?p=22
+16:36:34	Warning: 	File has moved from ecd-sartrouville.fr/?p=22 to http://ecd-sartrouville.fr/bt-bike-ride-plus-de-7-000e-collectes-pour-ecd-sartrouville-22.html
+16:36:34	Warning: 	Retry after error -4 (Connect Error) at link www.facebook.com/sharer.php?s=100&p%5Burl%5D=http://ecd-sartrouville.fr/bt-bike-ride-plus-de-7-000e-collectes-pour-ecd-sartrouville-22.html&p%5Btitle%5D=BT+Bike+Ride+%3A+plus+de+7+000%E2%82%AC+collect%C3%A9s+pour+ECD+%21&p%5Bimages%5D%5B0%5D=http://ecd-sartrouville.fr/wp-content/uploads/2014/11/BT-Bike-Ride-photo-d%c3%a9part-%c3%a0-Paris-1-1024x598.jpg (from ecd-sartrouville.fr/bt-bike-ride-plus-de-7-000e-collectes-pour-ecd-sartrouville-22.html)
+16:36:34	Warning: 	Moved Permanently for ecd-sartrouville.fr/?p=611
+16:36:34	Warning: 	File has moved from ecd-sartrouville.fr/?p=611 to http://ecd-sartrouville.fr/dt_team/khay-huynh-ingenieur-avant-vente-chez-f5-networks
+16:36:34	Warning: 	Moved Permanently for ecd-sartrouville.fr/?p=609
+16:36:34	Warning: 	File has moved from ecd-sartrouville.fr/?p=609 to http://ecd-sartrouville.fr/dt_team/carlos-montes-adjoint-au-directeur-territorial-derdf
+16:36:34	Warning: 	Moved Permanently for ecd-sartrouville.fr/?p=608
+16:36:34	Warning: 	File has moved from ecd-sartrouville.fr/?p=608 to http://ecd-sartrouville.fr/dt_team/ahmed-agent-de-protection
+16:36:34	Warning: 	Moved Permanently for ecd-sartrouville.fr/?p=203
+16:36:34	Warning: 	File has moved from ecd-sartrouville.fr/?p=203 to http://ecd-sartrouville.fr/dt_team/abdelhafid-chraiet
+16:36:34	Warning: 	Moved Permanently for ecd-sartrouville.fr/?p=466
+16:36:34	Warning: 	File has moved from ecd-sartrouville.fr/?p=466 to http://ecd-sartrouville.fr/dt_team/fatima-aaziz-perez-avocate
+16:36:34	Warning: 	Moved Permanently for ecd-sartrouville.fr/?p=206
+16:36:34	Warning: 	File has moved from ecd-sartrouville.fr/?p=206 to http://ecd-sartrouville.fr/dt_team/david-carmier-magistrat
+16:36:34	Warning: 	Moved Permanently for ecd-sartrouville.fr/?p=205
+16:36:34	Warning: 	File has moved from ecd-sartrouville.fr/?p=205 to http://ecd-sartrouville.fr/dt_team/bruno-boucq-un-dirigeant-de-british-telecom
+16:36:34	Warning: 	Retry after error -4 (Incorrect length (202938 Bytes, 365188 expected)) at link v2.ecd-sartrouville.fr/wp-content/uploads/2016/01/ecd_sartrouville_courrierdesyvelines.jpg (from ecd-sartrouville.fr/category/articles-de-presse)
+16:36:34	Warning: 	Retry after error -4 (Incorrect length (217304 Bytes, 365188 expected)) at link ecd-sartrouville.fr/wp-content/uploads/2016/01/ecd_sartrouville_courrierdesyvelines.jpg (from ecd-sartrouville.fr/category/articles-de-presse)
+16:40:14	Error: 	Unable to save file C:/Mes Sites Web/edc/ecd-sartrouville.fr/coaching-metier-du-numerique-avec-la-fondation-edf-le-pole-emploi-de-sartrouville-1113.html: Permission denied
+16:43:58	Error: 	Unable to save file C:/Mes Sites Web/edc/ecd-sartrouville.fr/coaching-metier-de-demain-rabah-lamraoui-presente-la-profession-dexpert-comptable-1115.html: Permission denied
+16:49:19	Error: 	"Error when decompressing" (-1) at link ecd-sartrouville.fr/18juin1940-depot-de-gerbe-par-les-collegiens-decd-et-echange-intergenerationnel-990.html (from ecd-sartrouville.fr/category/a-la-une)
+16:49:19	Error: 	Unable to save file C:/Mes Sites Web/edc/ecd-sartrouville.fr/18juin1940-depot-de-gerbe-par-les-collegiens-decd-et-echange-intergenerationnel-990.html: Permission denied
+16:53:26	Error: 	"Error when decompressing" (-1) at link ecd-sartrouville.fr/lassociation-ecd-sartrouville-invitee-a-luniversite-paris-dauphine-803.html (from ecd-sartrouville.fr/date/2017/04)
+16:53:26	Error: 	Unable to save file C:/Mes Sites Web/edc/ecd-sartrouville.fr/lassociation-ecd-sartrouville-invitee-a-luniversite-paris-dauphine-803.html: Permission denied
+16:57:02	Error: 	"Error when decompressing" (-1) at link ecd-sartrouville.fr/sport-1er-animathelon-de-sartrouville-avec-les-collegiens-decd-700.html (from ecd-sartrouville.fr/date/2016/06)
+16:57:02	Error: 	Unable to save file C:/Mes Sites Web/edc/ecd-sartrouville.fr/sport-1er-animathelon-de-sartrouville-avec-les-collegiens-decd-700.html: Permission denied
+17:01:14	Error: 	"Error when decompressing" (-1) at link ecd-sartrouville.fr/un-cheque-de-10-000-euros-du-rotary-club-591.html (from ecd-sartrouville.fr/date/2016/02)
+17:01:14	Error: 	Unable to save file C:/Mes Sites Web/edc/ecd-sartrouville.fr/un-cheque-de-10-000-euros-du-rotary-club-591.html: Permission denied
+17:02:01	Error: 	Unable to save file C:/Mes Sites Web/edc/ecd-sartrouville.fr/progres-et-objectifs-le-bilan-de-la-reunion-parents-profs-decd-sartrouville-537.html: Permission denied
+17:02:02	Error: 	"Error when decompressing" (-1) at link ecd-sartrouville.fr/me-fatima-aaziz-perez-donne-lenvie-de-defendre-aux-eleves-decd-349.html (from ecd-sartrouville.fr/date/2016/01)
+17:02:02	Error: 	Unable to save file C:/Mes Sites Web/edc/ecd-sartrouville.fr/me-fatima-aaziz-perez-donne-lenvie-de-defendre-aux-eleves-decd-349.html: Permission denied
+17:02:02	Error: 	"Error when decompressing" (-1) at link ecd-sartrouville.fr/le-dispositif-ecd-seduit-dautres-villes-dile-de-france-346.html (from ecd-sartrouville.fr/date/2016/01)
+17:02:02	Error: 	Unable to save file C:/Mes Sites Web/edc/ecd-sartrouville.fr/le-dispositif-ecd-seduit-dautres-villes-dile-de-france-346.html: Permission denied
+17:02:02	Error: 	"Error when decompressing" (-1) at link ecd-sartrouville.fr/130-eleves-decd-rendent-hommage-aux-victimes-des-attentats-351.html (from ecd-sartrouville.fr/date/2016/01)
+17:02:02	Error: 	Unable to save file C:/Mes Sites Web/edc/ecd-sartrouville.fr/130-eleves-decd-rendent-hommage-aux-victimes-des-attentats-351.html: Permission denied
+17:02:02	Error: 	"Error when decompressing" (-1) at link ecd-sartrouville.fr/les-eleves-decd-commemorent-le-11-novembre-en-presence-dofficiels-341.html (from ecd-sartrouville.fr/date/2016/01)
+17:02:02	Error: 	Unable to save file C:/Mes Sites Web/edc/ecd-sartrouville.fr/les-eleves-decd-commemorent-le-11-novembre-en-presence-dofficiels-341.html: Permission denied
+17:02:02	Error: 	"Error when decompressing" (-1) at link ecd-sartrouville.fr/forum-des-metiers-british-telecom-france-accueille-60-eleves-decd-398.html (from ecd-sartrouville.fr/date/2016/01)
+17:02:02	Error: 	Unable to save file C:/Mes Sites Web/edc/ecd-sartrouville.fr/forum-des-metiers-british-telecom-france-accueille-60-eleves-decd-398.html: Permission denied
+17:02:02	Error: 	"Error when decompressing" (-1) at link ecd-sartrouville.fr/une-ceremonie-de-remise-des-diplomes-riche-en-emotions-372.html (from ecd-sartrouville.fr/date/2016/01)
+17:02:02	Error: 	Unable to save file C:/Mes Sites Web/edc/ecd-sartrouville.fr/une-ceremonie-de-remise-des-diplomes-riche-en-emotions-372.html: Permission denied
+17:02:02	Error: 	"Error when decompressing" (-1) at link ecd-sartrouville.fr/nous-sommes-la-france-un-grand-moment-republicain-339.html (from ecd-sartrouville.fr/date/2016/01)
+17:02:02	Error: 	Unable to save file C:/Mes Sites Web/edc/ecd-sartrouville.fr/nous-sommes-la-france-un-grand-moment-republicain-339.html: Permission denied
+17:02:02	Error: 	"Error when decompressing" (-1) at link ecd-sartrouville.fr/abdelhafid-commissaire-de-police-au-service-des-autres-336.html (from ecd-sartrouville.fr/date/2016/01)
+17:02:02	Error: 	Unable to save file C:/Mes Sites Web/edc/ecd-sartrouville.fr/abdelhafid-commissaire-de-police-au-service-des-autres-336.html: Permission denied
+17:02:02	Error: 	"Error when decompressing" (-1) at link ecd-sartrouville.fr/lequipe-rh-de-british-telecom-coache-les-jeunes-decd-sartrouville-333.html (from ecd-sartrouville.fr/date/2016/01)
+17:02:02	Error: 	Unable to save file C:/Mes Sites Web/edc/ecd-sartrouville.fr/lequipe-rh-de-british-telecom-coache-les-jeunes-decd-sartrouville-333.html: Permission denied
+17:02:08	Warning: 	Moved Permanently for ecd-sartrouville.fr/?p=1200
+17:02:08	Warning: 	File has moved from ecd-sartrouville.fr/?p=1200 to http://ecd-sartrouville.fr/bilan-de-progression-2018-reunion-parents-profs-decd-sartrouville-1200.html
+17:02:14	Warning: 	Retry after error -4 (Connect Error) at link www.facebook.com/sharer.php?s=100&p%5Burl%5D=http://ecd-sartrouville.fr/bilan-de-progression-2018-reunion-parents-profs-decd-sartrouville-1200.html&p%5Btitle%5D=Bilan+de+Progression+2018+%3A+R%C3%A9union+parents-profs+d%E2%80%99ECD+Sartrouville&p%5Bimages%5D%5B0%5D=http://ecd-sartrouville.fr/wp-content/uploads/2018/06/20180620_1602393252209603272941882.jpg (from ecd-sartrouville.fr/bilan-de-progression-2018-reunion-parents-profs-decd-sartrouville-1200.html)
+17:02:14	Warning: 	Moved Permanently for ecd-sartrouville.fr/?p=1210
+17:02:14	Warning: 	File has moved from ecd-sartrouville.fr/?p=1210 to http://ecd-sartrouville.fr/les-enfants-decd-commemorent-le-18-juin-40-1210.html
+17:02:14	Warning: 	Retry after error -4 (Incorrect length (327741 Bytes, 399531 expected)) at link ecd-sartrouville.fr/wp-content/uploads/2018/09/img_20180901_174245388711962311513409.jpg (from ecd-sartrouville.fr/les-enfants-decd-commemorent-le-18-juin-40-1210.html)
+17:02:27	Warning: 	Moved Permanently for ecd-sartrouville.fr/?p=1178
+17:02:27	Warning: 	File has moved from ecd-sartrouville.fr/?p=1178 to http://ecd-sartrouville.fr/atelier-prevention-de-la-radicalisation-religieuse-1178.html
+17:02:27	Warning: 	Moved Permanently for ecd-sartrouville.fr/?p=1189
+17:02:27	Warning: 	File has moved from ecd-sartrouville.fr/?p=1189 to http://ecd-sartrouville.fr/retour-sur-la-ceremonie-de-la-journee-nationale-de-la-deportation-1189.html
+17:02:32	Warning: 	Moved Permanently for ecd-sartrouville.fr/?p=1184
+17:02:32	Warning: 	File has moved from ecd-sartrouville.fr/?p=1184 to http://ecd-sartrouville.fr/intensives-ecd-pendant-vacances-de-printemps-1184.html
+17:02:35	Warning: 	Moved Permanently for ecd-sartrouville.fr/?p=1181
+17:02:35	Warning: 	File has moved from ecd-sartrouville.fr/?p=1181 to http://ecd-sartrouville.fr/culture-ecd-joue-carnet-de-voyage-au-theatre-national-de-sartrouville-1181.html
+17:02:38	Warning: 	Moved Permanently for ecd-sartrouville.fr/?p=1120
+17:02:38	Warning: 	File has moved from ecd-sartrouville.fr/?p=1120 to http://ecd-sartrouville.fr/culture-ecd-sartrouville-en-partenariat-avec-theatre-de-sartrouville-et-des-yvelines-cdn-1120.html
+17:02:38	Warning: 	Retry after error -4 (Incorrect length (661257 Bytes, 829170 expected)) at link ecd-sartrouville.fr/wp-content/uploads/2018/02/20180110_1440511690956765.jpg (from ecd-sartrouville.fr/culture-ecd-sartrouville-en-partenariat-avec-theatre-de-sartrouville-et-des-yvelines-cdn-1120.html)
+17:02:38	Warning: 	Moved Permanently for ecd-sartrouville.fr/?p=1061
+17:02:38	Warning: 	File has moved from ecd-sartrouville.fr/?p=1061 to http://ecd-sartrouville.fr/le-parisien-novembre-2017-1061.html
+17:02:41	Warning: 	Moved Permanently for ecd-sartrouville.fr/?p=1034
+17:02:41	Warning: 	File has moved from ecd-sartrouville.fr/?p=1034 to http://ecd-sartrouville.fr/le-courrier-des-yvelines-octobre-2017-1034.html
+17:02:44	Warning: 	Moved Permanently for ecd-sartrouville.fr/?p=986
+17:02:44	Warning: 	File has moved from ecd-sartrouville.fr/?p=986 to http://ecd-sartrouville.fr/le-magazine-de-sartrouville-mai-2017-986.html
+17:02:44	Warning: 	Moved Permanently for ecd-sartrouville.fr/?p=983
+17:02:44	Warning: 	File has moved from ecd-sartrouville.fr/?p=983 to http://ecd-sartrouville.fr/magazine-de-sartrouville-avril-2017-983.html
+17:02:44	Warning: 	Moved Permanently for ecd-sartrouville.fr/?p=674
+17:02:44	Warning: 	File has moved from ecd-sartrouville.fr/?p=674 to http://ecd-sartrouville.fr/le-journal-de-sartrouville-mai-2016-674.html
+17:02:50	Warning: 	Moved Permanently for ecd-sartrouville.fr/?p=678
+17:02:50	Warning: 	File has moved from ecd-sartrouville.fr/?p=678 to http://ecd-sartrouville.fr/le-journal-de-sartrouville-mars-2016-2-678.html
+17:02:50	Warning: 	Moved Permanently for ecd-sartrouville.fr/?p=568
+17:02:50	Warning: 	File has moved from ecd-sartrouville.fr/?p=568 to http://ecd-sartrouville.fr/le-journal-de-sartrouville-mars-2016-568.html
+17:02:50	Warning: 	Moved Permanently for ecd-sartrouville.fr/?p=516
+17:02:50	Warning: 	File has moved from ecd-sartrouville.fr/?p=516 to http://ecd-sartrouville.fr/sartrouville-magazine-decembre-2015-516.html
+17:02:50	Warning: 	Moved Permanently for ecd-sartrouville.fr/?p=459
+17:02:50	Warning: 	File has moved from ecd-sartrouville.fr/?p=459 to http://ecd-sartrouville.fr/le-parisien-4-459.html
+17:02:50	Warning: 	Moved Permanently for ecd-sartrouville.fr/?p=435
+17:02:50	Warning: 	File has moved from ecd-sartrouville.fr/?p=435 to http://ecd-sartrouville.fr/le-courrier-des-yvelines-435.html
+17:02:50	Warning: 	Moved Permanently for ecd-sartrouville.fr/?p=527
+17:02:50	Warning: 	File has moved from ecd-sartrouville.fr/?p=527 to http://ecd-sartrouville.fr/le-journal-de-sartrouville-juillet-2015-527.html
+17:02:50	Warning: 	Moved Permanently for ecd-sartrouville.fr/?p=486
+17:02:50	Warning: 	File has moved from ecd-sartrouville.fr/?p=486 to http://ecd-sartrouville.fr/le-journal-de-sartrouville-octobre-2014-486.html
+17:02:50	Warning: 	Moved Permanently for ecd-sartrouville.fr/?p=998
+17:02:50	Warning: 	File has moved from ecd-sartrouville.fr/?p=998 to http://ecd-sartrouville.fr/dt_gallery/18juin1940-les-grands-moments-de-la-commemoration
+17:02:50	Warning: 	Moved Permanently for ecd-sartrouville.fr/?p=994
+17:02:50	Warning: 	File has moved from ecd-sartrouville.fr/?p=994 to http://ecd-sartrouville.fr/18juin1940-depot-de-gerbe-par-les-collegiens-decd-et-echange-intergenerationnel-990.html/img_4070
+17:02:50	Warning: 	Moved Permanently for ecd-sartrouville.fr/?p=999
+17:02:50	Warning: 	File has moved from ecd-sartrouville.fr/?p=999 to http://ecd-sartrouville.fr/dt_gallery/18juin1940-les-grands-moments-de-la-commemoration/img_4035-2
+17:02:50	Warning: 	Moved Permanently for ecd-sartrouville.fr/?p=1000
+17:02:50	Warning: 	File has moved from ecd-sartrouville.fr/?p=1000 to http://ecd-sartrouville.fr/dt_gallery/18juin1940-les-grands-moments-de-la-commemoration/img_3976
+17:02:50	Warning: 	Moved Permanently for ecd-sartrouville.fr/?p=1001
+17:02:50	Warning: 	File has moved from ecd-sartrouville.fr/?p=1001 to http://ecd-sartrouville.fr/dt_gallery/18juin1940-les-grands-moments-de-la-commemoration/img_4015
+17:02:50	Warning: 	Moved Permanently for ecd-sartrouville.fr/?p=1002
+17:02:50	Warning: 	File has moved from ecd-sartrouville.fr/?p=1002 to http://ecd-sartrouville.fr/dt_gallery/18juin1940-les-grands-moments-de-la-commemoration/img_4057-2
+17:02:50	Warning: 	Moved Permanently for ecd-sartrouville.fr/?p=1003
+17:02:50	Warning: 	File has moved from ecd-sartrouville.fr/?p=1003 to http://ecd-sartrouville.fr/dt_gallery/18juin1940-les-grands-moments-de-la-commemoration/img_4017
+17:02:50	Warning: 	Moved Permanently for ecd-sartrouville.fr/?p=1004
+17:02:50	Warning: 	File has moved from ecd-sartrouville.fr/?p=1004 to http://ecd-sartrouville.fr/dt_gallery/18juin1940-les-grands-moments-de-la-commemoration/img_4063
+17:02:50	Warning: 	Moved Permanently for ecd-sartrouville.fr/?p=1005
+17:02:50	Warning: 	File has moved from ecd-sartrouville.fr/?p=1005 to http://ecd-sartrouville.fr/dt_gallery/18juin1940-les-grands-moments-de-la-commemoration/img_3979
+17:02:50	Warning: 	Moved Permanently for ecd-sartrouville.fr/?p=1006
+17:02:50	Warning: 	File has moved from ecd-sartrouville.fr/?p=1006 to http://ecd-sartrouville.fr/dt_gallery/18juin1940-les-grands-moments-de-la-commemoration/img_4016
+17:02:50	Warning: 	Moved Permanently for ecd-sartrouville.fr/?p=1007
+17:02:50	Warning: 	File has moved from ecd-sartrouville.fr/?p=1007 to http://ecd-sartrouville.fr/dt_gallery/18juin1940-les-grands-moments-de-la-commemoration/img_4064
+17:02:50	Warning: 	Moved Permanently for ecd-sartrouville.fr/?p=1008
+17:02:50	Warning: 	File has moved from ecd-sartrouville.fr/?p=1008 to http://ecd-sartrouville.fr/dt_gallery/18juin1940-les-grands-moments-de-la-commemoration/img_3993
+17:02:50	Warning: 	Moved Permanently for ecd-sartrouville.fr/?p=1009
+17:02:50	Warning: 	File has moved from ecd-sartrouville.fr/?p=1009 to http://ecd-sartrouville.fr/dt_gallery/18juin1940-les-grands-moments-de-la-commemoration/img_3991
+17:02:50	Warning: 	Moved Permanently for ecd-sartrouville.fr/?p=1010
+17:02:50	Warning: 	File has moved from ecd-sartrouville.fr/?p=1010 to http://ecd-sartrouville.fr/dt_gallery/18juin1940-les-grands-moments-de-la-commemoration/img_4079
+17:02:50	Warning: 	Moved Permanently for ecd-sartrouville.fr/?p=1011
+17:02:50	Warning: 	File has moved from ecd-sartrouville.fr/?p=1011 to http://ecd-sartrouville.fr/dt_gallery/18juin1940-les-grands-moments-de-la-commemoration/img_4002
+17:02:50	Warning: 	Moved Permanently for ecd-sartrouville.fr/?p=1012
+17:02:50	Warning: 	File has moved from ecd-sartrouville.fr/?p=1012 to http://ecd-sartrouville.fr/dt_gallery/18juin1940-les-grands-moments-de-la-commemoration/img_4051
+17:02:50	Warning: 	Moved Permanently for ecd-sartrouville.fr/?p=1013
+17:02:50	Warning: 	File has moved from ecd-sartrouville.fr/?p=1013 to http://ecd-sartrouville.fr/dt_gallery/18juin1940-les-grands-moments-de-la-commemoration/img_4059
+17:02:50	Warning: 	Moved Permanently for ecd-sartrouville.fr/?p=1014
+17:02:50	Warning: 	File has moved from ecd-sartrouville.fr/?p=1014 to http://ecd-sartrouville.fr/dt_gallery/18juin1940-les-grands-moments-de-la-commemoration/img_4048
+17:02:50	Warning: 	Moved Permanently for ecd-sartrouville.fr/?p=1015
+17:02:50	Warning: 	File has moved from ecd-sartrouville.fr/?p=1015 to http://ecd-sartrouville.fr/dt_gallery/18juin1940-les-grands-moments-de-la-commemoration/img_4070-2
+17:02:50	Warning: 	Moved Permanently for ecd-sartrouville.fr/?p=1017
+17:02:50	Warning: 	File has moved from ecd-sartrouville.fr/?p=1017 to http://ecd-sartrouville.fr/dt_gallery/18juin1940-les-grands-moments-de-la-commemoration/img_4069
+17:02:51	Warning: 	Moved Permanently for ecd-sartrouville.fr/?p=1018
+17:02:51	Warning: 	File has moved from ecd-sartrouville.fr/?p=1018 to http://ecd-sartrouville.fr/dt_gallery/18juin1940-les-grands-moments-de-la-commemoration/img_4074
+17:02:52	Warning: 	Moved Permanently for ecd-sartrouville.fr/?p=836
+17:02:52	Warning: 	File has moved from ecd-sartrouville.fr/?p=836 to http://ecd-sartrouville.fr/dt_gallery/ee2017-du-college-au-superieur-preparer-son-avenir
+17:02:52	Warning: 	Moved Permanently for ecd-sartrouville.fr/feed/?attachment_id=936
+17:02:52	Warning: 	File has moved from ecd-sartrouville.fr/feed/?attachment_id=936 to http://ecd-sartrouville.fr/feed?attachment_id=936
+17:02:53	Warning: 	Moved Permanently for ecd-sartrouville.fr/?p=936
+17:02:53	Warning: 	File has moved from ecd-sartrouville.fr/?p=936 to http://ecd-sartrouville.fr/20170422_143037
+17:02:53	Warning: 	Moved Permanently for ecd-sartrouville.fr/feed/?attachment_id=852
+17:02:53	Warning: 	File has moved from ecd-sartrouville.fr/feed/?attachment_id=852 to http://ecd-sartrouville.fr/feed?attachment_id=852
+17:02:54	Warning: 	Moved Permanently for ecd-sartrouville.fr/?p=852
+17:02:54	Warning: 	File has moved from ecd-sartrouville.fr/?p=852 to http://ecd-sartrouville.fr/img_3452
+17:02:54	Warning: 	Moved Permanently for ecd-sartrouville.fr/feed/?attachment_id=853
+17:02:54	Warning: 	File has moved from ecd-sartrouville.fr/feed/?attachment_id=853 to http://ecd-sartrouville.fr/feed?attachment_id=853
+17:02:55	Warning: 	Moved Permanently for ecd-sartrouville.fr/?p=853
+17:02:55	Warning: 	File has moved from ecd-sartrouville.fr/?p=853 to http://ecd-sartrouville.fr/img_3451
+17:02:55	Warning: 	Moved Permanently for ecd-sartrouville.fr/feed/?attachment_id=854
+17:02:55	Warning: 	File has moved from ecd-sartrouville.fr/feed/?attachment_id=854 to http://ecd-sartrouville.fr/feed?attachment_id=854
+17:02:55	Warning: 	Moved Permanently for ecd-sartrouville.fr/?p=854
+17:02:55	Warning: 	File has moved from ecd-sartrouville.fr/?p=854 to http://ecd-sartrouville.fr/img_3450
+17:02:55	Warning: 	Moved Permanently for ecd-sartrouville.fr/feed/?attachment_id=855
+17:02:55	Warning: 	File has moved from ecd-sartrouville.fr/feed/?attachment_id=855 to http://ecd-sartrouville.fr/feed?attachment_id=855
+17:02:56	Warning: 	Moved Permanently for ecd-sartrouville.fr/?p=855
+17:02:56	Warning: 	File has moved from ecd-sartrouville.fr/?p=855 to http://ecd-sartrouville.fr/img_3449
+17:02:56	Warning: 	Moved Permanently for ecd-sartrouville.fr/feed/?attachment_id=856
+17:02:56	Warning: 	File has moved from ecd-sartrouville.fr/feed/?attachment_id=856 to http://ecd-sartrouville.fr/feed?attachment_id=856
+17:02:57	Warning: 	Moved Permanently for ecd-sartrouville.fr/?p=856
+17:02:57	Warning: 	File has moved from ecd-sartrouville.fr/?p=856 to http://ecd-sartrouville.fr/img_3448
+17:02:57	Warning: 	Moved Permanently for ecd-sartrouville.fr/feed/?attachment_id=857
+17:02:57	Warning: 	File has moved from ecd-sartrouville.fr/feed/?attachment_id=857 to http://ecd-sartrouville.fr/feed?attachment_id=857
+17:02:58	Warning: 	Moved Permanently for ecd-sartrouville.fr/?p=857
+17:02:58	Warning: 	File has moved from ecd-sartrouville.fr/?p=857 to http://ecd-sartrouville.fr/img_3447
+17:02:58	Warning: 	Moved Permanently for ecd-sartrouville.fr/feed/?attachment_id=858
+17:02:58	Warning: 	File has moved from ecd-sartrouville.fr/feed/?attachment_id=858 to http://ecd-sartrouville.fr/feed?attachment_id=858
+17:02:59	Warning: 	Moved Permanently for ecd-sartrouville.fr/?p=858
+17:02:59	Warning: 	File has moved from ecd-sartrouville.fr/?p=858 to http://ecd-sartrouville.fr/img_3446
+17:02:59	Warning: 	Moved Permanently for ecd-sartrouville.fr/feed/?attachment_id=859
+17:02:59	Warning: 	File has moved from ecd-sartrouville.fr/feed/?attachment_id=859 to http://ecd-sartrouville.fr/feed?attachment_id=859
+17:03:01	Warning: 	Moved Permanently for ecd-sartrouville.fr/?p=859
+17:03:01	Warning: 	File has moved from ecd-sartrouville.fr/?p=859 to http://ecd-sartrouville.fr/img_3445
+17:03:01	Warning: 	Moved Permanently for ecd-sartrouville.fr/feed/?attachment_id=860
+17:03:01	Warning: 	File has moved from ecd-sartrouville.fr/feed/?attachment_id=860 to http://ecd-sartrouville.fr/feed?attachment_id=860
+17:03:02	Warning: 	Moved Permanently for ecd-sartrouville.fr/?p=860
+17:03:02	Warning: 	File has moved from ecd-sartrouville.fr/?p=860 to http://ecd-sartrouville.fr/img_3444
+17:03:02	Warning: 	Moved Permanently for ecd-sartrouville.fr/feed/?attachment_id=861
+17:03:02	Warning: 	File has moved from ecd-sartrouville.fr/feed/?attachment_id=861 to http://ecd-sartrouville.fr/feed?attachment_id=861
+17:03:03	Warning: 	Moved Permanently for ecd-sartrouville.fr/?p=861
+17:03:03	Warning: 	File has moved from ecd-sartrouville.fr/?p=861 to http://ecd-sartrouville.fr/img_3443
+17:03:03	Warning: 	Moved Permanently for ecd-sartrouville.fr/feed/?attachment_id=862
+17:03:03	Warning: 	File has moved from ecd-sartrouville.fr/feed/?attachment_id=862 to http://ecd-sartrouville.fr/feed?attachment_id=862
+17:03:04	Warning: 	Moved Permanently for ecd-sartrouville.fr/?p=862
+17:03:04	Warning: 	File has moved from ecd-sartrouville.fr/?p=862 to http://ecd-sartrouville.fr/img_3442
+17:03:04	Warning: 	Moved Permanently for ecd-sartrouville.fr/feed/?attachment_id=864
+17:03:04	Warning: 	File has moved from ecd-sartrouville.fr/feed/?attachment_id=864 to http://ecd-sartrouville.fr/feed?attachment_id=864
+17:03:05	Warning: 	Moved Permanently for ecd-sartrouville.fr/?p=864
+17:03:05	Warning: 	File has moved from ecd-sartrouville.fr/?p=864 to http://ecd-sartrouville.fr/20170423_010739
+17:03:05	Warning: 	Moved Permanently for ecd-sartrouville.fr/feed/?attachment_id=899
+17:03:05	Warning: 	File has moved from ecd-sartrouville.fr/feed/?attachment_id=899 to http://ecd-sartrouville.fr/feed?attachment_id=899
+17:03:06	Warning: 	Moved Permanently for ecd-sartrouville.fr/?p=899
+17:03:06	Warning: 	File has moved from ecd-sartrouville.fr/?p=899 to http://ecd-sartrouville.fr/20170422_165622
+17:03:06	Warning: 	Moved Permanently for ecd-sartrouville.fr/?p=908
+17:03:06	Warning: 	File has moved from ecd-sartrouville.fr/?p=908 to http://ecd-sartrouville.fr/lassociation-ecd-sartrouville-invitee-a-luniversite-paris-dauphine-803.html/20170422_163443
+17:03:06	Warning: 	Moved Permanently for ecd-sartrouville.fr/?p=925
+17:03:06	Warning: 	File has moved from ecd-sartrouville.fr/?p=925 to http://ecd-sartrouville.fr/lassociation-ecd-sartrouville-invitee-a-luniversite-paris-dauphine-803.html/20170422_151702
+17:03:06	Warning: 	Moved Permanently for ecd-sartrouville.fr/feed/?attachment_id=867
+17:03:06	Warning: 	File has moved from ecd-sartrouville.fr/feed/?attachment_id=867 to http://ecd-sartrouville.fr/feed?attachment_id=867
+17:03:07	Warning: 	Moved Permanently for ecd-sartrouville.fr/?p=867
+17:03:07	Warning: 	File has moved from ecd-sartrouville.fr/?p=867 to http://ecd-sartrouville.fr/20170422_174938
+17:03:07	Warning: 	Moved Permanently for ecd-sartrouville.fr/feed/?attachment_id=868
+17:03:07	Warning: 	File has moved from ecd-sartrouville.fr/feed/?attachment_id=868 to http://ecd-sartrouville.fr/feed?attachment_id=868
+17:03:08	Warning: 	Moved Permanently for ecd-sartrouville.fr/?p=868
+17:03:08	Warning: 	File has moved from ecd-sartrouville.fr/?p=868 to http://ecd-sartrouville.fr/20170422_174935
+17:03:08	Warning: 	Moved Permanently for ecd-sartrouville.fr/feed/?attachment_id=869
+17:03:08	Warning: 	File has moved from ecd-sartrouville.fr/feed/?attachment_id=869 to http://ecd-sartrouville.fr/feed?attachment_id=869
+17:03:09	Warning: 	Moved Permanently for ecd-sartrouville.fr/?p=869
+17:03:09	Warning: 	File has moved from ecd-sartrouville.fr/?p=869 to http://ecd-sartrouville.fr/20170422_174924
+17:03:09	Warning: 	Moved Permanently for ecd-sartrouville.fr/feed/?attachment_id=870
+17:03:09	Warning: 	File has moved from ecd-sartrouville.fr/feed/?attachment_id=870 to http://ecd-sartrouville.fr/feed?attachment_id=870
+17:03:10	Warning: 	Moved Permanently for ecd-sartrouville.fr/?p=870
+17:03:10	Warning: 	File has moved from ecd-sartrouville.fr/?p=870 to http://ecd-sartrouville.fr/20170422_174923
+17:03:10	Warning: 	Moved Permanently for ecd-sartrouville.fr/feed/?attachment_id=871
+17:03:10	Warning: 	File has moved from ecd-sartrouville.fr/feed/?attachment_id=871 to http://ecd-sartrouville.fr/feed?attachment_id=871
+17:03:11	Warning: 	Moved Permanently for ecd-sartrouville.fr/?p=871
+17:03:11	Warning: 	File has moved from ecd-sartrouville.fr/?p=871 to http://ecd-sartrouville.fr/20170422_174916
+17:03:11	Warning: 	Moved Permanently for ecd-sartrouville.fr/feed/?attachment_id=872
+17:03:11	Warning: 	File has moved from ecd-sartrouville.fr/feed/?attachment_id=872 to http://ecd-sartrouville.fr/feed?attachment_id=872
+17:03:12	Warning: 	Moved Permanently for ecd-sartrouville.fr/?p=872
+17:03:12	Warning: 	File has moved from ecd-sartrouville.fr/?p=872 to http://ecd-sartrouville.fr/20170422_174914
+17:03:12	Warning: 	Moved Permanently for ecd-sartrouville.fr/feed/?attachment_id=874
+17:03:12	Warning: 	File has moved from ecd-sartrouville.fr/feed/?attachment_id=874 to http://ecd-sartrouville.fr/feed?attachment_id=874
+17:03:13	Warning: 	Moved Permanently for ecd-sartrouville.fr/?p=874
+17:03:13	Warning: 	File has moved from ecd-sartrouville.fr/?p=874 to http://ecd-sartrouville.fr/20170422_172246
+17:03:13	Warning: 	Moved Permanently for ecd-sartrouville.fr/feed/?attachment_id=877
+17:03:13	Warning: 	File has moved from ecd-sartrouville.fr/feed/?attachment_id=877 to http://ecd-sartrouville.fr/feed?attachment_id=877
+17:03:13	Warning: 	Moved Permanently for ecd-sartrouville.fr/?p=877
+17:03:13	Warning: 	File has moved from ecd-sartrouville.fr/?p=877 to http://ecd-sartrouville.fr/20170422_172206
+17:03:13	Warning: 	Moved Permanently for ecd-sartrouville.fr/feed/?attachment_id=878
+17:03:13	Warning: 	File has moved from ecd-sartrouville.fr/feed/?attachment_id=878 to http://ecd-sartrouville.fr/feed?attachment_id=878
+17:03:15	Warning: 	Moved Permanently for ecd-sartrouville.fr/?p=878
+17:03:15	Warning: 	File has moved from ecd-sartrouville.fr/?p=878 to http://ecd-sartrouville.fr/20170422_172104
+17:03:15	Warning: 	Moved Permanently for ecd-sartrouville.fr/feed/?attachment_id=879
+17:03:15	Warning: 	File has moved from ecd-sartrouville.fr/feed/?attachment_id=879 to http://ecd-sartrouville.fr/feed?attachment_id=879
+17:03:15	Warning: 	Moved Permanently for ecd-sartrouville.fr/?p=879
+17:03:15	Warning: 	File has moved from ecd-sartrouville.fr/?p=879 to http://ecd-sartrouville.fr/20170422_172045
+17:03:15	Warning: 	Moved Permanently for ecd-sartrouville.fr/feed/?attachment_id=883
+17:03:15	Warning: 	File has moved from ecd-sartrouville.fr/feed/?attachment_id=883 to http://ecd-sartrouville.fr/feed?attachment_id=883
+17:03:16	Warning: 	Moved Permanently for ecd-sartrouville.fr/?p=883
+17:03:16	Warning: 	File has moved from ecd-sartrouville.fr/?p=883 to http://ecd-sartrouville.fr/20170422_172000
+17:03:16	Warning: 	Moved Permanently for ecd-sartrouville.fr/feed/?attachment_id=892
+17:03:16	Warning: 	File has moved from ecd-sartrouville.fr/feed/?attachment_id=892 to http://ecd-sartrouville.fr/feed?attachment_id=892
+17:03:17	Warning: 	Moved Permanently for ecd-sartrouville.fr/?p=892
+17:03:17	Warning: 	File has moved from ecd-sartrouville.fr/?p=892 to http://ecd-sartrouville.fr/20170422_171631
+17:03:18	Warning: 	Moved Permanently for ecd-sartrouville.fr/feed/?attachment_id=895
+17:03:18	Warning: 	File has moved from ecd-sartrouville.fr/feed/?attachment_id=895 to http://ecd-sartrouville.fr/feed?attachment_id=895
+17:03:19	Warning: 	Moved Permanently for ecd-sartrouville.fr/?p=895
+17:03:19	Warning: 	File has moved from ecd-sartrouville.fr/?p=895 to http://ecd-sartrouville.fr/20170422_171602
+17:03:19	Warning: 	Moved Permanently for ecd-sartrouville.fr/feed/?attachment_id=904
+17:03:19	Warning: 	File has moved from ecd-sartrouville.fr/feed/?attachment_id=904 to http://ecd-sartrouville.fr/feed?attachment_id=904
+17:03:20	Warning: 	Moved Permanently for ecd-sartrouville.fr/?p=904
+17:03:20	Warning: 	File has moved from ecd-sartrouville.fr/?p=904 to http://ecd-sartrouville.fr/20170422_163752
+17:03:20	Warning: 	Moved Permanently for ecd-sartrouville.fr/feed/?attachment_id=905
+17:03:20	Warning: 	File has moved from ecd-sartrouville.fr/feed/?attachment_id=905 to http://ecd-sartrouville.fr/feed?attachment_id=905
+17:03:21	Warning: 	Moved Permanently for ecd-sartrouville.fr/?p=905
+17:03:21	Warning: 	File has moved from ecd-sartrouville.fr/?p=905 to http://ecd-sartrouville.fr/20170422_163749
+17:03:21	Warning: 	Moved Permanently for ecd-sartrouville.fr/feed/?attachment_id=906
+17:03:21	Warning: 	File has moved from ecd-sartrouville.fr/feed/?attachment_id=906 to http://ecd-sartrouville.fr/feed?attachment_id=906
+17:03:22	Warning: 	Moved Permanently for ecd-sartrouville.fr/?p=906
+17:03:22	Warning: 	File has moved from ecd-sartrouville.fr/?p=906 to http://ecd-sartrouville.fr/20170422_163747
+17:03:22	Warning: 	Moved Permanently for ecd-sartrouville.fr/feed/?attachment_id=915
+17:03:22	Warning: 	File has moved from ecd-sartrouville.fr/feed/?attachment_id=915 to http://ecd-sartrouville.fr/feed?attachment_id=915
+17:03:23	Warning: 	Moved Permanently for ecd-sartrouville.fr/?p=915
+17:03:23	Warning: 	File has moved from ecd-sartrouville.fr/?p=915 to http://ecd-sartrouville.fr/20170422_153422
+17:03:23	Warning: 	Moved Permanently for ecd-sartrouville.fr/feed/?attachment_id=918
+17:03:23	Warning: 	File has moved from ecd-sartrouville.fr/feed/?attachment_id=918 to http://ecd-sartrouville.fr/feed?attachment_id=918
+17:03:25	Warning: 	Moved Permanently for ecd-sartrouville.fr/?p=918
+17:03:25	Warning: 	File has moved from ecd-sartrouville.fr/?p=918 to http://ecd-sartrouville.fr/20170422_153345
+17:03:25	Warning: 	Moved Permanently for ecd-sartrouville.fr/feed/?attachment_id=919
+17:03:25	Warning: 	File has moved from ecd-sartrouville.fr/feed/?attachment_id=919 to http://ecd-sartrouville.fr/feed?attachment_id=919
+17:03:25	Warning: 	Moved Permanently for ecd-sartrouville.fr/?p=919
+17:03:25	Warning: 	File has moved from ecd-sartrouville.fr/?p=919 to http://ecd-sartrouville.fr/20170422_153335
+17:03:25	Warning: 	Moved Permanently for ecd-sartrouville.fr/feed/?attachment_id=920
+17:03:25	Warning: 	File has moved from ecd-sartrouville.fr/feed/?attachment_id=920 to http://ecd-sartrouville.fr/feed?attachment_id=920
+17:03:26	Warning: 	Moved Permanently for ecd-sartrouville.fr/?p=920
+17:03:26	Warning: 	File has moved from ecd-sartrouville.fr/?p=920 to http://ecd-sartrouville.fr/20170422_153322
+17:03:26	Warning: 	Moved Permanently for ecd-sartrouville.fr/feed/?attachment_id=921
+17:03:26	Warning: 	File has moved from ecd-sartrouville.fr/feed/?attachment_id=921 to http://ecd-sartrouville.fr/feed?attachment_id=921
+17:03:28	Warning: 	Moved Permanently for ecd-sartrouville.fr/?p=921
+17:03:28	Warning: 	File has moved from ecd-sartrouville.fr/?p=921 to http://ecd-sartrouville.fr/20170422_153321
+17:03:28	Warning: 	Moved Permanently for ecd-sartrouville.fr/feed/?attachment_id=922
+17:03:28	Warning: 	File has moved from ecd-sartrouville.fr/feed/?attachment_id=922 to http://ecd-sartrouville.fr/feed?attachment_id=922
+17:03:29	Warning: 	Moved Permanently for ecd-sartrouville.fr/?p=922
+17:03:29	Warning: 	File has moved from ecd-sartrouville.fr/?p=922 to http://ecd-sartrouville.fr/20170422_153302
+17:03:29	Warning: 	Moved Permanently for ecd-sartrouville.fr/feed/?attachment_id=930
+17:03:29	Warning: 	File has moved from ecd-sartrouville.fr/feed/?attachment_id=930 to http://ecd-sartrouville.fr/feed?attachment_id=930
+17:03:30	Warning: 	Moved Permanently for ecd-sartrouville.fr/?p=930
+17:03:30	Warning: 	File has moved from ecd-sartrouville.fr/?p=930 to http://ecd-sartrouville.fr/20170422_143840
+17:03:30	Warning: 	Moved Permanently for ecd-sartrouville.fr/feed/?attachment_id=931
+17:03:30	Warning: 	File has moved from ecd-sartrouville.fr/feed/?attachment_id=931 to http://ecd-sartrouville.fr/feed?attachment_id=931
+17:03:31	Warning: 	Moved Permanently for ecd-sartrouville.fr/?p=931
+17:03:31	Warning: 	File has moved from ecd-sartrouville.fr/?p=931 to http://ecd-sartrouville.fr/20170422_143635
+17:03:31	Warning: 	Moved Permanently for ecd-sartrouville.fr/feed/?attachment_id=932
+17:03:31	Warning: 	File has moved from ecd-sartrouville.fr/feed/?attachment_id=932 to http://ecd-sartrouville.fr/feed?attachment_id=932
+17:03:32	Warning: 	Moved Permanently for ecd-sartrouville.fr/?p=932
+17:03:32	Warning: 	File has moved from ecd-sartrouville.fr/?p=932 to http://ecd-sartrouville.fr/20170422_143624
+17:03:32	Warning: 	Moved Permanently for ecd-sartrouville.fr/feed/?attachment_id=933
+17:03:32	Warning: 	File has moved from ecd-sartrouville.fr/feed/?attachment_id=933 to http://ecd-sartrouville.fr/feed?attachment_id=933
+17:03:33	Warning: 	Moved Permanently for ecd-sartrouville.fr/?p=933
+17:03:33	Warning: 	File has moved from ecd-sartrouville.fr/?p=933 to http://ecd-sartrouville.fr/20170422_143623
+17:03:33	Warning: 	Moved Permanently for ecd-sartrouville.fr/feed/?attachment_id=934
+17:03:33	Warning: 	File has moved from ecd-sartrouville.fr/feed/?attachment_id=934 to http://ecd-sartrouville.fr/feed?attachment_id=934
+17:03:34	Warning: 	Moved Permanently for ecd-sartrouville.fr/?p=934
+17:03:34	Warning: 	File has moved from ecd-sartrouville.fr/?p=934 to http://ecd-sartrouville.fr/20170422_143045
+17:03:34	Warning: 	Moved Permanently for ecd-sartrouville.fr/feed/?attachment_id=935
+17:03:34	Warning: 	File has moved from ecd-sartrouville.fr/feed/?attachment_id=935 to http://ecd-sartrouville.fr/feed?attachment_id=935
+17:03:34	Warning: 	Moved Permanently for ecd-sartrouville.fr/?p=935
+17:03:34	Warning: 	File has moved from ecd-sartrouville.fr/?p=935 to http://ecd-sartrouville.fr/20170422_143043
+17:03:34	Warning: 	Moved Permanently for ecd-sartrouville.fr/feed/?attachment_id=937
+17:03:34	Warning: 	File has moved from ecd-sartrouville.fr/feed/?attachment_id=937 to http://ecd-sartrouville.fr/feed?attachment_id=937
+17:03:35	Warning: 	Moved Permanently for ecd-sartrouville.fr/?p=937
+17:03:35	Warning: 	File has moved from ecd-sartrouville.fr/?p=937 to http://ecd-sartrouville.fr/20170422_143034
+17:03:35	Warning: 	Moved Permanently for ecd-sartrouville.fr/feed/?attachment_id=938
+17:03:35	Warning: 	File has moved from ecd-sartrouville.fr/feed/?attachment_id=938 to http://ecd-sartrouville.fr/feed?attachment_id=938
+17:03:36	Warning: 	Moved Permanently for ecd-sartrouville.fr/?p=938
+17:03:36	Warning: 	File has moved from ecd-sartrouville.fr/?p=938 to http://ecd-sartrouville.fr/20170422_143032
+17:03:36	Warning: 	Moved Permanently for ecd-sartrouville.fr/feed/?attachment_id=939
+17:03:36	Warning: 	File has moved from ecd-sartrouville.fr/feed/?attachment_id=939 to http://ecd-sartrouville.fr/feed?attachment_id=939
+17:03:37	Warning: 	Moved Permanently for ecd-sartrouville.fr/?p=939
+17:03:37	Warning: 	File has moved from ecd-sartrouville.fr/?p=939 to http://ecd-sartrouville.fr/20170422_142511
+17:03:37	Warning: 	Moved Permanently for ecd-sartrouville.fr/feed/?attachment_id=940
+17:03:37	Warning: 	File has moved from ecd-sartrouville.fr/feed/?attachment_id=940 to http://ecd-sartrouville.fr/feed?attachment_id=940
+17:03:38	Warning: 	Moved Permanently for ecd-sartrouville.fr/?p=940
+17:03:38	Warning: 	File has moved from ecd-sartrouville.fr/?p=940 to http://ecd-sartrouville.fr/20170422_142426
+17:03:38	Warning: 	Moved Permanently for ecd-sartrouville.fr/feed/?attachment_id=941
+17:03:38	Warning: 	File has moved from ecd-sartrouville.fr/feed/?attachment_id=941 to http://ecd-sartrouville.fr/feed?attachment_id=941
+17:03:39	Warning: 	Moved Permanently for ecd-sartrouville.fr/?p=941
+17:03:39	Warning: 	File has moved from ecd-sartrouville.fr/?p=941 to http://ecd-sartrouville.fr/20170422_142424
+17:03:39	Warning: 	Moved Permanently for ecd-sartrouville.fr/feed/?attachment_id=942
+17:03:39	Warning: 	File has moved from ecd-sartrouville.fr/feed/?attachment_id=942 to http://ecd-sartrouville.fr/feed?attachment_id=942
+17:03:39	Warning: 	Moved Permanently for ecd-sartrouville.fr/?p=942
+17:03:39	Warning: 	File has moved from ecd-sartrouville.fr/?p=942 to http://ecd-sartrouville.fr/20170422_142350
+17:03:39	Warning: 	Moved Permanently for ecd-sartrouville.fr/feed/?attachment_id=943
+17:03:39	Warning: 	File has moved from ecd-sartrouville.fr/feed/?attachment_id=943 to http://ecd-sartrouville.fr/feed?attachment_id=943
+17:03:40	Warning: 	Moved Permanently for ecd-sartrouville.fr/?p=943
+17:03:40	Warning: 	File has moved from ecd-sartrouville.fr/?p=943 to http://ecd-sartrouville.fr/20170422_142349
+17:03:40	Warning: 	Moved Permanently for ecd-sartrouville.fr/feed/?attachment_id=944
+17:03:40	Warning: 	File has moved from ecd-sartrouville.fr/feed/?attachment_id=944 to http://ecd-sartrouville.fr/feed?attachment_id=944
+17:03:41	Warning: 	Moved Permanently for ecd-sartrouville.fr/?p=944
+17:03:41	Warning: 	File has moved from ecd-sartrouville.fr/?p=944 to http://ecd-sartrouville.fr/20170422_142348
+17:03:41	Warning: 	Moved Permanently for ecd-sartrouville.fr/feed/?attachment_id=945
+17:03:41	Warning: 	File has moved from ecd-sartrouville.fr/feed/?attachment_id=945 to http://ecd-sartrouville.fr/feed?attachment_id=945
+17:03:42	Warning: 	Moved Permanently for ecd-sartrouville.fr/?p=945
+17:03:42	Warning: 	File has moved from ecd-sartrouville.fr/?p=945 to http://ecd-sartrouville.fr/20170422_1423300
+17:03:42	Warning: 	Moved Permanently for ecd-sartrouville.fr/feed/?attachment_id=946
+17:03:42	Warning: 	File has moved from ecd-sartrouville.fr/feed/?attachment_id=946 to http://ecd-sartrouville.fr/feed?attachment_id=946
+17:03:42	Warning: 	Moved Permanently for ecd-sartrouville.fr/?p=946
+17:03:42	Warning: 	File has moved from ecd-sartrouville.fr/?p=946 to http://ecd-sartrouville.fr/20170422_142330
+17:03:42	Warning: 	Moved Permanently for ecd-sartrouville.fr/feed/?attachment_id=947
+17:03:42	Warning: 	File has moved from ecd-sartrouville.fr/feed/?attachment_id=947 to http://ecd-sartrouville.fr/feed?attachment_id=947
+17:03:43	Warning: 	Moved Permanently for ecd-sartrouville.fr/?p=947
+17:03:43	Warning: 	File has moved from ecd-sartrouville.fr/?p=947 to http://ecd-sartrouville.fr/20170422_142329
+17:03:43	Warning: 	Moved Permanently for ecd-sartrouville.fr/feed/?attachment_id=948
+17:03:43	Warning: 	File has moved from ecd-sartrouville.fr/feed/?attachment_id=948 to http://ecd-sartrouville.fr/feed?attachment_id=948
+17:03:44	Warning: 	Moved Permanently for ecd-sartrouville.fr/?p=948
+17:03:44	Warning: 	File has moved from ecd-sartrouville.fr/?p=948 to http://ecd-sartrouville.fr/20170422_142319
+17:03:44	Warning: 	Moved Permanently for ecd-sartrouville.fr/feed/?attachment_id=949
+17:03:44	Warning: 	File has moved from ecd-sartrouville.fr/feed/?attachment_id=949 to http://ecd-sartrouville.fr/feed?attachment_id=949
+17:03:44	Warning: 	Moved Permanently for ecd-sartrouville.fr/?p=949
+17:03:44	Warning: 	File has moved from ecd-sartrouville.fr/?p=949 to http://ecd-sartrouville.fr/20170422_142317
+17:03:44	Warning: 	Moved Permanently for ecd-sartrouville.fr/feed/?attachment_id=950
+17:03:44	Warning: 	File has moved from ecd-sartrouville.fr/feed/?attachment_id=950 to http://ecd-sartrouville.fr/feed?attachment_id=950
+17:03:45	Warning: 	Moved Permanently for ecd-sartrouville.fr/?p=950
+17:03:45	Warning: 	File has moved from ecd-sartrouville.fr/?p=950 to http://ecd-sartrouville.fr/20170422_142224
+17:03:45	Warning: 	Moved Permanently for ecd-sartrouville.fr/feed/?attachment_id=951
+17:03:45	Warning: 	File has moved from ecd-sartrouville.fr/feed/?attachment_id=951 to http://ecd-sartrouville.fr/feed?attachment_id=951
+17:03:46	Warning: 	Moved Permanently for ecd-sartrouville.fr/?p=951
+17:03:46	Warning: 	File has moved from ecd-sartrouville.fr/?p=951 to http://ecd-sartrouville.fr/20170422_141735
+17:03:46	Warning: 	Moved Permanently for ecd-sartrouville.fr/feed/?attachment_id=952
+17:03:46	Warning: 	File has moved from ecd-sartrouville.fr/feed/?attachment_id=952 to http://ecd-sartrouville.fr/feed?attachment_id=952
+17:03:47	Warning: 	Moved Permanently for ecd-sartrouville.fr/?p=952
+17:03:47	Warning: 	File has moved from ecd-sartrouville.fr/?p=952 to http://ecd-sartrouville.fr/20170422_141628
+17:03:47	Warning: 	Moved Permanently for ecd-sartrouville.fr/feed/?attachment_id=953
+17:03:47	Warning: 	File has moved from ecd-sartrouville.fr/feed/?attachment_id=953 to http://ecd-sartrouville.fr/feed?attachment_id=953
+17:03:47	Warning: 	Moved Permanently for ecd-sartrouville.fr/?p=953
+17:03:47	Warning: 	File has moved from ecd-sartrouville.fr/?p=953 to http://ecd-sartrouville.fr/20170422_141621
+17:03:47	Warning: 	Moved Permanently for ecd-sartrouville.fr/feed/?attachment_id=954
+17:03:47	Warning: 	File has moved from ecd-sartrouville.fr/feed/?attachment_id=954 to http://ecd-sartrouville.fr/feed?attachment_id=954
+17:03:48	Warning: 	Moved Permanently for ecd-sartrouville.fr/?p=954
+17:03:48	Warning: 	File has moved from ecd-sartrouville.fr/?p=954 to http://ecd-sartrouville.fr/20170422_1416200
+17:03:48	Warning: 	Moved Permanently for ecd-sartrouville.fr/feed/?attachment_id=955
+17:03:48	Warning: 	File has moved from ecd-sartrouville.fr/feed/?attachment_id=955 to http://ecd-sartrouville.fr/feed?attachment_id=955
+17:03:49	Warning: 	Moved Permanently for ecd-sartrouville.fr/?p=955
+17:03:49	Warning: 	File has moved from ecd-sartrouville.fr/?p=955 to http://ecd-sartrouville.fr/20170422_141620
+17:03:49	Warning: 	Moved Permanently for ecd-sartrouville.fr/feed/?attachment_id=964
+17:03:49	Warning: 	File has moved from ecd-sartrouville.fr/feed/?attachment_id=964 to http://ecd-sartrouville.fr/feed?attachment_id=964
+17:03:50	Warning: 	Moved Permanently for ecd-sartrouville.fr/?p=964
+17:03:50	Warning: 	File has moved from ecd-sartrouville.fr/?p=964 to http://ecd-sartrouville.fr/20170422_135043
+17:03:50	Warning: 	Moved Permanently for ecd-sartrouville.fr/feed/?attachment_id=969
+17:03:50	Warning: 	File has moved from ecd-sartrouville.fr/feed/?attachment_id=969 to http://ecd-sartrouville.fr/feed?attachment_id=969
+17:03:50	Warning: 	Moved Permanently for ecd-sartrouville.fr/?p=969
+17:03:50	Warning: 	File has moved from ecd-sartrouville.fr/?p=969 to http://ecd-sartrouville.fr/20170422_135031
+17:03:50	Warning: 	Moved Permanently for ecd-sartrouville.fr/feed/?attachment_id=851
+17:03:50	Warning: 	File has moved from ecd-sartrouville.fr/feed/?attachment_id=851 to http://ecd-sartrouville.fr/feed?attachment_id=851
+17:03:51	Warning: 	Moved Permanently for ecd-sartrouville.fr/?p=851
+17:03:51	Warning: 	File has moved from ecd-sartrouville.fr/?p=851 to http://ecd-sartrouville.fr/img_3453
+17:03:51	Warning: 	Moved Permanently for ecd-sartrouville.fr/feed/?attachment_id=847
+17:03:51	Warning: 	File has moved from ecd-sartrouville.fr/feed/?attachment_id=847 to http://ecd-sartrouville.fr/feed?attachment_id=847
+17:03:52	Warning: 	Moved Permanently for ecd-sartrouville.fr/?p=847
+17:03:52	Warning: 	File has moved from ecd-sartrouville.fr/?p=847 to http://ecd-sartrouville.fr/img_3457
+17:03:52	Warning: 	Moved Permanently for ecd-sartrouville.fr/feed/?attachment_id=849
+17:03:52	Warning: 	File has moved from ecd-sartrouville.fr/feed/?attachment_id=849 to http://ecd-sartrouville.fr/feed?attachment_id=849
+17:03:53	Warning: 	Moved Permanently for ecd-sartrouville.fr/?p=849
+17:03:53	Warning: 	File has moved from ecd-sartrouville.fr/?p=849 to http://ecd-sartrouville.fr/img_3455
+17:03:53	Warning: 	Moved Permanently for ecd-sartrouville.fr/?p=685
+17:03:53	Warning: 	File has moved from ecd-sartrouville.fr/?p=685 to http://ecd-sartrouville.fr/dt_gallery/sport-rencontre-bikerun-au-1er-animathlon-de-sartrouville
+17:03:53	Warning: 	Moved Permanently for ecd-sartrouville.fr/?p=714
+17:03:53	Warning: 	File has moved from ecd-sartrouville.fr/?p=714 to http://ecd-sartrouville.fr/sport-1er-animathelon-de-sartrouville-avec-les-collegiens-decd-700.html/animathlon_ecd_sartrouville6
+17:03:53	Warning: 	Moved Permanently for ecd-sartrouville.fr/?p=715
+17:03:53	Warning: 	File has moved from ecd-sartrouville.fr/?p=715 to http://ecd-sartrouville.fr/sport-1er-animathelon-de-sartrouville-avec-les-collegiens-decd-700.html/animathlon_ecd_sartrouville5
+17:03:53	Warning: 	Moved Permanently for ecd-sartrouville.fr/feed/?attachment_id=713
+17:03:53	Warning: 	File has moved from ecd-sartrouville.fr/feed/?attachment_id=713 to http://ecd-sartrouville.fr/feed?attachment_id=713
+17:03:54	Warning: 	Moved Permanently for ecd-sartrouville.fr/?p=713
+17:03:54	Warning: 	File has moved from ecd-sartrouville.fr/?p=713 to http://ecd-sartrouville.fr/animathlon_ecd_sartrouville7
+17:03:54	Warning: 	Moved Permanently for ecd-sartrouville.fr/feed/?attachment_id=717
+17:03:54	Warning: 	File has moved from ecd-sartrouville.fr/feed/?attachment_id=717 to http://ecd-sartrouville.fr/feed?attachment_id=717
+17:03:55	Warning: 	Moved Permanently for ecd-sartrouville.fr/?p=717
+17:03:55	Warning: 	File has moved from ecd-sartrouville.fr/?p=717 to http://ecd-sartrouville.fr/animathlon_ecd_sartrouville3
+17:03:55	Warning: 	Moved Permanently for ecd-sartrouville.fr/feed/?attachment_id=716
+17:03:55	Warning: 	File has moved from ecd-sartrouville.fr/feed/?attachment_id=716 to http://ecd-sartrouville.fr/feed?attachment_id=716
+17:03:56	Warning: 	Moved Permanently for ecd-sartrouville.fr/?p=716
+17:03:56	Warning: 	File has moved from ecd-sartrouville.fr/?p=716 to http://ecd-sartrouville.fr/animathlon_ecd_sartrouville4
+17:03:56	Warning: 	Moved Permanently for ecd-sartrouville.fr/?p=704
+17:03:56	Warning: 	File has moved from ecd-sartrouville.fr/?p=704 to http://ecd-sartrouville.fr/sport-1er-animathelon-de-sartrouville-avec-les-collegiens-decd-700.html/animathlon_ecd_sartrouville2
+17:03:56	Warning: 	Moved Permanently for ecd-sartrouville.fr/?p=702
+17:03:56	Warning: 	File has moved from ecd-sartrouville.fr/?p=702 to http://ecd-sartrouville.fr/sport-1er-animathelon-de-sartrouville-avec-les-collegiens-decd-700.html/animathlon_ecd_sartrouville
+17:03:56	Warning: 	Moved Permanently for ecd-sartrouville.fr/feed/?attachment_id=712
+17:03:56	Warning: 	File has moved from ecd-sartrouville.fr/feed/?attachment_id=712 to http://ecd-sartrouville.fr/feed?attachment_id=712
+17:03:56	Warning: 	Moved Permanently for ecd-sartrouville.fr/?p=712
+17:03:56	Warning: 	File has moved from ecd-sartrouville.fr/?p=712 to http://ecd-sartrouville.fr/animathlon_ecd_sartrouville8
+17:03:57	Warning: 	Moved Permanently for ecd-sartrouville.fr/feed/?attachment_id=710
+17:03:57	Warning: 	File has moved from ecd-sartrouville.fr/feed/?attachment_id=710 to http://ecd-sartrouville.fr/feed?attachment_id=710
+17:03:58	Warning: 	Moved Permanently for ecd-sartrouville.fr/?p=710
+17:03:58	Warning: 	File has moved from ecd-sartrouville.fr/?p=710 to http://ecd-sartrouville.fr/animathlon_ecd_sartrouville10
+17:03:58	Warning: 	Moved Permanently for ecd-sartrouville.fr/feed/?attachment_id=711
+17:03:58	Warning: 	File has moved from ecd-sartrouville.fr/feed/?attachment_id=711 to http://ecd-sartrouville.fr/feed?attachment_id=711
+17:03:58	Warning: 	Moved Permanently for ecd-sartrouville.fr/?p=711
+17:03:58	Warning: 	File has moved from ecd-sartrouville.fr/?p=711 to http://ecd-sartrouville.fr/animathlon_ecd_sartrouville9
+17:03:58	Warning: 	Moved Permanently for ecd-sartrouville.fr/feed/?attachment_id=709
+17:03:58	Warning: 	File has moved from ecd-sartrouville.fr/feed/?attachment_id=709 to http://ecd-sartrouville.fr/feed?attachment_id=709
+17:04:00	Warning: 	Moved Permanently for ecd-sartrouville.fr/?p=709
+17:04:00	Warning: 	File has moved from ecd-sartrouville.fr/?p=709 to http://ecd-sartrouville.fr/animathlon_ecd_sartrouville11
+17:04:00	Warning: 	Moved Permanently for ecd-sartrouville.fr/?p=708
+17:04:00	Warning: 	File has moved from ecd-sartrouville.fr/?p=708 to http://ecd-sartrouville.fr/sport-1er-animathelon-de-sartrouville-avec-les-collegiens-decd-700.html/animathlon_ecd_sartrouville12
+17:04:00	Warning: 	Moved Permanently for ecd-sartrouville.fr/?p=703
+17:04:00	Warning: 	File has moved from ecd-sartrouville.fr/?p=703 to http://ecd-sartrouville.fr/sport-1er-animathelon-de-sartrouville-avec-les-collegiens-decd-700.html/animathlon_ecd_sartrouville1
+17:04:00	Warning: 	Moved Permanently for ecd-sartrouville.fr/feed/?attachment_id=705
+17:04:00	Warning: 	File has moved from ecd-sartrouville.fr/feed/?attachment_id=705 to http://ecd-sartrouville.fr/feed?attachment_id=705
+17:04:00	Warning: 	Moved Permanently for ecd-sartrouville.fr/?p=705
+17:04:00	Warning: 	File has moved from ecd-sartrouville.fr/?p=705 to http://ecd-sartrouville.fr/animathlon_ecd_sartrouville15
+17:04:00	Warning: 	Moved Permanently for ecd-sartrouville.fr/?p=706
+17:04:00	Warning: 	File has moved from ecd-sartrouville.fr/?p=706 to http://ecd-sartrouville.fr/sport-1er-animathelon-de-sartrouville-avec-les-collegiens-decd-700.html/animathlon_ecd_sartrouville14
+17:04:00	Warning: 	Moved Permanently for ecd-sartrouville.fr/?p=601
+17:04:00	Warning: 	File has moved from ecd-sartrouville.fr/?p=601 to http://ecd-sartrouville.fr/dt_gallery/en-images-le-rotary-club-remet-un-cheque-de-10-000-euros-a-ecd
+17:04:00	Warning: 	Moved Permanently for ecd-sartrouville.fr/?p=597
+17:04:00	Warning: 	File has moved from ecd-sartrouville.fr/?p=597 to http://ecd-sartrouville.fr/un-cheque-de-10-000-euros-du-rotary-club-591.html/rotary_club_sartrouville_association_ecd_2
+17:04:00	Warning: 	Moved Permanently for ecd-sartrouville.fr/feed/?attachment_id=598
+17:04:00	Warning: 	File has moved from ecd-sartrouville.fr/feed/?attachment_id=598 to http://ecd-sartrouville.fr/feed?attachment_id=598
+17:04:01	Warning: 	Moved Permanently for ecd-sartrouville.fr/?p=598
+17:04:01	Warning: 	File has moved from ecd-sartrouville.fr/?p=598 to http://ecd-sartrouville.fr/rotary_club_sartrouville_association_ecd_1
+17:04:01	Warning: 	Moved Permanently for ecd-sartrouville.fr/?p=596
+17:04:01	Warning: 	File has moved from ecd-sartrouville.fr/?p=596 to http://ecd-sartrouville.fr/un-cheque-de-10-000-euros-du-rotary-club-591.html/rotary_club_sartrouville_association_ecd_3
+17:04:01	Warning: 	Moved Permanently for ecd-sartrouville.fr/?p=595
+17:04:01	Warning: 	File has moved from ecd-sartrouville.fr/?p=595 to http://ecd-sartrouville.fr/un-cheque-de-10-000-euros-du-rotary-club-591.html/rotary_club_sartrouville_association_ecd
+17:04:01	Warning: 	Moved Permanently for ecd-sartrouville.fr/?p=594
+17:04:01	Warning: 	File has moved from ecd-sartrouville.fr/?p=594 to http://ecd-sartrouville.fr/un-cheque-de-10-000-euros-du-rotary-club-591.html/rotary_club_sartrouville_association_ecd_4
+17:04:01	Warning: 	Moved Permanently for ecd-sartrouville.fr/?p=593
+17:04:01	Warning: 	File has moved from ecd-sartrouville.fr/?p=593 to http://ecd-sartrouville.fr/un-cheque-de-10-000-euros-du-rotary-club-591.html/rotary_club_sartrouville_association_ecd_5
+17:04:01	Warning: 	Moved Permanently for ecd-sartrouville.fr/?p=185
+17:04:01	Warning: 	File has moved from ecd-sartrouville.fr/?p=185 to http://ecd-sartrouville.fr/dt_gallery/photos
+17:04:01	Warning: 	Moved Permanently for ecd-sartrouville.fr/feed/?attachment_id=382
+17:04:01	Warning: 	File has moved from ecd-sartrouville.fr/feed/?attachment_id=382 to http://ecd-sartrouville.fr/feed?attachment_id=382
+17:04:02	Warning: 	Moved Permanently for ecd-sartrouville.fr/?p=382
+17:04:02	Warning: 	File has moved from ecd-sartrouville.fr/?p=382 to http://ecd-sartrouville.fr/ecd_sartrouville_avocat
+17:04:02	Warning: 	Moved Permanently for ecd-sartrouville.fr/?p=384
+17:04:02	Warning: 	File has moved from ecd-sartrouville.fr/?p=384 to http://ecd-sartrouville.fr/me-fatima-aaziz-perez-donne-lenvie-de-defendre-aux-eleves-decd-349.html/ecd_sartrouville_avocat2
+17:04:02	Warning: 	Moved Permanently for ecd-sartrouville.fr/?p=383
+17:04:02	Warning: 	File has moved from ecd-sartrouville.fr/?p=383 to http://ecd-sartrouville.fr/me-fatima-aaziz-perez-donne-lenvie-de-defendre-aux-eleves-decd-349.html/ecd_sartrouville_avocat1
+17:04:02	Warning: 	Moved Permanently for ecd-sartrouville.fr/?p=395
+17:04:02	Warning: 	File has moved from ecd-sartrouville.fr/?p=395 to http://ecd-sartrouville.fr/le-dispositif-ecd-seduit-dautres-villes-dile-de-france-346.html/ecd_sartrouville_argenteuil_carrieres3
+17:04:02	Warning: 	Moved Permanently for ecd-sartrouville.fr/?p=394
+17:04:02	Warning: 	File has moved from ecd-sartrouville.fr/?p=394 to http://ecd-sartrouville.fr/le-dispositif-ecd-seduit-dautres-villes-dile-de-france-346.html/ecd_sartrouville_argenteuil_carrieres2
+17:04:02	Warning: 	Moved Permanently for ecd-sartrouville.fr/feed/?attachment_id=393
+17:04:02	Warning: 	File has moved from ecd-sartrouville.fr/feed/?attachment_id=393 to http://ecd-sartrouville.fr/feed?attachment_id=393
+17:04:03	Warning: 	Moved Permanently for ecd-sartrouville.fr/?p=393
+17:04:03	Warning: 	File has moved from ecd-sartrouville.fr/?p=393 to http://ecd-sartrouville.fr/ecd_sartrouville_argenteuil_carrieres
+17:04:03	Warning: 	Moved Permanently for ecd-sartrouville.fr/?p=387
+17:04:03	Warning: 	File has moved from ecd-sartrouville.fr/?p=387 to http://ecd-sartrouville.fr/130-eleves-decd-rendent-hommage-aux-victimes-des-attentats-351.html/ecd_sartrouville_hommage_place_republique2
+17:04:03	Warning: 	Moved Permanently for ecd-sartrouville.fr/feed/?attachment_id=386
+17:04:03	Warning: 	File has moved from ecd-sartrouville.fr/feed/?attachment_id=386 to http://ecd-sartrouville.fr/feed?attachment_id=386
+17:04:04	Warning: 	Moved Permanently for ecd-sartrouville.fr/?p=386
+17:04:04	Warning: 	File has moved from ecd-sartrouville.fr/?p=386 to http://ecd-sartrouville.fr/ecd_sartrouville_hommage_place_republique
+17:04:04	Warning: 	Moved Permanently for ecd-sartrouville.fr/?p=385
+17:04:04	Warning: 	File has moved from ecd-sartrouville.fr/?p=385 to http://ecd-sartrouville.fr/130-eleves-decd-rendent-hommage-aux-victimes-des-attentats-351.html/ecd_sartrouville_hommage_place_de_la_republique
+17:04:04	Warning: 	Moved Permanently for ecd-sartrouville.fr/feed/?attachment_id=358
+17:04:04	Warning: 	File has moved from ecd-sartrouville.fr/feed/?attachment_id=358 to http://ecd-sartrouville.fr/feed?attachment_id=358
+17:04:05	Warning: 	Moved Permanently for ecd-sartrouville.fr/?p=358
+17:04:05	Warning: 	File has moved from ecd-sartrouville.fr/?p=358 to http://ecd-sartrouville.fr/ecd_sartrouville_11nov_1
+17:04:05	Warning: 	Moved Permanently for ecd-sartrouville.fr/?p=356
+17:04:05	Warning: 	File has moved from ecd-sartrouville.fr/?p=356 to http://ecd-sartrouville.fr/les-eleves-decd-commemorent-le-11-novembre-en-presence-dofficiels-341.html/ecd_sartrouville_11nov
+17:04:05	Warning: 	Moved Permanently for ecd-sartrouville.fr/?p=355
+17:04:05	Warning: 	File has moved from ecd-sartrouville.fr/?p=355 to http://ecd-sartrouville.fr/les-eleves-decd-commemorent-le-11-novembre-en-presence-dofficiels-341.html/ecd_sartrouville_11_novembre
+17:04:05	Warning: 	Moved Permanently for ecd-sartrouville.fr/?p=381
+17:04:05	Warning: 	File has moved from ecd-sartrouville.fr/?p=381 to http://ecd-sartrouville.fr/forum-des-metiers-british-telecom-france-accueille-60-eleves-decd-398.html/ecd_sartrouville_jerome_egretaud
+17:04:05	Warning: 	Moved Permanently for ecd-sartrouville.fr/feed/?attachment_id=380
+17:04:05	Warning: 	File has moved from ecd-sartrouville.fr/feed/?attachment_id=380 to http://ecd-sartrouville.fr/feed?attachment_id=380
+17:04:06	Warning: 	Moved Permanently for ecd-sartrouville.fr/?p=380
+17:04:06	Warning: 	File has moved from ecd-sartrouville.fr/?p=380 to http://ecd-sartrouville.fr/ecd_sartrouville_bt
+17:04:06	Warning: 	Moved Permanently for ecd-sartrouville.fr/?p=379
+17:04:06	Warning: 	File has moved from ecd-sartrouville.fr/?p=379 to http://ecd-sartrouville.fr/forum-des-metiers-british-telecom-france-accueille-60-eleves-decd-398.html/ecd_sartrouville_bt_2
+17:04:06	Warning: 	Moved Permanently for ecd-sartrouville.fr/?p=378
+17:04:06	Warning: 	File has moved from ecd-sartrouville.fr/?p=378 to http://ecd-sartrouville.fr/forum-des-metiers-british-telecom-france-accueille-60-eleves-decd-398.html/ecd_sartrouville_bt_1
+17:04:06	Warning: 	Moved Permanently for ecd-sartrouville.fr/?p=377
+17:04:06	Warning: 	File has moved from ecd-sartrouville.fr/?p=377 to http://ecd-sartrouville.fr/une-ceremonie-de-remise-des-diplomes-riche-en-emotions-372.html/ecd_sartrouville_remise_des_diplomes2
+17:04:06	Warning: 	Moved Permanently for ecd-sartrouville.fr/?p=375
+17:04:06	Warning: 	File has moved from ecd-sartrouville.fr/?p=375 to http://ecd-sartrouville.fr/une-ceremonie-de-remise-des-diplomes-riche-en-emotions-372.html/ecd_sartrouville_remise_des_diplomes
+17:04:06	Warning: 	Moved Permanently for ecd-sartrouville.fr/feed/?attachment_id=376
+17:04:06	Warning: 	File has moved from ecd-sartrouville.fr/feed/?attachment_id=376 to http://ecd-sartrouville.fr/feed?attachment_id=376
+17:04:07	Warning: 	Moved Permanently for ecd-sartrouville.fr/?p=376
+17:04:07	Warning: 	File has moved from ecd-sartrouville.fr/?p=376 to http://ecd-sartrouville.fr/ecd_sartrouville_remise_des_diplomes1
+17:04:07	Warning: 	Moved Permanently for ecd-sartrouville.fr/?p=367
+17:04:07	Warning: 	File has moved from ecd-sartrouville.fr/?p=367 to http://ecd-sartrouville.fr/nous-sommes-la-france-un-grand-moment-republicain-339.html/ecd_sartrouville_nous_sommes_la_republique
+17:04:07	Warning: 	Moved Permanently for ecd-sartrouville.fr/?p=361
+17:04:07	Warning: 	File has moved from ecd-sartrouville.fr/?p=361 to http://ecd-sartrouville.fr/abdelhafid-commissaire-de-police-au-service-des-autres-336.html/ecd_sartrouville_commissaire2
+17:04:07	Warning: 	Moved Permanently for ecd-sartrouville.fr/?p=364
+17:04:07	Warning: 	File has moved from ecd-sartrouville.fr/?p=364 to http://ecd-sartrouville.fr/lequipe-rh-de-british-telecom-coache-les-jeunes-decd-sartrouville-333.html/ecd_sartrouville_rh_bt_2
+17:04:07	Warning: 	Moved Permanently for ecd-sartrouville.fr/?p=1080
+17:04:07	Warning: 	File has moved from ecd-sartrouville.fr/?p=1080 to http://ecd-sartrouville.fr/dt_gallery/sensibiliser-a-lacces-aux-droits-et-aux-valeurs-republicaines-avec-le-delegue-du-defenseur-des-droits
+17:04:07	Warning: 	Moved Permanently for ecd-sartrouville.fr/?p=1045
+17:04:07	Warning: 	File has moved from ecd-sartrouville.fr/?p=1045 to http://ecd-sartrouville.fr/dt_gallery/je-suis-extremement-fiere-alexandra-dublanche-leplusgrandquizdefranceversailles
+17:04:07	Warning: 	Moved Permanently for ecd-sartrouville.fr/?p=1030
+17:04:07	Warning: 	File has moved from ecd-sartrouville.fr/?p=1030 to http://ecd-sartrouville.fr/dt_gallery/sport-duathlon-jeunesse-sportive-ecd-sartrouville
+17:04:07	Warning: 	Moved Permanently for ecd-sartrouville.fr/?p=824
+17:04:07	Warning: 	File has moved from ecd-sartrouville.fr/?p=824 to http://ecd-sartrouville.fr/dt_gallery/8mai1945-un-message-universel-de-liberte-degalite-et-de-fraternite
+17:04:07	Warning: 	Moved Permanently for ecd-sartrouville.fr/?p=820
+17:04:07	Warning: 	File has moved from ecd-sartrouville.fr/?p=820 to http://ecd-sartrouville.fr/dt_gallery/dans-lunivers-de-lenseignement-superieur-avec-yassir-hammoud
+17:04:07	Warning: 	Moved Permanently for ecd-sartrouville.fr/?p=735
+17:04:07	Warning: 	File has moved from ecd-sartrouville.fr/?p=735 to http://ecd-sartrouville.fr/dt_gallery/sarah-raconte-son-stage-chez-british-telecom
+17:04:07	Warning: 	Moved Permanently for ecd-sartrouville.fr/?p=739
+17:04:07	Warning: 	File has moved from ecd-sartrouville.fr/?p=739 to http://ecd-sartrouville.fr/dt_gallery/securite-informatique-quest-ce-que-le-metier-dingenieur-avant-vente
+17:04:07	Warning: 	Moved Permanently for ecd-sartrouville.fr/?p=655
+17:04:07	Warning: 	File has moved from ecd-sartrouville.fr/?p=655 to http://ecd-sartrouville.fr/dt_gallery/david-carmier-sensibilise-les-enfants-decd-au-metier-de-juge-administratif
+17:04:07	Warning: 	Moved Permanently for ecd-sartrouville.fr/?p=652
+17:04:07	Warning: 	File has moved from ecd-sartrouville.fr/?p=652 to http://ecd-sartrouville.fr/dt_gallery/video-revivez-la-commemoration-du-8-mai-avec-les-jeunes-decd
+17:04:07	Warning: 	Moved Permanently for ecd-sartrouville.fr/?p=636
+17:04:07	Warning: 	File has moved from ecd-sartrouville.fr/?p=636 to http://ecd-sartrouville.fr/dt_gallery/video-bodyguard-dans-la-police-nationale-un-metier-a-haut-risque
+17:04:07	Warning: 	Moved Permanently for ecd-sartrouville.fr/?p=625
+17:04:07	Warning: 	File has moved from ecd-sartrouville.fr/?p=625 to http://ecd-sartrouville.fr/dt_gallery/video-erdf-intervient-a-ecd-quest-ce-que-les-metiers-de-lelectricite
+17:04:07	Warning: 	Moved Permanently for ecd-sartrouville.fr/?p=583
+17:04:07	Warning: 	File has moved from ecd-sartrouville.fr/?p=583 to http://ecd-sartrouville.fr/dt_gallery/video-un-commissaire-de-police-a-ecd
+17:04:07	Warning: 	Moved Permanently for ecd-sartrouville.fr/?p=553
+17:04:07	Warning: 	File has moved from ecd-sartrouville.fr/?p=553 to http://ecd-sartrouville.fr/dt_gallery/video-sejour-a-londres-les-eleves-decd-sartrouville-recompenses
+17:04:07	Warning: 	Moved Permanently for ecd-sartrouville.fr/?p=511
+17:04:07	Warning: 	File has moved from ecd-sartrouville.fr/?p=511 to http://ecd-sartrouville.fr/dt_gallery/decouverte-du-metier-davocat
+17:04:07	Warning: 	Moved Permanently for ecd-sartrouville.fr/?p=530
+17:04:07	Warning: 	File has moved from ecd-sartrouville.fr/?p=530 to http://ecd-sartrouville.fr/dt_gallery/video-130-eleves-decd-rendent-hommage-aux-victimes-des-attentats
+17:04:07	Warning: 	Found for www.facebook.com/sharer.php?s=100&p%5Burl%5D=http://ecd-sartrouville.fr/8mars-visite-du-senat-projection-debat-et-rencontre-la-senatrice-laurence-rossignol-1252.html&p%5Btitle%5D=%238Mars+Visite+du+S%C3%A9nat%2C+projection-d%C3%A9bat+et++rencontre+la+s%C3%A9natrice+Laurence+Rossignol&p%5Bimages%5D%5B0%5D=http://ecd-sartrouville.fr/wp-content/uploads/2019/03/FB_IMG_1553169077043.jpg
+17:04:07	Warning: 	File has moved from www.facebook.com/sharer.php?s=100&p%5Burl%5D=http://ecd-sartrouville.fr/8mars-visite-du-senat-projection-debat-et-rencontre-la-senatrice-laurence-rossignol-1252.html&p%5Btitle%5D=%238Mars+Visite+du+S%C3%A9nat%2C+projection-d%C3%A9bat+et++rencontre+la+s%C3%A9natrice+Laurence+Rossignol&p%5Bimages%5D%5B0%5D=http://ecd-sartrouville.fr/wp-content/uploads/2019/03/FB_IMG_1553169077043.jpg to https://www.facebook.com/sharer.php?s=100&p%5Burl%5D=http%3A%2F%2Fecd-sartrouville.fr%2F8mars-visite-du-senat-projection-debat-et-rencontre-la-senatrice-laurence-rossignol-1252.html&p%5Btitle%5D=%238Mars+Visite+du+S%C3%A9nat%2C+projection-d%C3%A9bat+et++rencontre+la+s%C3%A9natrice+Laurence+Rossignol&p%5Bimages%5D%5B0%5D=http%3A%2F%2Fecd-sartrouville.fr%2Fwp-content%2Fuploads%2F2019%2F03%2FFB_IMG_1553169077043.jpg
+17:04:07	Warning: 	Found for www.facebook.com/sharer.php?s=100&p%5Burl%5D=http://ecd-sartrouville.fr/avec-son-initiative-reussir-son-stage-ecd-sartrouville-mobilise-son-reseau-dentreprises-1258.html&p%5Btitle%5D=Avec+son+initiative+%E2%80%9CR%C3%A9ussir+son+stage%E2%80%9D%2C+ECD+Sartrouville+mobilise+son+r%C3%A9seau+d%E2%80%99entreprises&p%5Bimages%5D%5B0%5D=http://ecd-sartrouville.fr/wp-content/uploads/2019/03/FB_IMG_1553169711755.jpg
+17:04:07	Warning: 	File has moved from www.facebook.com/sharer.php?s=100&p%5Burl%5D=http://ecd-sartrouville.fr/avec-son-initiative-reussir-son-stage-ecd-sartrouville-mobilise-son-reseau-dentreprises-1258.html&p%5Btitle%5D=Avec+son+initiative+%E2%80%9CR%C3%A9ussir+son+stage%E2%80%9D%2C+ECD+Sartrouville+mobilise+son+r%C3%A9seau+d%E2%80%99entreprises&p%5Bimages%5D%5B0%5D=http://ecd-sartrouville.fr/wp-content/uploads/2019/03/FB_IMG_1553169711755.jpg to https://www.facebook.com/sharer.php?s=100&p%5Burl%5D=http%3A%2F%2Fecd-sartrouville.fr%2Favec-son-initiative-reussir-son-stage-ecd-sartrouville-mobilise-son-reseau-dentreprises-1258.html&p%5Btitle%5D=Avec+son+initiative+%E2%80%9CR%C3%A9ussir+son+stage%E2%80%9D%2C+ECD+Sartrouville+mobilise+son+r%C3%A9seau+d%E2%80%99entreprises&p%5Bimages%5D%5B0%5D=http%3A%2F%2Fecd-sartrouville.fr%2Fwp-content%2Fuploads%2F2019%2F03%2FFB_IMG_1553169711755.jpg
+17:04:07	Warning: 	Found for www.facebook.com/sharer.php?s=100&p%5Burl%5D=http://ecd-sartrouville.fr/meriem-serhane-ingenieure-lecole-est-une-opportunite-pour-tout-le-monde-de-reussir-1240.html&p%5Btitle%5D=Meriem+Serhane%2C+ing%C3%A9nieure+%3A+%22L%E2%80%99%C3%A9cole+est+une+opportunit%C3%A9+pour+tout+le+monde+de+r%C3%A9ussir%22&p%5Bimages%5D%5B0%5D=http://ecd-sartrouville.fr/wp-content/uploads/2019/03/FB_IMG_1553168626770.jpg
+17:04:07	Warning: 	File has moved from www.facebook.com/sharer.php?s=100&p%5Burl%5D=http://ecd-sartrouville.fr/meriem-serhane-ingenieure-lecole-est-une-opportunite-pour-tout-le-monde-de-reussir-1240.html&p%5Btitle%5D=Meriem+Serhane%2C+ing%C3%A9nieure+%3A+%22L%E2%80%99%C3%A9cole+est+une+opportunit%C3%A9+pour+tout+le+monde+de+r%C3%A9ussir%22&p%5Bimages%5D%5B0%5D=http://ecd-sartrouville.fr/wp-content/uploads/2019/03/FB_IMG_1553168626770.jpg to https://www.facebook.com/sharer.php?s=100&p%5Burl%5D=http%3A%2F%2Fecd-sartrouville.fr%2Fmeriem-serhane-ingenieure-lecole-est-une-opportunite-pour-tout-le-monde-de-reussir-1240.html&p%5Btitle%5D=Meriem+Serhane%2C+ing%C3%A9nieure+%3A+%22L%E2%80%99%C3%A9cole+est+une+opportunit%C3%A9+pour+tout+le+monde+de+r%C3%A9ussir%22&p%5Bimages%5D%5B0%5D=http%3A%2F%2Fecd-sartrouville.fr%2Fwp-content%2Fuploads%2F2019%2F03%2FFB_IMG_1553168626770.jpg
+17:04:07	Warning: 	Found for www.facebook.com/sharer.php?s=100&p%5Burl%5D=http://ecd-sartrouville.fr/ecd-sartrouville-organise-un-forum-des-metiers-en-partenariat-avec-le-groupe-international-tata-communications-1231.html&p%5Btitle%5D=ECD+Sartrouville+organise+un+Forum+des+m%C3%A9tiers+en+partenariat+avec+le+groupe+international+Tata+Communications&p%5Bimages%5D%5B0%5D=http://ecd-sartrouville.fr/wp-content/uploads/2018/09/IMG_20180926_233152.jpg
+17:04:07	Warning: 	File has moved from www.facebook.com/sharer.php?s=100&p%5Burl%5D=http://ecd-sartrouville.fr/ecd-sartrouville-organise-un-forum-des-metiers-en-partenariat-avec-le-groupe-international-tata-communications-1231.html&p%5Btitle%5D=ECD+Sartrouville+organise+un+Forum+des+m%C3%A9tiers+en+partenariat+avec+le+groupe+international+Tata+Communications&p%5Bimages%5D%5B0%5D=http://ecd-sartrouville.fr/wp-content/uploads/2018/09/IMG_20180926_233152.jpg to https://www.facebook.com/sharer.php?s=100&p%5Burl%5D=http%3A%2F%2Fecd-sartrouville.fr%2Fecd-sartrouville-organise-un-forum-des-metiers-en-partenariat-avec-le-groupe-international-tata-communications-1231.html&p%5Btitle%5D=ECD+Sartrouville+organise+un+Forum+des+m%C3%A9tiers+en+partenariat+avec+le+groupe+international+Tata+Communications&p%5Bimages%5D%5B0%5D=http%3A%2F%2Fecd-sartrouville.fr%2Fwp-content%2Fuploads%2F2018%2F09%2FIMG_20180926_233152.jpg
+17:04:07	Warning: 	Found for www.facebook.com/sharer.php?s=100&p%5Burl%5D=http://ecd-sartrouville.fr/sortons-du-quartier-decouverte-de-paris-en-peniche-1228.html&p%5Btitle%5D=%23SORTONS+DU+QUARTIER+%21+D%C3%A9couverte+de+Paris+en+P%C3%A9niche&p%5Bimages%5D%5B0%5D=http://ecd-sartrouville.fr/wp-content/uploads/2018/09/FB_IMG_1535813990396.jpg
+17:04:07	Warning: 	File has moved from www.facebook.com/sharer.php?s=100&p%5Burl%5D=http://ecd-sartrouville.fr/sortons-du-quartier-decouverte-de-paris-en-peniche-1228.html&p%5Btitle%5D=%23SORTONS+DU+QUARTIER+%21+D%C3%A9couverte+de+Paris+en+P%C3%A9niche&p%5Bimages%5D%5B0%5D=http://ecd-sartrouville.fr/wp-content/uploads/2018/09/FB_IMG_1535813990396.jpg to https://www.facebook.com/sharer.php?s=100&p%5Burl%5D=http%3A%2F%2Fecd-sartrouville.fr%2Fsortons-du-quartier-decouverte-de-paris-en-peniche-1228.html&p%5Btitle%5D=%23SORTONS+DU+QUARTIER+%21+D%C3%A9couverte+de+Paris+en+P%C3%A9niche&p%5Bimages%5D%5B0%5D=http%3A%2F%2Fecd-sartrouville.fr%2Fwp-content%2Fuploads%2F2018%2F09%2FFB_IMG_1535813990396.jpg
+17:04:07	Warning: 	Moved Permanently for ecd-sartrouville.fr/?p=26
+17:04:07	Warning: 	File has moved from ecd-sartrouville.fr/?p=26 to http://ecd-sartrouville.fr/un-projet-dentreprise-sportif-avec-la-bt-bike-ride-2014-26.html
+17:04:07	Warning: 	Found for www.facebook.com/sharer.php?s=100&p%5Burl%5D=http://ecd-sartrouville.fr/bt-bike-ride-plus-de-7-000e-collectes-pour-ecd-sartrouville-22.html&p%5Btitle%5D=BT+Bike+Ride+%3A+plus+de+7+000%E2%82%AC+collect%C3%A9s+pour+ECD+%21&p%5Bimages%5D%5B0%5D=http://ecd-sartrouville.fr/wp-content/uploads/2014/11/BT-Bike-Ride-photo-d%c3%a9part-%c3%a0-Paris-1-1024x598.jpg
+17:04:07	Warning: 	File has moved from www.facebook.com/sharer.php?s=100&p%5Burl%5D=http://ecd-sartrouville.fr/bt-bike-ride-plus-de-7-000e-collectes-pour-ecd-sartrouville-22.html&p%5Btitle%5D=BT+Bike+Ride+%3A+plus+de+7+000%E2%82%AC+collect%C3%A9s+pour+ECD+%21&p%5Bimages%5D%5B0%5D=http://ecd-sartrouville.fr/wp-content/uploads/2014/11/BT-Bike-Ride-photo-d%c3%a9part-%c3%a0-Paris-1-1024x598.jpg to https://www.facebook.com/sharer.php?s=100&p%5Burl%5D=http%3A%2F%2Fecd-sartrouville.fr%2Fbt-bike-ride-plus-de-7-000e-collectes-pour-ecd-sartrouville-22.html&p%5Btitle%5D=BT+Bike+Ride+%3A+plus+de+7+000%E2%82%AC+collect%C3%A9s+pour+ECD+%21&p%5Bimages%5D%5B0%5D=http%3A%2F%2Fecd-sartrouville.fr%2Fwp-content%2Fuploads%2F2014%2F11%2FBT-Bike-Ride-photo-d%C3%A9part-%C3%A0-Paris-1-1024x598.jpg
+17:04:07	Warning: 	Moved Permanently for ecd-sartrouville.fr/?p=432
+17:04:07	Warning: 	File has moved from ecd-sartrouville.fr/?p=432 to http://ecd-sartrouville.fr/le-parisien-432.html
+17:04:07	Warning: 	Moved Permanently for ecd-sartrouville.fr/?p=264
+17:04:07	Warning: 	File has moved from ecd-sartrouville.fr/?p=264 to http://ecd-sartrouville.fr/journal-de-sartrouville-264.html
+17:04:07	Warning: 	Moved Permanently for ecd-sartrouville.fr/?p=266
+17:04:07	Warning: 	File has moved from ecd-sartrouville.fr/?p=266 to http://ecd-sartrouville.fr/sartrouville-le-mag-266.html
+17:04:07	Warning: 	Moved Permanently for ecd-sartrouville.fr/?p=457
+17:04:07	Warning: 	File has moved from ecd-sartrouville.fr/?p=457 to http://ecd-sartrouville.fr/le-parisien-3-457.html
+17:04:07	Warning: 	Moved Permanently for ecd-sartrouville.fr/?p=1091
+17:04:07	Warning: 	File has moved from ecd-sartrouville.fr/?p=1091 to http://ecd-sartrouville.fr/coaching-lentrepreneur-jonathan-martelli-co-fondateur-dekwateur-presente-son-parcours-1091.html
+17:04:07	Warning: 	Moved Permanently for ecd-sartrouville.fr/?p=1113
+17:04:07	Warning: 	File has moved from ecd-sartrouville.fr/?p=1113 to http://ecd-sartrouville.fr/coaching-metier-du-numerique-avec-la-fondation-edf-le-pole-emploi-de-sartrouville-1113.html
+17:04:07	Warning: 	Moved Permanently for ecd-sartrouville.fr/?p=1067
+17:04:07	Warning: 	File has moved from ecd-sartrouville.fr/?p=1067 to http://ecd-sartrouville.fr/coaching-atelier-sensibiliser-a-lacces-aux-droits-et-aux-valeurs-republicaines-ecd-sartrouville-recoit-le-delegue-du-defenseur-des-droits-des-yvelines-1067.html
+17:04:14	Warning: 	Moved Permanently for ecd-sartrouville.fr/?p=1115
+17:04:14	Warning: 	File has moved from ecd-sartrouville.fr/?p=1115 to http://ecd-sartrouville.fr/coaching-metier-de-demain-rabah-lamraoui-presente-la-profession-dexpert-comptable-1115.html
+17:04:14	Error: 	"Not Found" (404) at link ecd-sartrouville.fr/storage/emulated/0/Download/IMG_5210.JPG (from ecd-sartrouville.fr/coaching-metier-de-demain-rabah-lamraoui-presente-la-profession-dexpert-comptable-1115.html)
+17:04:14	Warning: 	Moved Permanently for ecd-sartrouville.fr/?p=1052
+17:04:14	Warning: 	File has moved from ecd-sartrouville.fr/?p=1052 to http://ecd-sartrouville.fr/versailles-11-novembre-ateliers-activites-du-module-de-citoyennete-1052.html
+17:04:14	Warning: 	Retry after error -4 (Incorrect length (656617 Bytes, 883534 expected)) at link ecd-sartrouville.fr/wp-content/uploads/2018/05/20180501_2004481936137003.png (from ecd-sartrouville.fr/versailles-11-novembre-ateliers-activites-du-module-de-citoyennete-1052.html)
+17:04:16	Warning: 	Retry after error -4 (Connect Error) at link www.facebook.com/sharer.php?s=100&p%5Burl%5D=http://ecd-sartrouville.fr/versailles-11-novembre-ateliers-activites-du-module-de-citoyennete-1052.html&p%5Btitle%5D=Versailles%2C+11+Novembre%2C+ateliers...+Activit%C3%A9s+du+Module+de+Citoyennet%C3%A9&p%5Bimages%5D%5B0%5D=http://ecd-sartrouville.fr/wp-content/uploads/2018/05/Screenshot_20180501-201043.jpg (from ecd-sartrouville.fr/versailles-11-novembre-ateliers-activites-du-module-de-citoyennete-1052.html)
+17:04:16	Warning: 	Moved Permanently for ecd-sartrouville.fr/?p=1048
+17:04:16	Warning: 	File has moved from ecd-sartrouville.fr/?p=1048 to http://ecd-sartrouville.fr/les-jeunes-decd-sartrouville-participent-au-plus-grand-quiz-de-france-au-chateau-de-versailles-1048.html
+17:04:16	Warning: 	Retry after error -4 (Connect Error) at link www.facebook.com/sharer.php?s=100&p%5Burl%5D=http://ecd-sartrouville.fr/les-jeunes-decd-sartrouville-participent-au-plus-grand-quiz-de-france-au-chateau-de-versailles-1048.html&p%5Btitle%5D=Les+jeunes+d%E2%80%99Ecd+Sartrouville+participent+au+%E2%80%9CPlus+grand+QUIZ+de+France+au+Ch%C3%A2teau+de+Versailles%E2%80%9D&p%5Bimages%5D%5B0%5D=http://ecd-sartrouville.fr/wp-content/uploads/2017/11/Quiz-Histoire.jpg (from ecd-sartrouville.fr/les-jeunes-decd-sartrouville-participent-au-plus-grand-quiz-de-france-au-chateau-de-versailles-1048.html)
+17:04:17	Warning: 	Moved Permanently for ecd-sartrouville.fr/?p=1023
+17:04:17	Warning: 	File has moved from ecd-sartrouville.fr/?p=1023 to http://ecd-sartrouville.fr/ecd-remporte-lappel-a-projet-de-la-fondation-edf-et-un-soutien-financier-de-10-000-euros-1023.html
+17:04:19	Warning: 	Retry after error -4 (Connect Error) at link www.facebook.com/sharer.php?s=100&p%5Burl%5D=http://ecd-sartrouville.fr/ecd-remporte-lappel-a-projet-de-la-fondation-edf-et-un-soutien-financier-de-10-000-euros-1023.html&p%5Btitle%5D=ECD+remporte+l%27appel+%C3%A0+projet+de+la+Fondation+EDF+et+un+soutien+financier+de+10+000+euros&p%5Bimages%5D%5B0%5D=http://ecd-sartrouville.fr/wp-content/uploads/2017/07/ECD_Sartrouville_FONDATION_EDF.jpg (from ecd-sartrouville.fr/ecd-remporte-lappel-a-projet-de-la-fondation-edf-et-un-soutien-financier-de-10-000-euros-1023.html)
+17:04:19	Warning: 	Moved Permanently for ecd-sartrouville.fr/category/a-la-une/
+17:04:19	Warning: 	File has moved from ecd-sartrouville.fr/category/a-la-une/ to http://ecd-sartrouville.fr/category/a-la-une
+17:04:20	Warning: 	Moved Permanently for ecd-sartrouville.fr/?p=807
+17:04:20	Warning: 	File has moved from ecd-sartrouville.fr/?p=807 to http://ecd-sartrouville.fr/les-enfants-decd-commemorent-le-8-mai-45-interview-du-maire-de-sartrouville-pierre-fond-807.html
+17:04:20	Warning: 	Retry after error -4 (Incorrect length (534187 Bytes, 629051 expected)) at link ecd-sartrouville.fr/wp-content/uploads/2017/05/8Mai1945_ECD_Sartrouville3.jpg (from ecd-sartrouville.fr/les-enfants-decd-commemorent-le-8-mai-45-interview-du-maire-de-sartrouville-pierre-fond-807.html)
+17:04:26	Warning: 	Retry after error -4 (Connect Error) at link www.facebook.com/sharer.php?s=100&p%5Burl%5D=http://ecd-sartrouville.fr/les-enfants-decd-commemorent-le-8-mai-45-interview-du-maire-de-sartrouville-pierre-fond-807.html&p%5Btitle%5D=Les+enfants+d%E2%80%99ECD+comm%C3%A9morent+le+8+Mai+45+%3A+interview+du+maire+de+Sartrouville+Pierre+Fond&p%5Bimages%5D%5B0%5D=http://ecd-sartrouville.fr/wp-content/uploads/2017/05/8Mai1945_ECD_Sartrouville1.jpg (from ecd-sartrouville.fr/les-enfants-decd-commemorent-le-8-mai-45-interview-du-maire-de-sartrouville-pierre-fond-807.html)
+17:04:26	Warning: 	Moved Permanently for ecd-sartrouville.fr/?p=770
+17:04:26	Warning: 	File has moved from ecd-sartrouville.fr/?p=770 to http://ecd-sartrouville.fr/planning-vacances-davril-2017-remise-a-niveau-revisions-ateliers-770.html
+17:04:28	Warning: 	Retry after error -4 (Connect Error) at link www.facebook.com/sharer.php?s=100&p%5Burl%5D=http://ecd-sartrouville.fr/planning-vacances-davril-2017-remise-a-niveau-revisions-ateliers-770.html&p%5Btitle%5D=Planning+Vacances+d%27avril+2017+%3A+Remise+%C3%A0+niveau%2C+r%C3%A9visions+%26+ateliers&p%5Bimages%5D%5B0%5D=http://ecd-sartrouville.fr/wp-content/uploads/2017/03/ecd_sartouville_cours_histoire.jpg (from ecd-sartrouville.fr/planning-vacances-davril-2017-remise-a-niveau-revisions-ateliers-770.html)
+17:04:28	Warning: 	Moved Permanently for ecd-sartrouville.fr/?p=759
+17:04:28	Warning: 	File has moved from ecd-sartrouville.fr/?p=759 to http://ecd-sartrouville.fr/yassir-hammoud-presente-les-filieres-dexcellence-a-nos-jeunes-759.html
+17:06:25	Warning: 	Retry after error -4 (Connect Error) at link www.facebook.com/sharer.php?s=100&p%5Burl%5D=http://ecd-sartrouville.fr/yassir-hammoud-presente-les-filieres-dexcellence-a-nos-jeunes-759.html&p%5Btitle%5D=Yassir+Hammoud+pr%C3%A9sente+les+fili%C3%A8res+d%E2%80%99excellence+%C3%A0+nos+jeunes&p%5Bimages%5D%5B0%5D=http://ecd-sartrouville.fr/wp-content/uploads/2017/03/Ecd_sartrouville_Yassir_Hammoud.jpg (from ecd-sartrouville.fr/yassir-hammoud-presente-les-filieres-dexcellence-a-nos-jeunes-759.html)
+17:06:25	Warning: 	Moved Permanently for ecd-sartrouville.fr/?p=750
+17:06:25	Warning: 	File has moved from ecd-sartrouville.fr/?p=750 to http://ecd-sartrouville.fr/culture-les-enfants-decd-participent-a-une-semaine-dateliers-au-theatre-national-de-sartrouville-750.html
+17:06:28	Warning: 	Retry after error -4 (Connect Error) at link www.facebook.com/sharer.php?s=100&p%5Burl%5D=http://ecd-sartrouville.fr/culture-les-enfants-decd-participent-a-une-semaine-dateliers-au-theatre-national-de-sartrouville-750.html&p%5Btitle%5D=CULTURE.+Les+enfants+d%E2%80%99ECD+participent+%C3%A0+une+semaine+d%E2%80%99ateliers+au+Th%C3%A9%C3%A2tre+National+de+Sartrouville&p%5Bimages%5D%5B0%5D=http://ecd-sartrouville.fr/wp-content/uploads/2017/02/ecd_sartrouville_theatre_national_yvelines_2.jpg (from ecd-sartrouville.fr/culture-les-enfants-decd-participent-a-une-semaine-dateliers-au-theatre-national-de-sartrouville-750.html)
+17:06:28	Warning: 	Moved Permanently for ecd-sartrouville.fr/?p=727
+17:06:28	Warning: 	File has moved from ecd-sartrouville.fr/?p=727 to http://ecd-sartrouville.fr/trophees-des-associations-2016-votez-pour-ecd-sartrouville-727.html
+17:06:30	Warning: 	Retry after error -4 (Connect Error) at link www.facebook.com/sharer.php?s=100&p%5Burl%5D=http://ecd-sartrouville.fr/trophees-des-associations-2016-votez-pour-ecd-sartrouville-727.html&p%5Btitle%5D=Troph%C3%A9es+des+associations+2016+%3A+votez+pour+ECD+Sartrouville+%21&p%5Bimages%5D%5B0%5D=http://ecd-sartrouville.fr/wp-content/uploads/2016/10/Capture-d%e2%80%99e%cc%81cran-2016-10-06-a%cc%80-15.34.27.png (from ecd-sartrouville.fr/trophees-des-associations-2016-votez-pour-ecd-sartrouville-727.html)
+17:06:30	Warning: 	Moved Permanently for ecd-sartrouville.fr/?p=659
+17:06:30	Warning: 	File has moved from ecd-sartrouville.fr/?p=659 to http://ecd-sartrouville.fr/theatre-national-de-sartrouville-la-troupe-decd-joue-sa-piece-de-fin-dannee-659.html
+17:06:31	Warning: 	Retry after error -4 (Connect Error) at link www.facebook.com/sharer.php?s=100&p%5Burl%5D=http://ecd-sartrouville.fr/theatre-national-de-sartrouville-la-troupe-decd-joue-sa-piece-de-fin-dannee-659.html&p%5Btitle%5D=Th%C3%A9%C3%A2tre+national+de+Sartrouville+%3A+la+troupe+d%E2%80%99ECD+joue+sa+pi%C3%A8ce+de+fin+d%E2%80%99ann%C3%A9e&p%5Bimages%5D%5B0%5D=http://ecd-sartrouville.fr/wp-content/uploads/2016/06/ecd_sartrouville_the%cc%81a%cc%82tre_national_3.jpg (from ecd-sartrouville.fr/theatre-national-de-sartrouville-la-troupe-decd-joue-sa-piece-de-fin-dannee-659.html)
+17:06:31	Warning: 	Moved Permanently for ecd-sartrouville.fr/?p=639
+17:06:31	Warning: 	File has moved from ecd-sartrouville.fr/?p=639 to http://ecd-sartrouville.fr/commemoration-du-8-mai-45-nos-jeunes-lisent-les-noms-des-soldats-morts-pour-la-france-639.html
+17:06:35	Warning: 	Retry after error -4 (Connect Error) at link www.facebook.com/sharer.php?s=100&p%5Burl%5D=http://ecd-sartrouville.fr/commemoration-du-8-mai-45-nos-jeunes-lisent-les-noms-des-soldats-morts-pour-la-france-639.html&p%5Btitle%5D=Comm%C3%A9moration+du+8+Mai+45+%3A+nos+jeunes+lisent+les+noms+des+soldats+morts+pour+la+France&p%5Bimages%5D%5B0%5D=http://ecd-sartrouville.fr/wp-content/uploads/2016/05/8MAI45_ECD_sartrouville_1.jpg (from ecd-sartrouville.fr/commemoration-du-8-mai-45-nos-jeunes-lisent-les-noms-des-soldats-morts-pour-la-france-639.html)
+17:06:35	Warning: 	Moved Permanently for ecd-sartrouville.fr/?p=746
+17:06:35	Warning: 	File has moved from ecd-sartrouville.fr/?p=746 to http://ecd-sartrouville.fr/khay-ingenieur-initie-nos-eleves-a-la-securite-informatique-746.html
+17:06:35	Warning: 	Retry after error -4 (Connect Error) at link www.facebook.com/sharer.php?s=100&p%5Burl%5D=http://ecd-sartrouville.fr/khay-ingenieur-initie-nos-eleves-a-la-securite-informatique-746.html&p%5Btitle%5D=Khay%2C+ing%C3%A9nieur%2C+initie+nos+%C3%A9l%C3%A8ves+%C3%A0+la+s%C3%A9curit%C3%A9+informatique+&p%5Bimages%5D%5B0%5D=http://ecd-sartrouville.fr/wp-content/uploads/2016/12/ecd_sartrouville_se%cc%81curite%cc%81_informatique.jpg (from ecd-sartrouville.fr/khay-ingenieur-initie-nos-eleves-a-la-securite-informatique-746.html)
+17:06:35	Warning: 	Moved Permanently for ecd-sartrouville.fr/?p=561
+17:06:35	Warning: 	File has moved from ecd-sartrouville.fr/?p=561 to http://ecd-sartrouville.fr/carlos-montes-derdf-eclaire-nos-eleves-sur-les-metiers-de-lelectricite-561.html
+17:06:38	Warning: 	Retry after error -4 (Connect Error) at link www.facebook.com/sharer.php?s=100&p%5Burl%5D=http://ecd-sartrouville.fr/carlos-montes-derdf-eclaire-nos-eleves-sur-les-metiers-de-lelectricite-561.html&p%5Btitle%5D=Carlos+Montes+d%27Enedis+%C3%A9claire+nos+%C3%A9l%C3%A8ves+sur+les+m%C3%A9tiers+de+l%E2%80%99%C3%A9lectricit%C3%A9&p%5Bimages%5D%5B0%5D=http://ecd-sartrouville.fr/wp-content/uploads/2016/03/ERDF_ECD_SARTROUVILLE_CARLOS_MONTES.jpg (from ecd-sartrouville.fr/carlos-montes-derdf-eclaire-nos-eleves-sur-les-metiers-de-lelectricite-561.html)
+17:06:38	Warning: 	Moved Permanently for ecd-sartrouville.fr/?p=537
+17:06:38	Warning: 	File has moved from ecd-sartrouville.fr/?p=537 to http://ecd-sartrouville.fr/progres-et-objectifs-le-bilan-de-la-reunion-parents-profs-decd-sartrouville-537.html
+17:06:43	Warning: 	Retry after error -4 (Connect Error) at link www.facebook.com/sharer.php?s=100&p%5Burl%5D=http://ecd-sartrouville.fr/progres-et-objectifs-le-bilan-de-la-reunion-parents-profs-decd-sartrouville-537.html&p%5Btitle%5D=+Progr%C3%A8s+et+objectifs+%3A+le+bilan+de+la+r%C3%A9union+parents-profs+d%E2%80%99ECD+Sartrouville&p%5Bimages%5D%5B0%5D=http://ecd-sartrouville.fr/wp-content/uploads/2016/01/ecd_sartrouville_reunion_parents_profs_3.jpg (from ecd-sartrouville.fr/progres-et-objectifs-le-bilan-de-la-reunion-parents-profs-decd-sartrouville-537.html)
+17:06:43	Warning: 	Moved Permanently for ecd-sartrouville.fr/?p=43
+17:06:43	Warning: 	File has moved from ecd-sartrouville.fr/?p=43 to http://ecd-sartrouville.fr/une-foule-considerable-se-pressait-ce-11-decembre-2013-pour-linauguration-des-locaux-de-lassociation-ecd-sartrouville-43.html
+17:06:43	Warning: 	Retry after error -4 (Connect Error) at link www.facebook.com/sharer.php?s=100&p%5Burl%5D=http://ecd-sartrouville.fr/une-foule-considerable-se-pressait-ce-11-decembre-2013-pour-linauguration-des-locaux-de-lassociation-ecd-sartrouville-43.html&p%5Btitle%5D=L%E2%80%99inauguration+des+locaux+de+l%E2%80%99association+ECD+Sartrouville&p%5Bimages%5D%5B0%5D=http://ecd-sartrouville.fr/wp-content/uploads/2014/11/inauguration-ECD-2.jpg (from ecd-sartrouville.fr/une-foule-considerable-se-pressait-ce-11-decembre-2013-pour-linauguration-des-locaux-de-lassociation-ecd-sartrouville-43.html)
+17:06:43	Warning: 	Retry after error -4 (Connect Error) at link www.facebook.com/sharer.php?s=100&p%5Burl%5D=http://ecd-sartrouville.fr/bilan-de-progression-2018-reunion-parents-profs-decd-sartrouville-1200.html&p%5Btitle%5D=Bilan+de+Progression+2018+%3A+R%C3%A9union+parents-profs+d%E2%80%99ECD+Sartrouville&p%5Bimages%5D%5B0%5D=http://ecd-sartrouville.fr/wp-content/uploads/2018/06/20180620_1602393252209603272941882.jpg (from ecd-sartrouville.fr/bilan-de-progression-2018-reunion-parents-profs-decd-sartrouville-1200.html)
+17:06:43	Warning: 	Moved Permanently for ecd-sartrouville.fr/author/sarah/
+17:06:43	Warning: 	File has moved from ecd-sartrouville.fr/author/sarah/ to http://ecd-sartrouville.fr/author/sarah
+17:06:43	Error: 	"Connect Error" (-4) after 2 retries at link https://www.facebook.com/robots.txt (from www.facebook.com/sharer.php?s=100&p%5Burl%5D=http://ecd-sartrouville.fr/8mars-visite-du-senat-projection-debat-et-rencontre-la-senatrice-laurence-rossignol-1252.html&p%5Btitle%5D=%238Mars+Visite+du+S%C3%A9nat%2C+projection-d%C3%A9bat+et++rencontre+la+s%C3%A9natrice+Laurence+Rossignol&p%5Bimages%5D%5B0%5D=http://ecd-sartrouville.fr/wp-content/uploads/2019/03/FB_IMG_1553169077043.jpg)
+17:06:43	Warning: 	Retry after error -4 (Connect Error) at link https://www.facebook.com/sharer.php?s=100%26p%5Burl%5D=http%3A%2F%2Fecd-sartrouville.fr%2F8mars-visite-du-senat-projection-debat-et-rencontre-la-senatrice-laurence-rossignol-1252.html%26p%5Btitle%5D=%238Mars+Visite+du+S%C3%A9nat%2C+projection-d%C3%A9bat+et++rencontre+la+s%C3%A9natrice+Laurence+Rossignol%26p%5Bimages%5D%5B0%5D=http%3A%2F%2Fecd-sartrouville.fr%2Fwp-content%2Fuploads%2F2019%2F03%2FFB_IMG_1553169077043.jpg (from www.facebook.com/sharer.php?s=100&p%5Burl%5D=http://ecd-sartrouville.fr/8mars-visite-du-senat-projection-debat-et-rencontre-la-senatrice-laurence-rossignol-1252.html&p%5Btitle%5D=%238Mars+Visite+du+S%C3%A9nat%2C+projection-d%C3%A9bat+et++rencontre+la+s%C3%A9natrice+Laurence+Rossignol&p%5Bimages%5D%5B0%5D=http://ecd-sartrouville.fr/wp-content/uploads/2019/03/FB_IMG_1553169077043.jpg)
+17:06:43	Warning: 	Retry after error -4 (Connect Error) at link https://www.facebook.com/sharer.php?s=100%26p%5Burl%5D=http%3A%2F%2Fecd-sartrouville.fr%2Favec-son-initiative-reussir-son-stage-ecd-sartrouville-mobilise-son-reseau-dentreprises-1258.html%26p%5Btitle%5D=Avec+son+initiative+%E2%80%9CR%C3%A9ussir+son+stage%E2%80%9D%2C+ECD+Sartrouville+mobilise+son+r%C3%A9seau+d%E2%80%99entreprises%26p%5Bimages%5D%5B0%5D=http%3A%2F%2Fecd-sartrouville.fr%2Fwp-content%2Fuploads%2F2019%2F03%2FFB_IMG_1553169711755.jpg (from www.facebook.com/sharer.php?s=100&p%5Burl%5D=http://ecd-sartrouville.fr/avec-son-initiative-reussir-son-stage-ecd-sartrouville-mobilise-son-reseau-dentreprises-1258.html&p%5Btitle%5D=Avec+son+initiative+%E2%80%9CR%C3%A9ussir+son+stage%E2%80%9D%2C+ECD+Sartrouville+mobilise+son+r%C3%A9seau+d%E2%80%99entreprises&p%5Bimages%5D%5B0%5D=http://ecd-sartrouville.fr/wp-content/uploads/2019/03/FB_IMG_1553169711755.jpg)
+17:06:43	Warning: 	Retry after error -4 (Connect Error) at link https://www.facebook.com/sharer.php?s=100%26p%5Burl%5D=http%3A%2F%2Fecd-sartrouville.fr%2Fmeriem-serhane-ingenieure-lecole-est-une-opportunite-pour-tout-le-monde-de-reussir-1240.html%26p%5Btitle%5D=Meriem+Serhane%2C+ing%C3%A9nieure+%3A+%22L%E2%80%99%C3%A9cole+est+une+opportunit%C3%A9+pour+tout+le+monde+de+r%C3%A9ussir%22%26p%5Bimages%5D%5B0%5D=http%3A%2F%2Fecd-sartrouville.fr%2Fwp-content%2Fuploads%2F2019%2F03%2FFB_IMG_1553168626770.jpg (from www.facebook.com/sharer.php?s=100&p%5Burl%5D=http://ecd-sartrouville.fr/meriem-serhane-ingenieure-lecole-est-une-opportunite-pour-tout-le-monde-de-reussir-1240.html&p%5Btitle%5D=Meriem+Serhane%2C+ing%C3%A9nieure+%3A+%22L%E2%80%99%C3%A9cole+est+une+opportunit%C3%A9+pour+tout+le+monde+de+r%C3%A9ussir%22&p%5Bimages%5D%5B0%5D=http://ecd-sartrouville.fr/wp-content/uploads/2019/03/FB_IMG_1553168626770.jpg)
+17:06:44	Warning: 	Retry after error -4 (Connect Error) at link https://www.facebook.com/sharer.php?s=100%26p%5Burl%5D=http%3A%2F%2Fecd-sartrouville.fr%2Fecd-sartrouville-organise-un-forum-des-metiers-en-partenariat-avec-le-groupe-international-tata-communications-1231.html%26p%5Btitle%5D=ECD+Sartrouville+organise+un+Forum+des+m%C3%A9tiers+en+partenariat+avec+le+groupe+international+Tata+Communications%26p%5Bimages%5D%5B0%5D=http%3A%2F%2Fecd-sartrouville.fr%2Fwp-content%2Fuploads%2F2018%2F09%2FIMG_20180926_233152.jpg (from www.facebook.com/sharer.php?s=100&p%5Burl%5D=http://ecd-sartrouville.fr/ecd-sartrouville-organise-un-forum-des-metiers-en-partenariat-avec-le-groupe-international-tata-communications-1231.html&p%5Btitle%5D=ECD+Sartrouville+organise+un+Forum+des+m%C3%A9tiers+en+partenariat+avec+le+groupe+international+Tata+Communications&p%5Bimages%5D%5B0%5D=http://ecd-sartrouville.fr/wp-content/uploads/2018/09/IMG_20180926_233152.jpg)
+17:06:44	Warning: 	Retry after error -4 (Connect Error) at link https://www.facebook.com/sharer.php?s=100%26p%5Burl%5D=http%3A%2F%2Fecd-sartrouville.fr%2Fsortons-du-quartier-decouverte-de-paris-en-peniche-1228.html%26p%5Btitle%5D=%23SORTONS+DU+QUARTIER+%21+D%C3%A9couverte+de+Paris+en+P%C3%A9niche%26p%5Bimages%5D%5B0%5D=http%3A%2F%2Fecd-sartrouville.fr%2Fwp-content%2Fuploads%2F2018%2F09%2FFB_IMG_1535813990396.jpg (from www.facebook.com/sharer.php?s=100&p%5Burl%5D=http://ecd-sartrouville.fr/sortons-du-quartier-decouverte-de-paris-en-peniche-1228.html&p%5Btitle%5D=%23SORTONS+DU+QUARTIER+%21+D%C3%A9couverte+de+Paris+en+P%C3%A9niche&p%5Bimages%5D%5B0%5D=http://ecd-sartrouville.fr/wp-content/uploads/2018/09/FB_IMG_1535813990396.jpg)
+17:06:44	Warning: 	Retry after error -4 (Connect Error) at link https://www.facebook.com/sharer.php?s=100%26p%5Burl%5D=http%3A%2F%2Fecd-sartrouville.fr%2Fbt-bike-ride-plus-de-7-000e-collectes-pour-ecd-sartrouville-22.html%26p%5Btitle%5D=BT+Bike+Ride+%3A+plus+de+7+000%E2%82%AC+collect%C3%A9s+pour+ECD+%21%26p%5Bimages%5D%5B0%5D=http%3A%2F%2Fecd-sartrouville.fr%2Fwp-content%2Fuploads%2F2014%2F11%2FBT-Bike-Ride-photo-d%C3%A9part-%C3%A0-Paris-1-1024x598.jpg (from www.facebook.com/sharer.php?s=100&p%5Burl%5D=http://ecd-sartrouville.fr/bt-bike-ride-plus-de-7-000e-collectes-pour-ecd-sartrouville-22.html&p%5Btitle%5D=BT+Bike+Ride+%3A+plus+de+7+000%E2%82%AC+collect%C3%A9s+pour+ECD+%21&p%5Bimages%5D%5B0%5D=http://ecd-sartrouville.fr/wp-content/uploads/2014/11/BT-Bike-Ride-photo-d%c3%a9part-%c3%a0-Paris-1-1024x598.jpg)
+17:06:44	Warning: 	Retry after error -4 (Connect Error) at link www.facebook.com/sharer.php?s=100&p%5Burl%5D=http://ecd-sartrouville.fr/versailles-11-novembre-ateliers-activites-du-module-de-citoyennete-1052.html&p%5Btitle%5D=Versailles%2C+11+Novembre%2C+ateliers...+Activit%C3%A9s+du+Module+de+Citoyennet%C3%A9&p%5Bimages%5D%5B0%5D=http://ecd-sartrouville.fr/wp-content/uploads/2018/05/Screenshot_20180501-201043.jpg (from ecd-sartrouville.fr/versailles-11-novembre-ateliers-activites-du-module-de-citoyennete-1052.html)
+17:06:44	Warning: 	Retry after error -4 (Connect Error) at link www.facebook.com/sharer.php?s=100&p%5Burl%5D=http://ecd-sartrouville.fr/les-jeunes-decd-sartrouville-participent-au-plus-grand-quiz-de-france-au-chateau-de-versailles-1048.html&p%5Btitle%5D=Les+jeunes+d%E2%80%99Ecd+Sartrouville+participent+au+%E2%80%9CPlus+grand+QUIZ+de+France+au+Ch%C3%A2teau+de+Versailles%E2%80%9D&p%5Bimages%5D%5B0%5D=http://ecd-sartrouville.fr/wp-content/uploads/2017/11/Quiz-Histoire.jpg (from ecd-sartrouville.fr/les-jeunes-decd-sartrouville-participent-au-plus-grand-quiz-de-france-au-chateau-de-versailles-1048.html)
+17:06:44	Warning: 	Retry after error -4 (Connect Error) at link www.facebook.com/sharer.php?s=100&p%5Burl%5D=http://ecd-sartrouville.fr/ecd-remporte-lappel-a-projet-de-la-fondation-edf-et-un-soutien-financier-de-10-000-euros-1023.html&p%5Btitle%5D=ECD+remporte+l%27appel+%C3%A0+projet+de+la+Fondation+EDF+et+un+soutien+financier+de+10+000+euros&p%5Bimages%5D%5B0%5D=http://ecd-sartrouville.fr/wp-content/uploads/2017/07/ECD_Sartrouville_FONDATION_EDF.jpg (from ecd-sartrouville.fr/ecd-remporte-lappel-a-projet-de-la-fondation-edf-et-un-soutien-financier-de-10-000-euros-1023.html)
+17:06:44	Warning: 	Retry after error -4 (Connect Error) at link www.facebook.com/sharer.php?s=100&p%5Burl%5D=http://ecd-sartrouville.fr/les-enfants-decd-commemorent-le-8-mai-45-interview-du-maire-de-sartrouville-pierre-fond-807.html&p%5Btitle%5D=Les+enfants+d%E2%80%99ECD+comm%C3%A9morent+le+8+Mai+45+%3A+interview+du+maire+de+Sartrouville+Pierre+Fond&p%5Bimages%5D%5B0%5D=http://ecd-sartrouville.fr/wp-content/uploads/2017/05/8Mai1945_ECD_Sartrouville1.jpg (from ecd-sartrouville.fr/les-enfants-decd-commemorent-le-8-mai-45-interview-du-maire-de-sartrouville-pierre-fond-807.html)
+17:06:44	Warning: 	Retry after error -4 (Connect Error) at link www.facebook.com/sharer.php?s=100&p%5Burl%5D=http://ecd-sartrouville.fr/planning-vacances-davril-2017-remise-a-niveau-revisions-ateliers-770.html&p%5Btitle%5D=Planning+Vacances+d%27avril+2017+%3A+Remise+%C3%A0+niveau%2C+r%C3%A9visions+%26+ateliers&p%5Bimages%5D%5B0%5D=http://ecd-sartrouville.fr/wp-content/uploads/2017/03/ecd_sartouville_cours_histoire.jpg (from ecd-sartrouville.fr/planning-vacances-davril-2017-remise-a-niveau-revisions-ateliers-770.html)
+17:06:44	Warning: 	Retry after error -4 (Connect Error) at link www.facebook.com/sharer.php?s=100&p%5Burl%5D=http://ecd-sartrouville.fr/yassir-hammoud-presente-les-filieres-dexcellence-a-nos-jeunes-759.html&p%5Btitle%5D=Yassir+Hammoud+pr%C3%A9sente+les+fili%C3%A8res+d%E2%80%99excellence+%C3%A0+nos+jeunes&p%5Bimages%5D%5B0%5D=http://ecd-sartrouville.fr/wp-content/uploads/2017/03/Ecd_sartrouville_Yassir_Hammoud.jpg (from ecd-sartrouville.fr/yassir-hammoud-presente-les-filieres-dexcellence-a-nos-jeunes-759.html)
+17:06:44	Warning: 	Retry after error -4 (Connect Error) at link www.facebook.com/sharer.php?s=100&p%5Burl%5D=http://ecd-sartrouville.fr/culture-les-enfants-decd-participent-a-une-semaine-dateliers-au-theatre-national-de-sartrouville-750.html&p%5Btitle%5D=CULTURE.+Les+enfants+d%E2%80%99ECD+participent+%C3%A0+une+semaine+d%E2%80%99ateliers+au+Th%C3%A9%C3%A2tre+National+de+Sartrouville&p%5Bimages%5D%5B0%5D=http://ecd-sartrouville.fr/wp-content/uploads/2017/02/ecd_sartrouville_theatre_national_yvelines_2.jpg (from ecd-sartrouville.fr/culture-les-enfants-decd-participent-a-une-semaine-dateliers-au-theatre-national-de-sartrouville-750.html)
+17:06:44	Warning: 	Retry after error -4 (Connect Error) at link www.facebook.com/sharer.php?s=100&p%5Burl%5D=http://ecd-sartrouville.fr/trophees-des-associations-2016-votez-pour-ecd-sartrouville-727.html&p%5Btitle%5D=Troph%C3%A9es+des+associations+2016+%3A+votez+pour+ECD+Sartrouville+%21&p%5Bimages%5D%5B0%5D=http://ecd-sartrouville.fr/wp-content/uploads/2016/10/Capture-d%e2%80%99e%cc%81cran-2016-10-06-a%cc%80-15.34.27.png (from ecd-sartrouville.fr/trophees-des-associations-2016-votez-pour-ecd-sartrouville-727.html)
+17:06:44	Warning: 	Retry after error -4 (Connect Error) at link www.facebook.com/sharer.php?s=100&p%5Burl%5D=http://ecd-sartrouville.fr/theatre-national-de-sartrouville-la-troupe-decd-joue-sa-piece-de-fin-dannee-659.html&p%5Btitle%5D=Th%C3%A9%C3%A2tre+national+de+Sartrouville+%3A+la+troupe+d%E2%80%99ECD+joue+sa+pi%C3%A8ce+de+fin+d%E2%80%99ann%C3%A9e&p%5Bimages%5D%5B0%5D=http://ecd-sartrouville.fr/wp-content/uploads/2016/06/ecd_sartrouville_the%cc%81a%cc%82tre_national_3.jpg (from ecd-sartrouville.fr/theatre-national-de-sartrouville-la-troupe-decd-joue-sa-piece-de-fin-dannee-659.html)
+17:06:44	Warning: 	Retry after error -4 (Connect Error) at link www.facebook.com/sharer.php?s=100&p%5Burl%5D=http://ecd-sartrouville.fr/commemoration-du-8-mai-45-nos-jeunes-lisent-les-noms-des-soldats-morts-pour-la-france-639.html&p%5Btitle%5D=Comm%C3%A9moration+du+8+Mai+45+%3A+nos+jeunes+lisent+les+noms+des+soldats+morts+pour+la+France&p%5Bimages%5D%5B0%5D=http://ecd-sartrouville.fr/wp-content/uploads/2016/05/8MAI45_ECD_sartrouville_1.jpg (from ecd-sartrouville.fr/commemoration-du-8-mai-45-nos-jeunes-lisent-les-noms-des-soldats-morts-pour-la-france-639.html)
+17:06:44	Warning: 	Retry after error -4 (Connect Error) at link www.facebook.com/sharer.php?s=100&p%5Burl%5D=http://ecd-sartrouville.fr/khay-ingenieur-initie-nos-eleves-a-la-securite-informatique-746.html&p%5Btitle%5D=Khay%2C+ing%C3%A9nieur%2C+initie+nos+%C3%A9l%C3%A8ves+%C3%A0+la+s%C3%A9curit%C3%A9+informatique+&p%5Bimages%5D%5B0%5D=http://ecd-sartrouville.fr/wp-content/uploads/2016/12/ecd_sartrouville_se%cc%81curite%cc%81_informatique.jpg (from ecd-sartrouville.fr/khay-ingenieur-initie-nos-eleves-a-la-securite-informatique-746.html)
+17:06:44	Warning: 	Retry after error -4 (Connect Error) at link www.facebook.com/sharer.php?s=100&p%5Burl%5D=http://ecd-sartrouville.fr/carlos-montes-derdf-eclaire-nos-eleves-sur-les-metiers-de-lelectricite-561.html&p%5Btitle%5D=Carlos+Montes+d%27Enedis+%C3%A9claire+nos+%C3%A9l%C3%A8ves+sur+les+m%C3%A9tiers+de+l%E2%80%99%C3%A9lectricit%C3%A9&p%5Bimages%5D%5B0%5D=http://ecd-sartrouville.fr/wp-content/uploads/2016/03/ERDF_ECD_SARTROUVILLE_CARLOS_MONTES.jpg (from ecd-sartrouville.fr/carlos-montes-derdf-eclaire-nos-eleves-sur-les-metiers-de-lelectricite-561.html)
+17:06:44	Warning: 	Retry after error -4 (Connect Error) at link www.facebook.com/sharer.php?s=100&p%5Burl%5D=http://ecd-sartrouville.fr/progres-et-objectifs-le-bilan-de-la-reunion-parents-profs-decd-sartrouville-537.html&p%5Btitle%5D=+Progr%C3%A8s+et+objectifs+%3A+le+bilan+de+la+r%C3%A9union+parents-profs+d%E2%80%99ECD+Sartrouville&p%5Bimages%5D%5B0%5D=http://ecd-sartrouville.fr/wp-content/uploads/2016/01/ecd_sartrouville_reunion_parents_profs_3.jpg (from ecd-sartrouville.fr/progres-et-objectifs-le-bilan-de-la-reunion-parents-profs-decd-sartrouville-537.html)
+17:06:44	Warning: 	Retry after error -4 (Connect Error) at link www.facebook.com/sharer.php?s=100&p%5Burl%5D=http://ecd-sartrouville.fr/une-foule-considerable-se-pressait-ce-11-decembre-2013-pour-linauguration-des-locaux-de-lassociation-ecd-sartrouville-43.html&p%5Btitle%5D=L%E2%80%99inauguration+des+locaux+de+l%E2%80%99association+ECD+Sartrouville&p%5Bimages%5D%5B0%5D=http://ecd-sartrouville.fr/wp-content/uploads/2014/11/inauguration-ECD-2.jpg (from ecd-sartrouville.fr/une-foule-considerable-se-pressait-ce-11-decembre-2013-pour-linauguration-des-locaux-de-lassociation-ecd-sartrouville-43.html)
+17:06:44	Error: 	"Connect Error" (-4) after 2 retries at link www.facebook.com/sharer.php?s=100&p%5Burl%5D=http://ecd-sartrouville.fr/bilan-de-progression-2018-reunion-parents-profs-decd-sartrouville-1200.html&p%5Btitle%5D=Bilan+de+Progression+2018+%3A+R%C3%A9union+parents-profs+d%E2%80%99ECD+Sartrouville&p%5Bimages%5D%5B0%5D=http://ecd-sartrouville.fr/wp-content/uploads/2018/06/20180620_1602393252209603272941882.jpg (from ecd-sartrouville.fr/bilan-de-progression-2018-reunion-parents-profs-decd-sartrouville-1200.html)
+17:06:44	Warning: 	Retry after error -4 (Connect Error) at link https://www.facebook.com/sharer.php?s=100%26p%5Burl%5D=http%3A%2F%2Fecd-sartrouville.fr%2F8mars-visite-du-senat-projection-debat-et-rencontre-la-senatrice-laurence-rossignol-1252.html%26p%5Btitle%5D=%238Mars+Visite+du+S%C3%A9nat%2C+projection-d%C3%A9bat+et++rencontre+la+s%C3%A9natrice+Laurence+Rossignol%26p%5Bimages%5D%5B0%5D=http%3A%2F%2Fecd-sartrouville.fr%2Fwp-content%2Fuploads%2F2019%2F03%2FFB_IMG_1553169077043.jpg (from www.facebook.com/sharer.php?s=100&p%5Burl%5D=http://ecd-sartrouville.fr/8mars-visite-du-senat-projection-debat-et-rencontre-la-senatrice-laurence-rossignol-1252.html&p%5Btitle%5D=%238Mars+Visite+du+S%C3%A9nat%2C+projection-d%C3%A9bat+et++rencontre+la+s%C3%A9natrice+Laurence+Rossignol&p%5Bimages%5D%5B0%5D=http://ecd-sartrouville.fr/wp-content/uploads/2019/03/FB_IMG_1553169077043.jpg)
+17:06:44	Warning: 	Retry after error -4 (Connect Error) at link https://www.facebook.com/sharer.php?s=100%26p%5Burl%5D=http%3A%2F%2Fecd-sartrouville.fr%2Favec-son-initiative-reussir-son-stage-ecd-sartrouville-mobilise-son-reseau-dentreprises-1258.html%26p%5Btitle%5D=Avec+son+initiative+%E2%80%9CR%C3%A9ussir+son+stage%E2%80%9D%2C+ECD+Sartrouville+mobilise+son+r%C3%A9seau+d%E2%80%99entreprises%26p%5Bimages%5D%5B0%5D=http%3A%2F%2Fecd-sartrouville.fr%2Fwp-content%2Fuploads%2F2019%2F03%2FFB_IMG_1553169711755.jpg (from www.facebook.com/sharer.php?s=100&p%5Burl%5D=http://ecd-sartrouville.fr/avec-son-initiative-reussir-son-stage-ecd-sartrouville-mobilise-son-reseau-dentreprises-1258.html&p%5Btitle%5D=Avec+son+initiative+%E2%80%9CR%C3%A9ussir+son+stage%E2%80%9D%2C+ECD+Sartrouville+mobilise+son+r%C3%A9seau+d%E2%80%99entreprises&p%5Bimages%5D%5B0%5D=http://ecd-sartrouville.fr/wp-content/uploads/2019/03/FB_IMG_1553169711755.jpg)
+17:06:45	Warning: 	Retry after error -4 (Connect Error) at link https://www.facebook.com/sharer.php?s=100%26p%5Burl%5D=http%3A%2F%2Fecd-sartrouville.fr%2Fmeriem-serhane-ingenieure-lecole-est-une-opportunite-pour-tout-le-monde-de-reussir-1240.html%26p%5Btitle%5D=Meriem+Serhane%2C+ing%C3%A9nieure+%3A+%22L%E2%80%99%C3%A9cole+est+une+opportunit%C3%A9+pour+tout+le+monde+de+r%C3%A9ussir%22%26p%5Bimages%5D%5B0%5D=http%3A%2F%2Fecd-sartrouville.fr%2Fwp-content%2Fuploads%2F2019%2F03%2FFB_IMG_1553168626770.jpg (from www.facebook.com/sharer.php?s=100&p%5Burl%5D=http://ecd-sartrouville.fr/meriem-serhane-ingenieure-lecole-est-une-opportunite-pour-tout-le-monde-de-reussir-1240.html&p%5Btitle%5D=Meriem+Serhane%2C+ing%C3%A9nieure+%3A+%22L%E2%80%99%C3%A9cole+est+une+opportunit%C3%A9+pour+tout+le+monde+de+r%C3%A9ussir%22&p%5Bimages%5D%5B0%5D=http://ecd-sartrouville.fr/wp-content/uploads/2019/03/FB_IMG_1553168626770.jpg)
+17:06:45	Warning: 	Retry after error -4 (Connect Error) at link https://www.facebook.com/sharer.php?s=100%26p%5Burl%5D=http%3A%2F%2Fecd-sartrouville.fr%2Fecd-sartrouville-organise-un-forum-des-metiers-en-partenariat-avec-le-groupe-international-tata-communications-1231.html%26p%5Btitle%5D=ECD+Sartrouville+organise+un+Forum+des+m%C3%A9tiers+en+partenariat+avec+le+groupe+international+Tata+Communications%26p%5Bimages%5D%5B0%5D=http%3A%2F%2Fecd-sartrouville.fr%2Fwp-content%2Fuploads%2F2018%2F09%2FIMG_20180926_233152.jpg (from www.facebook.com/sharer.php?s=100&p%5Burl%5D=http://ecd-sartrouville.fr/ecd-sartrouville-organise-un-forum-des-metiers-en-partenariat-avec-le-groupe-international-tata-communications-1231.html&p%5Btitle%5D=ECD+Sartrouville+organise+un+Forum+des+m%C3%A9tiers+en+partenariat+avec+le+groupe+international+Tata+Communications&p%5Bimages%5D%5B0%5D=http://ecd-sartrouville.fr/wp-content/uploads/2018/09/IMG_20180926_233152.jpg)
+17:06:45	Warning: 	Retry after error -4 (Connect Error) at link https://www.facebook.com/sharer.php?s=100%26p%5Burl%5D=http%3A%2F%2Fecd-sartrouville.fr%2Fsortons-du-quartier-decouverte-de-paris-en-peniche-1228.html%26p%5Btitle%5D=%23SORTONS+DU+QUARTIER+%21+D%C3%A9couverte+de+Paris+en+P%C3%A9niche%26p%5Bimages%5D%5B0%5D=http%3A%2F%2Fecd-sartrouville.fr%2Fwp-content%2Fuploads%2F2018%2F09%2FFB_IMG_1535813990396.jpg (from www.facebook.com/sharer.php?s=100&p%5Burl%5D=http://ecd-sartrouville.fr/sortons-du-quartier-decouverte-de-paris-en-peniche-1228.html&p%5Btitle%5D=%23SORTONS+DU+QUARTIER+%21+D%C3%A9couverte+de+Paris+en+P%C3%A9niche&p%5Bimages%5D%5B0%5D=http://ecd-sartrouville.fr/wp-content/uploads/2018/09/FB_IMG_1535813990396.jpg)
+17:06:45	Warning: 	Retry after error -4 (Connect Error) at link https://www.facebook.com/sharer.php?s=100%26p%5Burl%5D=http%3A%2F%2Fecd-sartrouville.fr%2Fbt-bike-ride-plus-de-7-000e-collectes-pour-ecd-sartrouville-22.html%26p%5Btitle%5D=BT+Bike+Ride+%3A+plus+de+7+000%E2%82%AC+collect%C3%A9s+pour+ECD+%21%26p%5Bimages%5D%5B0%5D=http%3A%2F%2Fecd-sartrouville.fr%2Fwp-content%2Fuploads%2F2014%2F11%2FBT-Bike-Ride-photo-d%C3%A9part-%C3%A0-Paris-1-1024x598.jpg (from www.facebook.com/sharer.php?s=100&p%5Burl%5D=http://ecd-sartrouville.fr/bt-bike-ride-plus-de-7-000e-collectes-pour-ecd-sartrouville-22.html&p%5Btitle%5D=BT+Bike+Ride+%3A+plus+de+7+000%E2%82%AC+collect%C3%A9s+pour+ECD+%21&p%5Bimages%5D%5B0%5D=http://ecd-sartrouville.fr/wp-content/uploads/2014/11/BT-Bike-Ride-photo-d%c3%a9part-%c3%a0-Paris-1-1024x598.jpg)
+17:06:45	Error: 	"Connect Error" (-4) after 2 retries at link www.facebook.com/sharer.php?s=100&p%5Burl%5D=http://ecd-sartrouville.fr/versailles-11-novembre-ateliers-activites-du-module-de-citoyennete-1052.html&p%5Btitle%5D=Versailles%2C+11+Novembre%2C+ateliers...+Activit%C3%A9s+du+Module+de+Citoyennet%C3%A9&p%5Bimages%5D%5B0%5D=http://ecd-sartrouville.fr/wp-content/uploads/2018/05/Screenshot_20180501-201043.jpg (from ecd-sartrouville.fr/versailles-11-novembre-ateliers-activites-du-module-de-citoyennete-1052.html)
+17:06:45	Error: 	"Connect Error" (-4) after 2 retries at link www.facebook.com/sharer.php?s=100&p%5Burl%5D=http://ecd-sartrouville.fr/les-jeunes-decd-sartrouville-participent-au-plus-grand-quiz-de-france-au-chateau-de-versailles-1048.html&p%5Btitle%5D=Les+jeunes+d%E2%80%99Ecd+Sartrouville+participent+au+%E2%80%9CPlus+grand+QUIZ+de+France+au+Ch%C3%A2teau+de+Versailles%E2%80%9D&p%5Bimages%5D%5B0%5D=http://ecd-sartrouville.fr/wp-content/uploads/2017/11/Quiz-Histoire.jpg (from ecd-sartrouville.fr/les-jeunes-decd-sartrouville-participent-au-plus-grand-quiz-de-france-au-chateau-de-versailles-1048.html)
+17:06:45	Error: 	"Connect Error" (-4) after 2 retries at link www.facebook.com/sharer.php?s=100&p%5Burl%5D=http://ecd-sartrouville.fr/ecd-remporte-lappel-a-projet-de-la-fondation-edf-et-un-soutien-financier-de-10-000-euros-1023.html&p%5Btitle%5D=ECD+remporte+l%27appel+%C3%A0+projet+de+la+Fondation+EDF+et+un+soutien+financier+de+10+000+euros&p%5Bimages%5D%5B0%5D=http://ecd-sartrouville.fr/wp-content/uploads/2017/07/ECD_Sartrouville_FONDATION_EDF.jpg (from ecd-sartrouville.fr/ecd-remporte-lappel-a-projet-de-la-fondation-edf-et-un-soutien-financier-de-10-000-euros-1023.html)
+17:06:45	Error: 	"Connect Error" (-4) after 2 retries at link www.facebook.com/sharer.php?s=100&p%5Burl%5D=http://ecd-sartrouville.fr/les-enfants-decd-commemorent-le-8-mai-45-interview-du-maire-de-sartrouville-pierre-fond-807.html&p%5Btitle%5D=Les+enfants+d%E2%80%99ECD+comm%C3%A9morent+le+8+Mai+45+%3A+interview+du+maire+de+Sartrouville+Pierre+Fond&p%5Bimages%5D%5B0%5D=http://ecd-sartrouville.fr/wp-content/uploads/2017/05/8Mai1945_ECD_Sartrouville1.jpg (from ecd-sartrouville.fr/les-enfants-decd-commemorent-le-8-mai-45-interview-du-maire-de-sartrouville-pierre-fond-807.html)
+17:06:45	Error: 	"Connect Error" (-4) after 2 retries at link www.facebook.com/sharer.php?s=100&p%5Burl%5D=http://ecd-sartrouville.fr/planning-vacances-davril-2017-remise-a-niveau-revisions-ateliers-770.html&p%5Btitle%5D=Planning+Vacances+d%27avril+2017+%3A+Remise+%C3%A0+niveau%2C+r%C3%A9visions+%26+ateliers&p%5Bimages%5D%5B0%5D=http://ecd-sartrouville.fr/wp-content/uploads/2017/03/ecd_sartouville_cours_histoire.jpg (from ecd-sartrouville.fr/planning-vacances-davril-2017-remise-a-niveau-revisions-ateliers-770.html)
+17:06:45	Error: 	"Connect Error" (-4) after 2 retries at link www.facebook.com/sharer.php?s=100&p%5Burl%5D=http://ecd-sartrouville.fr/yassir-hammoud-presente-les-filieres-dexcellence-a-nos-jeunes-759.html&p%5Btitle%5D=Yassir+Hammoud+pr%C3%A9sente+les+fili%C3%A8res+d%E2%80%99excellence+%C3%A0+nos+jeunes&p%5Bimages%5D%5B0%5D=http://ecd-sartrouville.fr/wp-content/uploads/2017/03/Ecd_sartrouville_Yassir_Hammoud.jpg (from ecd-sartrouville.fr/yassir-hammoud-presente-les-filieres-dexcellence-a-nos-jeunes-759.html)
+17:06:45	Error: 	"Connect Error" (-4) after 2 retries at link www.facebook.com/sharer.php?s=100&p%5Burl%5D=http://ecd-sartrouville.fr/culture-les-enfants-decd-participent-a-une-semaine-dateliers-au-theatre-national-de-sartrouville-750.html&p%5Btitle%5D=CULTURE.+Les+enfants+d%E2%80%99ECD+participent+%C3%A0+une+semaine+d%E2%80%99ateliers+au+Th%C3%A9%C3%A2tre+National+de+Sartrouville&p%5Bimages%5D%5B0%5D=http://ecd-sartrouville.fr/wp-content/uploads/2017/02/ecd_sartrouville_theatre_national_yvelines_2.jpg (from ecd-sartrouville.fr/culture-les-enfants-decd-participent-a-une-semaine-dateliers-au-theatre-national-de-sartrouville-750.html)
+17:06:45	Error: 	"Connect Error" (-4) after 2 retries at link www.facebook.com/sharer.php?s=100&p%5Burl%5D=http://ecd-sartrouville.fr/trophees-des-associations-2016-votez-pour-ecd-sartrouville-727.html&p%5Btitle%5D=Troph%C3%A9es+des+associations+2016+%3A+votez+pour+ECD+Sartrouville+%21&p%5Bimages%5D%5B0%5D=http://ecd-sartrouville.fr/wp-content/uploads/2016/10/Capture-d%e2%80%99e%cc%81cran-2016-10-06-a%cc%80-15.34.27.png (from ecd-sartrouville.fr/trophees-des-associations-2016-votez-pour-ecd-sartrouville-727.html)
+17:06:45	Error: 	"Connect Error" (-4) after 2 retries at link www.facebook.com/sharer.php?s=100&p%5Burl%5D=http://ecd-sartrouville.fr/theatre-national-de-sartrouville-la-troupe-decd-joue-sa-piece-de-fin-dannee-659.html&p%5Btitle%5D=Th%C3%A9%C3%A2tre+national+de+Sartrouville+%3A+la+troupe+d%E2%80%99ECD+joue+sa+pi%C3%A8ce+de+fin+d%E2%80%99ann%C3%A9e&p%5Bimages%5D%5B0%5D=http://ecd-sartrouville.fr/wp-content/uploads/2016/06/ecd_sartrouville_the%cc%81a%cc%82tre_national_3.jpg (from ecd-sartrouville.fr/theatre-national-de-sartrouville-la-troupe-decd-joue-sa-piece-de-fin-dannee-659.html)
+17:06:45	Error: 	"Connect Error" (-4) after 2 retries at link www.facebook.com/sharer.php?s=100&p%5Burl%5D=http://ecd-sartrouville.fr/commemoration-du-8-mai-45-nos-jeunes-lisent-les-noms-des-soldats-morts-pour-la-france-639.html&p%5Btitle%5D=Comm%C3%A9moration+du+8+Mai+45+%3A+nos+jeunes+lisent+les+noms+des+soldats+morts+pour+la+France&p%5Bimages%5D%5B0%5D=http://ecd-sartrouville.fr/wp-content/uploads/2016/05/8MAI45_ECD_sartrouville_1.jpg (from ecd-sartrouville.fr/commemoration-du-8-mai-45-nos-jeunes-lisent-les-noms-des-soldats-morts-pour-la-france-639.html)
+17:06:45	Error: 	"Connect Error" (-4) after 2 retries at link www.facebook.com/sharer.php?s=100&p%5Burl%5D=http://ecd-sartrouville.fr/khay-ingenieur-initie-nos-eleves-a-la-securite-informatique-746.html&p%5Btitle%5D=Khay%2C+ing%C3%A9nieur%2C+initie+nos+%C3%A9l%C3%A8ves+%C3%A0+la+s%C3%A9curit%C3%A9+informatique+&p%5Bimages%5D%5B0%5D=http://ecd-sartrouville.fr/wp-content/uploads/2016/12/ecd_sartrouville_se%cc%81curite%cc%81_informatique.jpg (from ecd-sartrouville.fr/khay-ingenieur-initie-nos-eleves-a-la-securite-informatique-746.html)
+17:06:45	Error: 	"Connect Error" (-4) after 2 retries at link www.facebook.com/sharer.php?s=100&p%5Burl%5D=http://ecd-sartrouville.fr/carlos-montes-derdf-eclaire-nos-eleves-sur-les-metiers-de-lelectricite-561.html&p%5Btitle%5D=Carlos+Montes+d%27Enedis+%C3%A9claire+nos+%C3%A9l%C3%A8ves+sur+les+m%C3%A9tiers+de+l%E2%80%99%C3%A9lectricit%C3%A9&p%5Bimages%5D%5B0%5D=http://ecd-sartrouville.fr/wp-content/uploads/2016/03/ERDF_ECD_SARTROUVILLE_CARLOS_MONTES.jpg (from ecd-sartrouville.fr/carlos-montes-derdf-eclaire-nos-eleves-sur-les-metiers-de-lelectricite-561.html)
+17:06:45	Error: 	"Connect Error" (-4) after 2 retries at link www.facebook.com/sharer.php?s=100&p%5Burl%5D=http://ecd-sartrouville.fr/progres-et-objectifs-le-bilan-de-la-reunion-parents-profs-decd-sartrouville-537.html&p%5Btitle%5D=+Progr%C3%A8s+et+objectifs+%3A+le+bilan+de+la+r%C3%A9union+parents-profs+d%E2%80%99ECD+Sartrouville&p%5Bimages%5D%5B0%5D=http://ecd-sartrouville.fr/wp-content/uploads/2016/01/ecd_sartrouville_reunion_parents_profs_3.jpg (from ecd-sartrouville.fr/progres-et-objectifs-le-bilan-de-la-reunion-parents-profs-decd-sartrouville-537.html)
+17:06:45	Error: 	"Connect Error" (-4) after 2 retries at link www.facebook.com/sharer.php?s=100&p%5Burl%5D=http://ecd-sartrouville.fr/une-foule-considerable-se-pressait-ce-11-decembre-2013-pour-linauguration-des-locaux-de-lassociation-ecd-sartrouville-43.html&p%5Btitle%5D=L%E2%80%99inauguration+des+locaux+de+l%E2%80%99association+ECD+Sartrouville&p%5Bimages%5D%5B0%5D=http://ecd-sartrouville.fr/wp-content/uploads/2014/11/inauguration-ECD-2.jpg (from ecd-sartrouville.fr/une-foule-considerable-se-pressait-ce-11-decembre-2013-pour-linauguration-des-locaux-de-lassociation-ecd-sartrouville-43.html)
+17:06:45	Error: 	"Connect Error" (-4) after 2 retries at link https://www.facebook.com/sharer.php?s=100%26p%5Burl%5D=http%3A%2F%2Fecd-sartrouville.fr%2F8mars-visite-du-senat-projection-debat-et-rencontre-la-senatrice-laurence-rossignol-1252.html%26p%5Btitle%5D=%238Mars+Visite+du+S%C3%A9nat%2C+projection-d%C3%A9bat+et++rencontre+la+s%C3%A9natrice+Laurence+Rossignol%26p%5Bimages%5D%5B0%5D=http%3A%2F%2Fecd-sartrouville.fr%2Fwp-content%2Fuploads%2F2019%2F03%2FFB_IMG_1553169077043.jpg (from www.facebook.com/sharer.php?s=100&p%5Burl%5D=http://ecd-sartrouville.fr/8mars-visite-du-senat-projection-debat-et-rencontre-la-senatrice-laurence-rossignol-1252.html&p%5Btitle%5D=%238Mars+Visite+du+S%C3%A9nat%2C+projection-d%C3%A9bat+et++rencontre+la+s%C3%A9natrice+Laurence+Rossignol&p%5Bimages%5D%5B0%5D=http://ecd-sartrouville.fr/wp-content/uploads/2019/03/FB_IMG_1553169077043.jpg)
+17:06:45	Error: 	"Connect Error" (-4) after 2 retries at link https://www.facebook.com/sharer.php?s=100%26p%5Burl%5D=http%3A%2F%2Fecd-sartrouville.fr%2Favec-son-initiative-reussir-son-stage-ecd-sartrouville-mobilise-son-reseau-dentreprises-1258.html%26p%5Btitle%5D=Avec+son+initiative+%E2%80%9CR%C3%A9ussir+son+stage%E2%80%9D%2C+ECD+Sartrouville+mobilise+son+r%C3%A9seau+d%E2%80%99entreprises%26p%5Bimages%5D%5B0%5D=http%3A%2F%2Fecd-sartrouville.fr%2Fwp-content%2Fuploads%2F2019%2F03%2FFB_IMG_1553169711755.jpg (from www.facebook.com/sharer.php?s=100&p%5Burl%5D=http://ecd-sartrouville.fr/avec-son-initiative-reussir-son-stage-ecd-sartrouville-mobilise-son-reseau-dentreprises-1258.html&p%5Btitle%5D=Avec+son+initiative+%E2%80%9CR%C3%A9ussir+son+stage%E2%80%9D%2C+ECD+Sartrouville+mobilise+son+r%C3%A9seau+d%E2%80%99entreprises&p%5Bimages%5D%5B0%5D=http://ecd-sartrouville.fr/wp-content/uploads/2019/03/FB_IMG_1553169711755.jpg)
+17:06:45	Error: 	"Connect Error" (-4) after 2 retries at link https://www.facebook.com/sharer.php?s=100%26p%5Burl%5D=http%3A%2F%2Fecd-sartrouville.fr%2Fmeriem-serhane-ingenieure-lecole-est-une-opportunite-pour-tout-le-monde-de-reussir-1240.html%26p%5Btitle%5D=Meriem+Serhane%2C+ing%C3%A9nieure+%3A+%22L%E2%80%99%C3%A9cole+est+une+opportunit%C3%A9+pour+tout+le+monde+de+r%C3%A9ussir%22%26p%5Bimages%5D%5B0%5D=http%3A%2F%2Fecd-sartrouville.fr%2Fwp-content%2Fuploads%2F2019%2F03%2FFB_IMG_1553168626770.jpg (from www.facebook.com/sharer.php?s=100&p%5Burl%5D=http://ecd-sartrouville.fr/meriem-serhane-ingenieure-lecole-est-une-opportunite-pour-tout-le-monde-de-reussir-1240.html&p%5Btitle%5D=Meriem+Serhane%2C+ing%C3%A9nieure+%3A+%22L%E2%80%99%C3%A9cole+est+une+opportunit%C3%A9+pour+tout+le+monde+de+r%C3%A9ussir%22&p%5Bimages%5D%5B0%5D=http://ecd-sartrouville.fr/wp-content/uploads/2019/03/FB_IMG_1553168626770.jpg)
+17:06:45	Error: 	"Connect Error" (-4) after 2 retries at link https://www.facebook.com/sharer.php?s=100%26p%5Burl%5D=http%3A%2F%2Fecd-sartrouville.fr%2Fecd-sartrouville-organise-un-forum-des-metiers-en-partenariat-avec-le-groupe-international-tata-communications-1231.html%26p%5Btitle%5D=ECD+Sartrouville+organise+un+Forum+des+m%C3%A9tiers+en+partenariat+avec+le+groupe+international+Tata+Communications%26p%5Bimages%5D%5B0%5D=http%3A%2F%2Fecd-sartrouville.fr%2Fwp-content%2Fuploads%2F2018%2F09%2FIMG_20180926_233152.jpg (from www.facebook.com/sharer.php?s=100&p%5Burl%5D=http://ecd-sartrouville.fr/ecd-sartrouville-organise-un-forum-des-metiers-en-partenariat-avec-le-groupe-international-tata-communications-1231.html&p%5Btitle%5D=ECD+Sartrouville+organise+un+Forum+des+m%C3%A9tiers+en+partenariat+avec+le+groupe+international+Tata+Communications&p%5Bimages%5D%5B0%5D=http://ecd-sartrouville.fr/wp-content/uploads/2018/09/IMG_20180926_233152.jpg)
+17:06:45	Error: 	"Connect Error" (-4) after 2 retries at link https://www.facebook.com/sharer.php?s=100%26p%5Burl%5D=http%3A%2F%2Fecd-sartrouville.fr%2Fsortons-du-quartier-decouverte-de-paris-en-peniche-1228.html%26p%5Btitle%5D=%23SORTONS+DU+QUARTIER+%21+D%C3%A9couverte+de+Paris+en+P%C3%A9niche%26p%5Bimages%5D%5B0%5D=http%3A%2F%2Fecd-sartrouville.fr%2Fwp-content%2Fuploads%2F2018%2F09%2FFB_IMG_1535813990396.jpg (from www.facebook.com/sharer.php?s=100&p%5Burl%5D=http://ecd-sartrouville.fr/sortons-du-quartier-decouverte-de-paris-en-peniche-1228.html&p%5Btitle%5D=%23SORTONS+DU+QUARTIER+%21+D%C3%A9couverte+de+Paris+en+P%C3%A9niche&p%5Bimages%5D%5B0%5D=http://ecd-sartrouville.fr/wp-content/uploads/2018/09/FB_IMG_1535813990396.jpg)
+17:06:45	Error: 	"Connect Error" (-4) after 2 retries at link https://www.facebook.com/sharer.php?s=100%26p%5Burl%5D=http%3A%2F%2Fecd-sartrouville.fr%2Fbt-bike-ride-plus-de-7-000e-collectes-pour-ecd-sartrouville-22.html%26p%5Btitle%5D=BT+Bike+Ride+%3A+plus+de+7+000%E2%82%AC+collect%C3%A9s+pour+ECD+%21%26p%5Bimages%5D%5B0%5D=http%3A%2F%2Fecd-sartrouville.fr%2Fwp-content%2Fuploads%2F2014%2F11%2FBT-Bike-Ride-photo-d%C3%A9part-%C3%A0-Paris-1-1024x598.jpg (from www.facebook.com/sharer.php?s=100&p%5Burl%5D=http://ecd-sartrouville.fr/bt-bike-ride-plus-de-7-000e-collectes-pour-ecd-sartrouville-22.html&p%5Btitle%5D=BT+Bike+Ride+%3A+plus+de+7+000%E2%82%AC+collect%C3%A9s+pour+ECD+%21&p%5Bimages%5D%5B0%5D=http://ecd-sartrouville.fr/wp-content/uploads/2014/11/BT-Bike-Ride-photo-d%c3%a9part-%c3%a0-Paris-1-1024x598.jpg)
+
+HTTrack Website Copier/3.49-2 mirror complete in 1 hours 50 minutes 33 seconds : 1982 links scanned, 1577 files written (168935651 bytes overall) [158346247 bytes received at 23872 bytes/sec], 16608986 bytes transferred using HTTP compression in 403 files, ratio 29%, 4.4 requests per connection
+(69 errors, 674 warnings, 0 messages)
