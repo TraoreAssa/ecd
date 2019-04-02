@@ -46,7 +46,7 @@ a:active  { text-decoration: underline; }
 	background-image: url(backblue.gif);
 	background-repeat: no-repeat;
 	background-position: top right;
-	background-position: top right;
+
 	
 	}
 
